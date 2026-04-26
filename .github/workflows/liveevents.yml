@@ -34,13 +34,13 @@ jobs:
       run: playwright install chromium --with-deps
 
     - name: Run Scraper Script
-      run: python main.py
+      run: python liveevents.py
 
     - name: Commit and Push Playlist
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add playlist.m3u
+        git add liveevents.m3u
         # The '|| true' prevents the workflow from failing if no changes were made
-        git commit -m "Auto-update playlist.m3u" || true
+        git commit -m "Auto-update liveevents.m3u" || true
         git push
