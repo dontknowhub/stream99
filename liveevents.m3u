@@ -1,13 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Vélez Sarsfield vs Unión Santa Fe (TNT Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3208.png" group-title="Soccer",[Soccer] Vélez Sarsfield vs Unión Santa Fe (TNT Sports)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-tnt-sports/playlist.m3u8?token=88471d5e88502773258f530c79f834318669157a7009276bd6ed34ceca335118.1777333487.5d829b110793adb505b7a9ef27246842.3a3f66452085e0f56b8f2f3927103b0b.794c9e28b71c6abe22000622eebae07e&signature=f3ccdffe8c0321b1509b948a3646616ece7ecc82e49dba24b78a7e60c33c2fc4|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Huracán vs Argentinos Juniors (ESPN Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/7629.png" group-title="Soccer",[Soccer] Huracán vs Argentinos Juniors (ESPN Premium)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+premium&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+premium&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-espn-premium/playlist.m3u8?token=5915da46a9a331ebdeaf4bbff145cc9b4524a55b47c36a185e833284d8e70d53.1777333488.07ffb7341127baf5d4af558246fff736.f2de8bdbd962745372037618caa13584.33dc2d68342e645a96d0f38c4c599792&signature=43f5fa89d265884fce880a038f81849a6ed235b3cb27747941931eb8ddb6ea9f|x-forwarded-for:77.238.79.111
-
