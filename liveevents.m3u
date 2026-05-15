@@ -1,1 +1,19 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Hapoel Tel Aviv vs Hapoel Be'er Sheva (Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5396.png" group-title="Soccer",[Soccer] Hapoel Tel Aviv vs Hapoel Be'er Sheva (Sport 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+4&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+4&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-4/playlist.m3u8?token=3c03698873302f27cb183b7f547f523227ead843f0ec229f1a381deba6d97fe0.1778847261.0deb29e3a6a637af5ca06794b0afc509.d9c1516c6ba7590746aceecbdcc8f30e.d9904526a4fff920b022ad877f3f3d29&signature=1060ceb4441a136cedaf9a50fee5c90c0b75970c55a9004b49bab87c51d4183d|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Hapoel Kfar Saba vs Maccabi Petah Tikva (Sport 5 Stars)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5200.png" group-title="Soccer",[Soccer] Hapoel Kfar Saba vs Maccabi Petah Tikva (Sport 5 Stars)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+stars&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+stars&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5-stars/playlist.m3u8?token=39404a8239b8d7d364bee1333cddffabc94b7cce71e31bb2d2e4028ae86b0522.1778847262.609082f14ff90e066da23de59fe61240.43157fa04b5805da6fa866800bc77e6d.0e80faa98a22581369bca160f808f559&signature=ec97d7f7d41bb80abaaf9a5e96b1df06f27bce0a051f0f30efdab1b15a430d57|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Hapoel Ramat Gan vs Hapoel Kfar Shalem (Sport 5 Live)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Hapoel Ramat Gan vs Hapoel Kfar Shalem (Sport 5 Live)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+live&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+live&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5-live/playlist.m3u8?token=842340a03ec7674ce9ec9e456ffe34079a2dc3d26a9f05edaf021061d0aa1a67.1778847262.f5fac5c6bfa85f5314b8b4440ca3562c.146df286ca2a9f8709936967c671a88b.683ff069f2e7682d709ff214be52c072&signature=4370187cb90ab6612728dd121f7248c5beea4d3f37ba5620359d856e282e1088|x-forwarded-for:77.238.79.111
+
