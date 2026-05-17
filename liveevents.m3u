@@ -1,79 +1,49 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Fluminense vs São Paulo (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1961.png" group-title="Soccer",[Soccer] Fluminense vs São Paulo (Viaplay Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=fa9c4091f84f0ab1b7e5e742213fb9f06b3b68a2d558bd330d967b02426dbe83.1778974367.4fb83aa15b5fbf39afe1b628bd2a62f1.e26133ec8a013ae00fe1f69f3185b439.eb0ed5e0a0ada06f34aa4644498e8815&signature=6eeaad2172d5535070424fa53f04d9f3be26c34f616877cbbca831a784882237|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Fluminense vs São Paulo (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1961.png" group-title="Soccer",[Soccer] Fluminense vs São Paulo (Premier Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=a596d9db1f42382f7e6b92a909e6e9b1aad90d3a7d4a6c46dd89dcfe0c0470f0.1778974368.84a6d0abe95306dc072f1fe91481e4e3.822270e519e8db29520721a434236e7a.69f0c219714a6ba4c136968c8aed809d&signature=8305c56e7a6fbd131a4180022a1493757fc9809cf864bf3dbd7e784227ebf73e|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Fluminense vs São Paulo (Arena 2 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1961.png" group-title="Soccer",[Soccer] Fluminense vs São Paulo (Arena 2 Premium)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-2-premium/playlist.m3u8?token=fb62453109c82b357bb6427f6c71c79dee7910b8f520259757fa2971067e1ac9.1778974368.12d0ef032a35cae2245ed7df488cabee.e577b675c13226c4f4d645b1be9e7514.c3330de11a1bd6ab4585e8a16e751842&signature=f82e57b8b85d65849c5e259b278dbc66b42a49a43275bd19a83c313798f0b6d6|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Fluminense vs São Paulo (Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1961.png" group-title="Soccer",[Soccer] Fluminense vs São Paulo (Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+2&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+2&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-2/playlist.m3u8?token=2f17226e1119a869c238a50b78841a4185a82a8c38016b7c76bd955821e0f085.1778974369.016d99bbd4238a729df7809590f23e62.42c6db3b085ebd72286c3b4cbd766c2e.a636be0f73bc217aae48f00e2c3cb349&signature=f6f45b50179338545f9e39e23328f7e8f4fb39c83db4502e98be11188acf0747|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] River Plate vs Rosario Central (Sport TV 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3211.png" group-title="Soccer",[Soccer] River Plate vs Rosario Central (Sport TV 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+4&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+4&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-4/playlist.m3u8?token=c9ffb1b5c1000b195445d0b6737b33d15d32aab628c379c0e4f2fa29b89e46e1.1778974369.739f476d4d78e7b725b62270d01a0b05.ebedd547c3c91ab421172ce4508853c7.9a22c9078f86f4ed02974d73e4b2717b&signature=d6ad1c8968d2201d81593cee3ab704a14b310304be2bf353a8cc9b9e3cf39388|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] River Plate vs Rosario Central (ESPN Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3211.png" group-title="Soccer",[Soccer] River Plate vs Rosario Central (ESPN Premium)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+premium&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+premium&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-espn-premium/playlist.m3u8?token=865a63b6ffee7ba8e35db63db7ec627df876e78ef7d9cb5475158416eb660fd0.1778974370.715463fb6247322d6b4ed3c2af22f720.562b9d01155189c7af099e9fb583d6bc.ddcfc245e6baec2de71729f29ba9d024&signature=0c127f25197574f23996ee2351cacff29e7a83a67eb2ae077c1e10c87273130b|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] River Plate vs Rosario Central (TNT Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3211.png" group-title="Soccer",[Soccer] River Plate vs Rosario Central (TNT Sports)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-tnt-sports/playlist.m3u8?token=cc6e9223695c7f149961aab4ec8b903facde16a1762e530a1da2649f69ea31de.1778974370.cd637cd2adad9addb8a252c0d8ccfb66.692800711ec0f8927e2417939876c764.2d7aec1eb4fd043b89c0cdcf0a553e48&signature=54dc694c72f2f476711223e4c002be61a56b4f63ab27a6656e4ecdf7af2e085c|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Deportes Limache vs Universidad Católica (TNT Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/331131.png" group-title="Soccer",[Soccer] Deportes Limache vs Universidad Católica (TNT Sports)
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Deportes Limache vs Universidad Católica (TNT Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/331131.png" group-title="Soccer",[Soccer] Deportes Limache vs Universidad Católica (TNT Sports)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=cl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=cl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/cl-tnt-sports/playlist.m3u8?token=5235a4bfd6947a4c78f193486fabcc9e8f7c39c0fd9f559155733e598f238c48.1778974370.7b37e20b0c5c71c874ff395999abb487.42162cc16e7eab850b7d571245deb3c6.cfa64588da74be94a6676dd783b0ed11&signature=fc7927a8f79b7600211ec1e7d6a1d85e49c2857bcf4e613eddf2dfd096cd1f6f|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/cl-tnt-sports/playlist.m3u8?token=94a30e122ef9000446423ce84bfb7f24019aa463fe4787babddde8e74f964d86.1778981321.a4a55792c487c480cd9e998d5fe72c40.49db2aa415040b4258fadb8c63d514bb.3f91ac6596f492b9d1988235c7022c8c&signature=92dcbef57e5281ab1c18a0f35d8eb0e4aaec56948c388033e636534c070e63ce|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Palmeiras vs Cruzeiro (SportDigital Fussball)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1963.png" group-title="Soccer",[Soccer] Palmeiras vs Cruzeiro (SportDigital Fussball)
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Palmeiras vs Cruzeiro (SportDigital Fussball)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1963.png" group-title="Soccer",[Soccer] Palmeiras vs Cruzeiro (SportDigital Fussball)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/de-sportdigital-fussball/playlist.m3u8?token=e053816dc45dec4895835e1dc41df0cd6b44afd5f6d9135e2bab1e0b62e64457.1778974371.e23839098ae30a0f4eb75e0c0eae9ea6.3a4cca95fa71646764a19685f3d4768f.fb2a1bf965ce6fadf8aba305fa9e1124&signature=97f4f77301c8b4456132acf3f30965d8929e09d63c9853655a3d53193393cdcf|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/de-sportdigital-fussball/playlist.m3u8?token=4a9cc9a87aa30527a5a66d81b04bdc85c13b2ee14f5f8d7fe0b3a97dbfa47e75.1778981322.d7b910bfc74a4df75c18221bd2fb73a2.f304e24d85bdb599b4552b423d584e30.993a7c95a92b1dbc645b0e43ee3d89f0&signature=067edb1979a4635b3007dd84c30a471c9871869a89e1927ae69ad69a131c953b|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Palmeiras vs Cruzeiro (Canal 11)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1963.png" group-title="Soccer",[Soccer] Palmeiras vs Cruzeiro (Canal 11)
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Palmeiras vs Cruzeiro (Canal 11)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1963.png" group-title="Soccer",[Soccer] Palmeiras vs Cruzeiro (Canal 11)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+11&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+11&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-canal-11/playlist.m3u8?token=888901005c9ea85da545996b88791a46f70c8d6630870c44a49297c84bc08d14.1778974371.02503346045c0dd02568b8af20096f10.a8402ab1e86e44b70b7106a7ccce915d.2f2b6ebea8ab4014149a7e405f540247&signature=b4937630940eb4d741d940ff48981ab8a7e5559cb6c7281ad363df224d742acc|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/pt-canal-11/playlist.m3u8?token=d1f52cdb58acd8e31f350d803ff705d08ed77ea906a8e5fb1cfbb7cdf561db13.1778981322.c7d0952f9a42d50985daac05c9d619ce.168ba280323ef32f68b0f2aeba0477ad.0e7049c116449fd06fbd0f78fc0294e6&signature=5babbca770f1e2cda91905ef77a67fdd2d87a7ab1d095956846fddf211fd1d09|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Palmeiras vs Cruzeiro (Match Football 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1963.png" group-title="Soccer",[Soccer] Palmeiras vs Cruzeiro (Match Football 3)
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Palmeiras vs Cruzeiro (Match Football 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1963.png" group-title="Soccer",[Soccer] Palmeiras vs Cruzeiro (Match Football 3)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ru-match-football-3/playlist.m3u8?token=6eff541684dbb75a14ea14b966e85a3d8fe522cb6b0fca92e2f57d5377e67c6a.1778974372.a1c326be5aaaf1a685a5b1b59a3ded92.f0545b7add692963f96f4a018313a3a8.e4a0cc921eccb0e1e331b4a5ddd4bd8e&signature=3ca57e14177b7d1a13cb0be578710a4037254cfbb68f9d0c8892905b59609c64|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ru-match-football-3/playlist.m3u8?token=cce799b2ea9ca99e97207fc23bac146e0f6fc3cd489c7e6e6b878d5990db61d6.1778981323.bd22c1f5f73326296e225866aec7e00f.3b041026e4e48d829617f3df35b28cac.d60462977d8b6d3d0d23e4619aebf0c7&signature=32647c57d369596e39ca5ae68af251f5eca8ffbeb3b15f21ef7b4dcb39726a2f|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Palmeiras vs Cruzeiro (Arena 2 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1963.png" group-title="Soccer",[Soccer] Palmeiras vs Cruzeiro (Arena 2 Premium)
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Palmeiras vs Cruzeiro (Arena 2 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1963.png" group-title="Soccer",[Soccer] Palmeiras vs Cruzeiro (Arena 2 Premium)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-2-premium/playlist.m3u8?token=4ebe1d708caf7453567cf138159f2b1f1746fb033e6be99a22eed72790dffcf3.1778974372.12501f0cc07fc6a831590663c420c745.b7d1fd626b68d3d956980c02fdb54c83.7109f765863b4f7dcaddce33378b0b8f&signature=c9dd63f9577540d5c517d39f732daba3f682d17cac652917f82910ccf05fcec7|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-2-premium/playlist.m3u8?token=aef9b6149a9c00a29be78a0e664f5221c945da6e34d28a6a7bd3d09713c3915e.1778981323.c1a258492cd0d67533506a7d76b817bd.42c0838c0f1c4dbb87598f93261ad666.3c2598bad9406acd6f5873043c1ec18b&signature=187c89c48ba13f9ae954bff6aed570f1ef6d1616b380a27e06d0dff65f89065b|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Palmeiras vs Cruzeiro (SporTV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1963.png" group-title="Soccer",[Soccer] Palmeiras vs Cruzeiro (SporTV 1)
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Palmeiras vs Cruzeiro (SporTV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1963.png" group-title="Soccer",[Soccer] Palmeiras vs Cruzeiro (SporTV 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/br-sportv-1/playlist.m3u8?token=f43a5a30df5460cc798508d12c1bcf8b5add1eae6dcb9fb1cc62b6297d0a3b89.1778974373.450cdf809186f856faa7248a27a9194f.05271d71af493a419e8960d4635036af.c63bc8ff8447fce68918b21879ecb34b&signature=8d102a13c9022aa807dda65a0abee69a331b3d7443841a03267fca9529a1aa23|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/br-sportv-1/playlist.m3u8?token=f861402bfce12bd04215965b595fa735252b7a1177e988e86ed288b0fc483498.1778981324.bf1195936cc8f0f5c0d60f4e6ba01c68.45ac76f10bd5ca61961e2767a1714897.72828c126beda73a50ddbefc76878df3&signature=f025ce059ec2ec57b4a31b1d4138a89e0126ff950e49bed1edccad8e88fc9c6e|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Guadalajara vs Cruz Azul (NBC)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/264823.png" group-title="Soccer",[Soccer] Guadalajara vs Cruz Azul (NBC)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nbc&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nbc&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-nbc/playlist.m3u8?token=bbce1f31cfef97e82f9089e9bf5cea487bae60125e7d7b8342e933b24b5a18b2.1778981324.dde60d334d4c7acf8dc232bbace099d9.39b6ebbdf0c0aff80eedb48692c4cb00.8c708a45509e6716c24797f0d04b6cb0&signature=ce1c7ddddcca2c3da2dc0f4b3ff89e2de1c73e037ac14f149a5ded61120c5643|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Guadalajara vs Cruz Azul (Telemundo)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/264823.png" group-title="Soccer",[Soccer] Guadalajara vs Cruz Azul (Telemundo)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=telemundo&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=telemundo&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-telemundo/playlist.m3u8?token=78a69098e6c6f956377ba6bfc9129cc3366f250df22e8ada90603c26f73a8c86.1778981325.78bb51498477e13f692f0ed21b813eeb.499ff4d01adb7a9ae930ff5387c25b42.324fbc82a6dbd2cbd12c44b494a1ae9c&signature=4495c242b729046f567dfdbcceba467aa9d88b757b2e03ecebe5733f0d32d2af|x-forwarded-for:77.238.79.111
 
