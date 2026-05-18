@@ -1,43 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Athletico-PR vs Flamengo (M Liga de Campeones 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1967.png" group-title="Soccer",[Soccer] Athletico-PR vs Flamengo (M Liga de Campeones 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/es-m-liga-de-campeones-1/playlist.m3u8?token=d67a1332a348be2b4420a58c82a458d777f4734bdc1b69bbd3afff774e2a301a.1779060955.995e97727e75dcfc3b1a858856b9e800.686c410885e0f114661ad2073e786a82.415437627e5ce5368afcbe9d400314ea&signature=c3957f8eee55a2e295db35a971d655083aa7c216354894d7a84f73090be44bc2|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Athletico-PR vs Flamengo (SportDigital Fussball)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1967.png" group-title="Soccer",[Soccer] Athletico-PR vs Flamengo (SportDigital Fussball)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/de-sportdigital-fussball/playlist.m3u8?token=f9e47e23a4c31df9bd3e3c21b4b8187877bb84c6f8069104958233aba782aea2.1779060956.892f52d947d1c69943f80096458086dd.4c95fc28882b60415a020e456fb2ceca.1361e0900a55938d3a8726a0e357e25f&signature=de582d0d9dcf97016d5a828dea101aefe3937525ae89e271712f46ffd30fef1e|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Athletico-PR vs Flamengo (Canal 11)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1967.png" group-title="Soccer",[Soccer] Athletico-PR vs Flamengo (Canal 11)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+11&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+11&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-canal-11/playlist.m3u8?token=790c0e9cb8d9877ae572f6e4b91a29681c658115247e65ae2656bd4291f39ee1.1779060957.761252137544145063d61fda7f46a3da.4bf9f1fdd335b6f789436b83e81c59a7.755388454b2a18d2f7feb1796bae1646&signature=2fc2cdecaae3923c059a2af62e835521fddc4ecdac71ea886422278a389f9d28|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Athletico-PR vs Flamengo (Match Football 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1967.png" group-title="Soccer",[Soccer] Athletico-PR vs Flamengo (Match Football 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ru-match-football-3/playlist.m3u8?token=85ef41b34c0ef2f7e1913d6840e1b3e1d54c89725d836b8734a533ca12f7597c.1779060958.cad297c6d011fa0f71a43e7d2150f1a0.a012bbf24a2b7fdda28043f3f4646d79.c4d648d4de3db58a6a0cfa8b0c70bf36&signature=f826f3333fbda61b2ca9291a558d2586534a616ac4c079e94cb02be0a20c8c45|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Athletico-PR vs Flamengo (Arena 1 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1967.png" group-title="Soccer",[Soccer] Athletico-PR vs Flamengo (Arena 1 Premium)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-1-premium/playlist.m3u8?token=a9edf061c67a8004c41e0cfde20a4d8242f0a3b6fb5ab045ddf6aacc327cd359.1779060959.d284fdc7ec14d6b2ee384c7d74123e5d.30358a318bb212d069f1b03a88b4ad53.0052ef6b06175e56e1fa8fbacb83c5c3&signature=78b648675e7c94aa5818709bd70b590046ba35efb30624bb693ef9501fdcb81a|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Athletico-PR vs Flamengo (SporTV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1967.png" group-title="Soccer",[Soccer] Athletico-PR vs Flamengo (SporTV 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/br-sportv-1/playlist.m3u8?token=61472cc97ea89315cdf363fc6bbfeb051f82dcbbc5fe3be7214ff3c61a7db3f4.1779060960.f1d6d911805bb7d03e625cc16b6040e9.3348dadad9d48bcaa60697db34cd6455.f8aaf688c5df1869f3f8edf6a613789f&signature=38f96eb36329d4b404c2e6c80ebea5c9aaaaf1af3435843cad4548f65d0756e1|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Deportes Concepción vs Everton (TNT Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Deportes Concepción vs Everton (TNT Sports)
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Deportes Concepción vs Everton (TNT Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Deportes Concepción vs Everton (TNT Sports)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=cl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=cl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/cl-tnt-sports/playlist.m3u8?token=a869c4e8db85d01d3f12a6ec75089f3c819ba98ecf33663edbc20b390dac466e.1779060961.8a180e3f0f4d81c541dfe2049b4cce87.e2587662ca835e7ef366056b61e0f08f.16c7f24d17d6e76ceb155ce7fac1a377&signature=ee187728b67aeb6407d645fc61b3d0ad0c5ccf76e354ebdc521473e7a4442034|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/cl-tnt-sports/playlist.m3u8?token=1ce2381e8457d2211dc3ed1531e0eecd54f966c569dd3fe5b70146829cb03dd1.1779067908.5aa4da5d5c81a03055556a0db26f2d80.b628e3aa7e629074a789b8fd6a0eb084.16f6593d1913993a1a48ba6e32ca7c92&signature=d30f8513eaf3ffe3536067041d9d4bf7967f4628dd3abf6601ae3de3fefcdd21|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Pumas UNAM vs Pachuca (TUDN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/261000.png" group-title="Soccer",[Soccer] Pumas UNAM vs Pachuca (TUDN)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-tudn/playlist.m3u8?token=9e5365034325f872b32afe8fc502f9543318bb0c6f9d1a60b15a4c72b89c684f.1779067910.5daae9d84dc931d61e143dd4c9af17bb.f53ac6e67ef2e844ea7a524e09f86c9d.19a6845d9676c207b824f23c8405b1ba&signature=d62c86356b1dce0fb14f79bb2bac788861224f2e37514e3e804d347ffdec5d29|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Pumas UNAM vs Pachuca (Univision)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/261000.png" group-title="Soccer",[Soccer] Pumas UNAM vs Pachuca (Univision)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=univision&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=univision&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-univision/playlist.m3u8?token=37a6a348c90a880f3e2ef8f774d0cde4c317d9199b8ce1a7feedc26d0f3af57d.1779067910.e579d252157fb19df790bf87cefc2fab.2f03c4b1b9c4002a44fce9b7bba142c5.501aa34a4ca0b76981ca99566e73540d&signature=1e16a04fadbb18caf7722f35af27c00e770562be3002655031c6ba05e661e6ba|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Pumas UNAM vs Pachuca (TUDN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/261000.png" group-title="Soccer",[Soccer] Pumas UNAM vs Pachuca (TUDN)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=mx&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=mx&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/mx-tudn/playlist.m3u8?token=1098941a670854b7ee84a7b14e6fcb5af0cb75f8631086e39db0e5f9e5e3450c.1779067910.7b0f5ea684d30c0d4f381ba84f487cfe.753f8568919e33c369fe051ac5eb9d2a.c9e19c4128a6e21e43bf1498b19b0bd2&signature=52e0fd6ade4490ba96b98be8acdace77340dab8b0db2d9fd165d774e0b375af0|x-forwarded-for:77.238.79.111
 
