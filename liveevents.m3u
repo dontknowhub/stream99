@@ -1,127 +1,421 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Hapoel Acre vs Hapoel Hadera (Sport 5 Plus)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/7380.png" group-title="Soccer",[Soccer] Hapoel Acre vs Hapoel Hadera (Sport 5 Plus)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+plus&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+plus&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5-plus/playlist.m3u8?token=b8192d5a92682c96f83f5fdf3e73cf8baab911168591b7b2c4d8e470cc028d56.1779209215.2be487ff75362e3ce89be0553fea5276.0e48a13d3e3e6de18fd5c15ff7286128.b54ed7247193d31b92b7005f43bb2391&signature=fec80ea31fb1a2eaa885f606debfc38f686d39e8d627697b55293eeac09c56d7|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Ried vs Wolfsberger AC (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Ried vs Wolfsberger AC (Sky Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=at&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=at&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/at-sky-sport-1/playlist.m3u8?token=6a102660de1bbbaa8810481a3ba5f629152b8a92aadbd5770face9e46e34dde6.1779209216.43aa36fdf09c99aebad05159450445e8.91038d8fb1e4a7d6a9c00ce59e861dd0.578e82e77de34f52d39446557a8ef776&signature=d979d01bda79d6746e261b5c69ce3939347333d6e5b1f67006ed33847dadab91|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Helsingborg vs Varberg (TV4 Football)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1890.png" group-title="Soccer",[Soccer] Helsingborg vs Varberg (TV4 Football)
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Helsingborg vs Varberg (TV4 Football)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1890.png" group-title="Soccer",[Soccer] Helsingborg vs Varberg (TV4 Football)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+football&code=se&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+football&code=se&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/se-tv4-football/playlist.m3u8?token=8cc3b1361b6ac1b522413248378cf08ab6e80f16114a663025e083c4dd830fc9.1779209216.8c774ae7fdfb6d32a209507fbe2aede5.61e760acdaac21c63fb7a41b6ec6fc98.9e17d74b0f108d4914f60232ad31abab&signature=78594c4e522008185184938362589fc41150d1a8b8780d126cb4c790131e5798|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/se-tv4-football/playlist.m3u8?token=6ff29c93215a81cffd36bf4898a56c5256d2e9b166f4f9a16c42a5b5fb3c1963.1779216928.9f35c1544e0fdb5f3adfe09b6a1bb2fc.0be49b8fdea01154c32d80aef6dc191e.d93478bc95253039328ab6392ca3b1a3&signature=1accb31da7688ad1aaf8feac598cb9b69edcdf46fb74ab4d585b33d429e57f2f|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Hapoel Petah Tikva vs Beitar Jerusalem (Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Hapoel Petah Tikva vs Beitar Jerusalem (Sport 4)
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Hapoel Petah Tikva vs Beitar Jerusalem (Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Hapoel Petah Tikva vs Beitar Jerusalem (Sport 4)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+4&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+4&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-4/playlist.m3u8?token=1c404551450ac851a1fdcc3b07119ebfbb88a0e3a98222c6c8c5add59f93867a.1779209216.4c74ad0c9704838ff5e07c102c04435a.28f8d8537d66753d842b030cf461c1d2.f5a96cf516f55623537ddd97c18c877f&signature=aff1449458bc8e71148f7da771657b37e07550334a8cf073ee712a12b1bc172e|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-4/playlist.m3u8?token=c0c485a0d9e44379c83d6ce3958467bac38031a310747d4fbf45f455de91026f.1779216928.eccb4dff2292e0931af8deea807478d5.627b34a273f7edf0404f5e730131326c.476928ae924abe9b07528d07e7b9a759&signature=7304c8fa0e5a8289e71ee0a3fb9243c03748ded4ca836a485ac26bed89ec697d|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Maccabi Haifa vs Hapoel Tel Aviv (Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5197.png" group-title="Soccer",[Soccer] Maccabi Haifa vs Hapoel Tel Aviv (Sport 3)
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Maccabi Haifa vs Hapoel Tel Aviv (Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5197.png" group-title="Soccer",[Soccer] Maccabi Haifa vs Hapoel Tel Aviv (Sport 3)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+3&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+3&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-3/playlist.m3u8?token=e5ef97faff0db7883b25cad6e7e84bb300f2c84c7c5e85f9f699fd55ab80e56b.1779209217.ffc62c0923610dfe1bdb4d92f677661d.cdf8eeaf94672a380b8492ef80455ea5.935779522ad9bcbdb4ded06be83bb707&signature=c6b01f51ed9c055f732a61e70f773384e74a34a85e880727d16a9e95fb65ec0b|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-3/playlist.m3u8?token=0229220f6557b691502946b09260881ecbd660d061764ac2e39109ad295dd272.1779216929.b97bfc8e710e79102c637b0d4a1d0854.c876936eb718948fac22500fa9c80ee9.8313f0dbe71baab1329160744bd4631e&signature=e57bc27ce6b95de12249cf70e1748663411f03cdb09477c20889d8b80597677a|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Willow Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Monza vs Juve Stabia (FOX Soccer Plus)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2729.png" group-title="Soccer",[Soccer] Monza vs Juve Stabia (FOX Soccer Plus)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+soccer+plus&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+soccer+plus&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=d70aa9abf674acd4bfb8336997b9b7ef2e16e031e8f097d2c1f775ba03964506.1779209217.f9b3213d1c148f98017af08710b76ef3.5fb6342606d11cf914abad39b1114c03.45c23530d60f9a5141b3ba6af44e1ccd&signature=521fdf2bf699842e03bf57f624524ba389696453133d1f9f3eafdd888188e6d7|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-soccer-plus/playlist.m3u8?token=38a2231c05198c0ff6bcd893ee5618157f2e6d948eea046963c7931a92535cf3.1779216929.672e40351ce2a63714191556ceb93824.bd20dc66ef6a626e2c6f3c4d6667fe79.8a37f0be7cea15425c277be2bc2303cd&signature=f1140fd71f06dc7e7f21e45f5bd55cbc013279552a1c4ed95c459a9a67ce4a4e|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Willow 2 Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Monza vs Juve Stabia (Arena Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2729.png" group-title="Soccer",[Soccer] Monza vs Juve Stabia (Arena Sport 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+4&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+4&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=a5515d32a1f0c1249bd1b1581c45c9b42df85ddcd2b9589cb08d163dc7c636d3.1779209217.b03553e4ce769b8cb71aef2b6b5fd757.25a6bfd02bb2baebc845d0ab3492c25e.eae931924f12c73736bf506f465cca0f&signature=e73d4348293effd6fcfffc52f85749ca59e3bf76185b65765c97472092026645|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-sport-4/playlist.m3u8?token=22d901a04b9afaccd2a72b781b0c097ef63aa3a5fa06a623b4faefe6fa292344.1779216930.44a9baa076029faacf531eef91335c89.018698349203b5a8c596e28aa01ec2f8.2e18e6254dcdf72b6bc0f6dffe7edd4c&signature=9e6223554e1f1017210f54ab6f8a16ededfb344e6a1fa8d182161c059530a193|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Fox Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Monza vs Juve Stabia (Viasat Vinter)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2729.png" group-title="Soccer",[Soccer] Monza vs Juve Stabia (Viasat Vinter)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viasat+vinter&code=se&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viasat+vinter&code=se&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=cfb74248e54569bde10c5732fc19542933c7b8e1908989dfee9bcb034f86e1d8.1779209218.bdf5331774e0cc315ba957b7b39aae22.4466c8a90af31239ef57656f89d2b29e.1e067bd6f55b0d33c5c3a7f1d423e806&signature=006ca65e1b803613b3f6b389d218fcff8f2a1cc984839e105bbc47d16646d14a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-nhl-league-pass-9/playlist.m3u8?token=0675d505f868d31a37c1f2441eba60473f59c81587423537559be6140cf0bc41.1779216930.35bfb40eb4b5751c0e52a1f406d485fc.4beccce6cce627082636685f192d13d4.c666febb0bfff9f61c6f9b4dd95c3691&signature=80bb818e0c111fc11d17b00ca0f46b684ff05b3d74e2a984857ea84bb280ef37|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Astro Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Rouen vs Laval (beIN SPORTS 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Rouen vs Laval (beIN SPORTS 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=fr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=fr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=c90f04e2ea5e9f173aef3fa4a788834820eec91a38b95cb02df463243b21be99.1779209218.7e067b9ada8f180ab89fd0cb49a28c2b.fb0697598af563aa26fe30cde1db6973.20af193b006b3c84350f38e93875db05&signature=7b1f15350f22caf68d66316a7c779dc66dbd83cec3f7f9694e3ea27b6f3d78c7|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/fr-bein-sports-1/playlist.m3u8?token=70d4cdbc3690c080888c9ed0d3f9814ffeb95d754f1919bfb7d0879768cf0462.1779216930.2ae0df7aee694e8638556cee35ea9398.6c57662f95a1cd06e704d7705b24c1e8.a64f92d76cb738d7432497ad3aed8bb9&signature=5ab08078ce6eb1135cf2a7e24ac5d8ba1b73b997997cca0653a78fe4b8b574ff|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Sky Sports Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] AFC Bournemouth vs Manchester City (NBC)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/60.png" group-title="Soccer",[Soccer] AFC Bournemouth vs Manchester City (NBC)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nbc&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nbc&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=9afbc2c6e7d25a58760352bbb44d80bcfbef867741253d1b8d589f5fab198b0e.1779209219.67d1963d0ad8c66e8e6e48346dc96267.c0df076daf38fba767ec4ca3e1c051d6.bd2100cc0b6b7dafb9b4bcbe7e6c64fe&signature=cd23ed2c150ec7d2be8d708dda69e2de5594c6814492ae445d362daa1ea74593|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-nbc/playlist.m3u8?token=9bb7017a890668b76efb44d5179e8f4c16d6f16ddb26faf6388eba0c1c777674.1779216931.e5be0257c0c1ee6d284281e5eb29e8d5.e551ba47f00ef96d30019ab29ae2ef41.4e18df40f2affe57e662639546be389c&signature=f8ca846c466b28d2ec84cbcd05e3bdc135ce3571cfa052fedc9cc5a265a3573f|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] AFC Bournemouth vs Manchester City (USA Network)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/60.png" group-title="Soccer",[Soccer] AFC Bournemouth vs Manchester City (USA Network)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=usa+network&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=usa+network&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-usa-network/playlist.m3u8?token=1eb57f5ac07f6b987eef8116f75b42c84d86561d480a454584e498a330d76af5.1779216931.7a59023f25bd463cded523b402dc937d.2d8de7bea4b8c8be37946f2a2d597c4b.d9d1aa3d63f039cd87f7a7e79935a0be&signature=d6660e90d51990d9eff254f78c84be28ded6126e04fd1d46135e29a2bf66bde2|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] AFC Bournemouth vs Manchester City (Astro Premier League 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/60.png" group-title="Soccer",[Soccer] AFC Bournemouth vs Manchester City (Astro Premier League 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+premier+league+2&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+premier+league+2&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-premier-league-2/playlist.m3u8?token=a76e55b3bda6150abfd9854ba7b6b11cfffc506ac9fdd1962dd095eb0562495b.1779216932.0b38dd7c7ae6de6860bab4cfb4b7119e.ec17e6f33c73df79301e264447759308.f679f975fe1728ec039dd1df03b86379&signature=ec609c7d00db3a7dbb4c0499fad3016c315d8d8b486c61e507d574b1a143c269|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] AFC Bournemouth vs Manchester City (beIN SPORTS MENA 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/60.png" group-title="Soccer",[Soccer] AFC Bournemouth vs Manchester City (beIN SPORTS MENA 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-mena-1/playlist.m3u8?token=85bcb6b52ddea442041b0f491f342f8e52d527a807d8a1d7381929074a3d275e.1779216932.43f42af56eebb3968caf9344f462a994.92337e4b74bdc9b053fb74dfbf882077.55d20446c9af94a8b4d8f329ba8436d2&signature=d8ac19aba14db45cd14431599f9a115b40b9d456a07291e30cce4e7234afeacc|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] AFC Bournemouth vs Manchester City (TNT Sports 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/60.png" group-title="Soccer",[Soccer] AFC Bournemouth vs Manchester City (TNT Sports 7)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-7/playlist.m3u8?token=5f1d497ed831ed271d1fbbad2c7c3b75311d3e6b4ddebf6eb27b998ce9af1e38.1779216933.9af0f3f3581a768ce7cf089d189069ac.d78392633f2c42af87ad5e14010500e0.531946d63fd2011b0cb406b92efb5d04&signature=23b7f9d185539732d762abeb87b6eb6cbc9cea4f8564451e870bc5a6353b115e|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] AFC Bournemouth vs Manchester City (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/60.png" group-title="Soccer",[Soccer] AFC Bournemouth vs Manchester City (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=ec88c24cdd4934561e91ef8d265402cc413c5d63fcaa830150d7d28db5c48aa2.1779209219.6f7e40acac8c4944381d1ba244be1c13.61975d553159237d9bc292e4956e3c07.0348733c7da9edddb87aada6a810c09f&signature=4563f6b7a7b0c4d3536ddd28f8b8281615aab6db91bf4e1f397535076feb9500|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=764920fdfa81822e3529a21f7580149f8237c26b3a4654acf342eac66f2a1ceb.1779216933.a2c7d1c1712723e2ca0ad6fbfd6dede4.9fc5c9bcc99ce705d52d832931727346.17822cae37141ad7e62694e223350e65&signature=e1f868a2b82ee5290d97720d07d6cd30c8f3662e08f56a6531d10d6cb1557a0d|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Sky Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] AFC Bournemouth vs Manchester City (Hub Premier 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/60.png" group-title="Soccer",[Soccer] AFC Bournemouth vs Manchester City (Hub Premier 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+1&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+1&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=99c2ece971fadeb98ab6dc696a0804e0b62c895beae928573d0cc0f490d565c0.1779209219.5ed16930f40b71eb1f1deaf115437c7f.93f143eb3d7c6abaa5c3a4039c05f7b1.bd4b0a265d66acd637912d85c3296bb7&signature=9093a315b16cf41df24a58af06de41d0ab2045e52b1b6762d837b315fc7cf503|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-1/playlist.m3u8?token=b4f52476cd298cea2cf63df3bc88b97ecaf0e80e2d63d23b32b16e8bfeae354a.1779216933.f77e4d9aaeda770f88ecf18ef3b08cf0.99184489cc5fc8960980df3ebd2ca250.dda779dfe3ddbdf684bc64e594eaf78a&signature=40caaf372748739699349d61ce7ecb684189a747e8060ac8bf0a540a9186f919|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (SuperSport Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] AFC Bournemouth vs Manchester City (Sky Sport 8)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/60.png" group-title="Soccer",[Soccer] AFC Bournemouth vs Manchester City (Sky Sport 8)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+8&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+8&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=e0a525fe61c3e54d68920a30399c9194b09c29f0b819f0cb06a142c7f589ac99.1779209220.8bfb18be368dfbd3c423355c2936a13b.e31980133d31c4e14e962323cf023239.babf831866799d008576b6d7614b7a7b&signature=0bbdf603f366b95ed01799d00233ebb2e2ba93f8439e89a244d8304d96133e37|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-8/playlist.m3u8?token=8abb79b2a6207bdf71f2bfd9ca686cddcd91b35475f5db9aab3db59a0a2e5c0f.1779216934.0e7f136b5028a5eaf708b58556aabb58.d95c639b098a6f1cc8a3855d53bbea0d.11c3c5701a189a3cbe498a3f33b9159d&signature=de8676f562bdc4e2e840c9d7987868690d8e0823b7a0525b7f29612b1a297f03|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.16" tvg-name="[Soccer] AFC Bournemouth vs Manchester City (Canal Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/60.png" group-title="Soccer",[Soccer] AFC Bournemouth vs Manchester City (Canal Sport 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+3&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+3&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-canal-sport-3/playlist.m3u8?token=afe94f788610053e93a17eda240288f3c01c2aca62887054061f5c5b54440392.1779216934.4acecb31fde127dd407cc5e24e8ddb88.d34e010f96d670fdd8d21173fcca1cb5.80757e478a83e97e7dd1e85ca7219be9&signature=7a4a34fdaf76b30c2c17dcc9bad38c124b31230f4e56655159601f307a5dc1ec|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="17" tvg-id="Soccer.17" tvg-name="[Soccer] AFC Bournemouth vs Manchester City (SuperSport Premier League)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/60.png" group-title="Soccer",[Soccer] AFC Bournemouth vs Manchester City (SuperSport Premier League)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+premier+league&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+premier+league&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-premier-league/playlist.m3u8?token=1ec196c14bebb8cd603a4251f284be653dfa4f2e8da839be0f69696366cfbe4c.1779216935.8222eacc96e02edd356b6022bf962eba.41b56465002edb2ba132cd301355f3ff.c215d123ec3fbd4529d908a1582a746c&signature=6cc061dc324db04a0b56f193779ff8c29400cba31963948b7694f796651fcc31|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="18" tvg-id="Soccer.18" tvg-name="[Soccer] AFC Bournemouth vs Manchester City (SuperSport Grandstand)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/60.png" group-title="Soccer",[Soccer] AFC Bournemouth vs Manchester City (SuperSport Grandstand)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+grandstand&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+grandstand&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-grandstand/playlist.m3u8?token=cd21052e83a27abb2ab3b705e19bd3f9963bc1aad6f683b837440191188bcd3b.1779216935.673435245cb7a58588046947c1b73a6e.f3350830008147b46b74c728bea65026.1362bc09d65efc2ef570d8bd820e437b&signature=c4376f3a7cfdc6713b04041746f949e0c9c4babe584663153e04a19a00bad326|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="19" tvg-id="Soccer.19" tvg-name="[Soccer] AFC Bournemouth vs Manchester City (Canal Foot)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/60.png" group-title="Soccer",[Soccer] AFC Bournemouth vs Manchester City (Canal Foot)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+foot&code=fr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+foot&code=fr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/fr-canal-foot/playlist.m3u8?token=a297392102dc7e27cc0268a5e0a2552911b0e16429615902d9612728451f822f.1779216936.7a91e9f1033033b6ee4adb5a0f577665.ef4171174fa135c6e0b3af398519ff46.49f156b3e8a069743989ceccc0665600&signature=b5a2d089799331e381efc7e959d820ad2a488df5dbde5ee4ab77254aa5512560|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="20" tvg-id="Soccer.20" tvg-name="[Soccer] AFC Bournemouth vs Manchester City (DAZN 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/60.png" group-title="Soccer",[Soccer] AFC Bournemouth vs Manchester City (DAZN 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/es-dazn-1/playlist.m3u8?token=8963a7ad02e6ba790384de594115770364ed0f3340129f91841bea21b8a6a440.1779216936.19c7144b33f8384c8d8e96d54d94b1ba.277653902b38cf5b99ba1ab220a55519.60f294efd720c47fae267298ccff7dd1&signature=28a391e1daba32d0f057999463c772acc6557fc7741fd6d90f346a2cfc940a33|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="21" tvg-id="Soccer.21" tvg-name="[Soccer] AFC Bournemouth vs Manchester City (M Liga de Campeones 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/60.png" group-title="Soccer",[Soccer] AFC Bournemouth vs Manchester City (M Liga de Campeones 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/es-m-liga-de-campeones-1/playlist.m3u8?token=60fa75399cca62a738426c2b6225d39a1117d0be12ee546cfabd8acd2e13b70c.1779216936.e5219c41a0a9a009ef26bc39cf201cf9.768411b23e72bf4e312e9d3e8e20b1b4.9c21feedad6304a04d10ecd8ab51d275&signature=0e3089a8dc8c35df1be6cb8bcfc8a8173070ff2e5f2307715c3cd2598fa03d15|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="22" tvg-id="Soccer.22" tvg-name="[Soccer] AFC Bournemouth vs Manchester City (Sky Sport Uno)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/60.png" group-title="Soccer",[Soccer] AFC Bournemouth vs Manchester City (Sky Sport Uno)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+uno&code=it&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+uno&code=it&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/it-sky-sport-uno/playlist.m3u8?token=ba4484c0d3c41db0634bc8c1789047e2d6953b4db986e8886a7d6a90407599df.1779216937.926455f87b5ab8575b9786f0ea632251.f7f9bd1e5d5c08180883710fa72423fb.c553faaaf08f1ed8833a03f90e261b09&signature=0e6c25e94d4b296b2830b115da7104f495e5e11fb3ab35eaaf421342ff37ad43|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="23" tvg-id="Soccer.23" tvg-name="[Soccer] AFC Bournemouth vs Manchester City (Sky Sport Top Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/60.png" group-title="Soccer",[Soccer] AFC Bournemouth vs Manchester City (Sky Sport Top Event)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+top+event&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+top+event&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/de-sky-sport-top-event/playlist.m3u8?token=9a33a529a7bc63b38a4c0de2247cf3040ac1c846996c14270f075c9a9b317c26.1779216937.f389ce9c74f4715c8f2c4a985a061811.b906ec4aa6d02d9861105955298ff7be.dfe5ca6be8bf75b0278719ee7ee00737&signature=5a0978d7ef6e50035619aaef6b087d3e680de3fe7806a5e0bd42ee315e5d25cb|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="24" tvg-id="Soccer.24" tvg-name="[Soccer] AFC Bournemouth vs Manchester City (DAZN 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/60.png" group-title="Soccer",[Soccer] AFC Bournemouth vs Manchester City (DAZN 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/pt-dazn-1/playlist.m3u8?token=8a481529b4cf4972e964493b905bc477dc6e9e5ac5bbd81ad2b1c5e21d73bb4d.1779216938.a3291f31e4c888806a50d89a0c114259.14f362c2b96771b6183719dd2814a9e5.4aa260a3b0d59988f0e4e27c0bf9df6c&signature=1550ef639ce402698c601218f0e8460a7d9afd0d1c58e89e131a2cd5af744953|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="25" tvg-id="Soccer.25" tvg-name="[Soccer] AFC Bournemouth vs Manchester City (Nova Sports Premier League)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/60.png" group-title="Soccer",[Soccer] AFC Bournemouth vs Manchester City (Nova Sports Premier League)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+premier+league&code=gr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+premier+league&code=gr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gr-nova-sports-premier-league/playlist.m3u8?token=bf91ed2fabee513d4ce23729114a1373987d5e18d84e0bca9db6968cc3611c08.1779216938.36b27984a0ce47ada69d7c1943fb5611.76da3a022f2b11bab67bfcd6e5197d2c.634f8ace72483b7b51ea9b4bce3464e4&signature=b7306bdd17eb2bbb38273bfcb526fc408c7fb879a719f80246f35aa384913fdc|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="26" tvg-id="Soccer.26" tvg-name="[Soccer] AFC Bournemouth vs Manchester City (Diema Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/60.png" group-title="Soccer",[Soccer] AFC Bournemouth vs Manchester City (Diema Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/bg-diema-sport-1/playlist.m3u8?token=8713b6aa4a0cdd7c0684f65d940089f99111503a19f3de12ce13656cc18b7c21.1779216939.3fe7d6aba4eb5a659022ba5d67adf5ff.54a82c9c9ff1244e88165980977876b3.05a4af408768feeec7b55cdaac93ff1e&signature=5aa6b075060781a380bcb9525c54be22ba929e27eff29d928c1ff8c09042d426|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="27" tvg-id="Soccer.27" tvg-name="[Soccer] AFC Bournemouth vs Manchester City (Cytavision Sports 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/60.png" group-title="Soccer",[Soccer] AFC Bournemouth vs Manchester City (Cytavision Sports 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+3&code=cy&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+3&code=cy&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/cy-cytavision-sports-3/playlist.m3u8?token=d93f0a5cda9a0a3d053f3849175b795f22f32dde2da114644577e29cd83d19de.1779216939.f405ad4e8b9ddad753e55c69a62af13d.8dcb54f96e35508fa8664fada54ef633.46dd5fc51554fd18e23bfc57dd557629&signature=1849ebeace9a61b3a68deb12dc6ddfa789608d088193ea104ffd71fd4853bedb|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="28" tvg-id="Soccer.28" tvg-name="[Soccer] AFC Bournemouth vs Manchester City (Arena 1 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/60.png" group-title="Soccer",[Soccer] AFC Bournemouth vs Manchester City (Arena 1 Premium)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-1-premium/playlist.m3u8?token=7ee064ad7053321775be8fe8548c09b4fdd384cd14a31df781a8bc927ee12929.1779216939.78ab0c43f781c04ded14d7b7a192e8ed.e8398342265b70753b934d8ad38de472.5c4a0c285168afce04bbfc25a96d80d0&signature=9e30887392b9062720f9b7dc4c284c95707e2ff710455496e9978e9ff40bf19b|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="29" tvg-id="Soccer.29" tvg-name="[Soccer] AFC Bournemouth vs Manchester City (Arena Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/60.png" group-title="Soccer",[Soccer] AFC Bournemouth vs Manchester City (Arena Sport 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+3&code=hr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+3&code=hr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/hr-arena-sport-3/playlist.m3u8?token=4c1ea9191cd497f6c3685cd9286866db7acab0626642b3992a85713000a51cab.1779216940.c53222d39e3bbabe25ac34ee25b2611e.d80d6929e36b07364e61210f437fd0b5.3a9bfb1607ea987762fb1e93b5d27e88&signature=9d44134ee971f962b57e7790d882ece628c6e86bf1e81c5129fc016f50b3a329|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="30" tvg-id="Soccer.30" tvg-name="[Soccer] AFC Bournemouth vs Manchester City (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/60.png" group-title="Soccer",[Soccer] AFC Bournemouth vs Manchester City (ESPN)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=br&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=br&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/br-espn/playlist.m3u8?token=5db741213e889815605fa5b89201704ce13805fc85b31f2a5beebd1727734c2c.1779216940.66cd56e31b4f5f6b41f3a3fbb3570914.6f879f21d6c10b05fc7c3f0a0737c854.87619221c6e2b7ef45de69f0a427220c&signature=3c6954c7c1f5c0b2032fae343f1795703a82e5a4826eefc47abde780ccca3c28|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="31" tvg-id="Soccer.31" tvg-name="[Soccer] AFC Bournemouth vs Manchester City (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/60.png" group-title="Soccer",[Soccer] AFC Bournemouth vs Manchester City (ESPN)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ar-espn/playlist.m3u8?token=6a955d1de83a3d38a54fcdee5784e87e720559e4492b43d1dfa0c3633a805846.1779216941.8be45bcfaa405e9f183fdea60ac5d6ef.1cc82c2ab4a6b14c8e932bf71997b2af.7e8c60f88e456d7990229f92533c1b29&signature=b4225874078faf70ccaaeb77fd5db57b268698b07ba7b09b91d8a1f48f584e99|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="32" tvg-id="Soccer.32" tvg-name="[Soccer] AFC Bournemouth vs Manchester City (Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/60.png" group-title="Soccer",[Soccer] AFC Bournemouth vs Manchester City (Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+2&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+2&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-2/playlist.m3u8?token=8c9c2180c8f259668b8bfdbad1fc434035033c7737fb64ec09dacd29d4459f89.1779216941.ea5b06b0d4704b6851e6156bcd055e03.d2945bb99f188f679c3b5f8f0f6176cc.37fafa0a5e57fd6b19bce2357adf9cd7&signature=54868f78f0f995a7bc21044a3190656a33c804ac10e89508bde07168cd59263d|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="33" tvg-id="Soccer.33" tvg-name="[Soccer] AFC Bournemouth vs Manchester City (beIN SPORTS 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/60.png" group-title="Soccer",[Soccer] AFC Bournemouth vs Manchester City (beIN SPORTS 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=sa&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=sa&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-1/playlist.m3u8?token=edb70576b37e017808181c86469c650a1eaa5e49d962a0038cf9ef6bf01dea38.1779216941.36b6837e4d8478a9a3fdefd7dd8acf84.7c78bf4e7b2e0b1f61e950f24368a9fb.68912f9991c107eb64789ec726176552&signature=46ef92ef0cad96173b8cd88e19b8c84f5475b7a6d6cbb6e154989199ec8e894b|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="34" tvg-id="Soccer.34" tvg-name="[Soccer] Chelsea vs Tottenham Hotspur (Astro Premier League)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Tottenham Hotspur (Astro Premier League)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+premier+league&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+premier+league&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-premier-league/playlist.m3u8?token=a420c49ea96d10547bb30253e2af6315c852abf8096bc52aedd16d639cb6e363.1779216942.f848504bdac72be720f12c11d1bde62f.54141d8dd165b77d10669b24b44a54a7.0b7d561efaca2f0ac140c940193f7559&signature=caa39f161c6bdebf69c6b7e3504d22792094872101999c11bbe8098cf257cec1|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="35" tvg-id="Soccer.35" tvg-name="[Soccer] Chelsea vs Tottenham Hotspur (Astro Grandstand)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Tottenham Hotspur (Astro Grandstand)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+grandstand&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+grandstand&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-grandstand/playlist.m3u8?token=213e1b0f0e8add1de9345b7690149797b65cbc9b3e13a5ce2f06c1f05e41f78d.1779216942.03635c6a68ae33aee0f3d7e049c94710.1058c4d7b99c27c488cb5848cb15d4d8.86aaa195462be83db211f3ce9620ab4c&signature=c37667a64e1ba922b2a4548dbb98cbd7459fa7512ec5a7f4e6070b0d308f5447|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="36" tvg-id="Soccer.36" tvg-name="[Soccer] Chelsea vs Tottenham Hotspur (Sky Sports Premier League)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Tottenham Hotspur (Sky Sports Premier League)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+premier+league&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+premier+league&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-premier-league/playlist.m3u8?token=608f356bc29e54ddd6f62bcfba5df43ec6f6b81b99b1d31edf7ff12cc632e0cb.1779216943.082a8e3741305e9ecca4396f2209dc16.78cd2869d813bbf98071f75951bf3968.c9b65ce3149aa55c2dc07130b68d1678&signature=b64dba3da0a4984581c1ba032e0081fadb4a3e15ee13dbe217558fbba2017ed2|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="37" tvg-id="Soccer.37" tvg-name="[Soccer] Chelsea vs Tottenham Hotspur (Hub Premier 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Tottenham Hotspur (Hub Premier 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-2/playlist.m3u8?token=9d497953cc22c1734c216c5491bafb1db995d5e2889c5d8e43935f4014b00193.1779216943.9c53957ec780548338a94a2705a521af.7d4ac5eff7546b489aa8167977595222.b195321ed5928a99e8deac0a07c4e687&signature=834beb4a0b4fd0f66eca23e89014bb403ef8128a0e8312cfe6e73aeadb2e3b0b|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="38" tvg-id="Soccer.38" tvg-name="[Soccer] Chelsea vs Tottenham Hotspur (Sky Sport 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Tottenham Hotspur (Sky Sport 7)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+7&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+7&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-7/playlist.m3u8?token=3a83e66f5a1a96dd433a8a167ad6f0051243437a69caf32a9a889123c214b13f.1779216944.d99a31cdac0dd788c2e383cf05ed205d.c17fbcb010682b6e034d4762d5786d5f.31bca87fb6fd094a2c7c20e087332eaf&signature=62e107467138985b1d761786ebb158a59e74d7d5f99a57830a64014c05eb3935|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="39" tvg-id="Soccer.39" tvg-name="[Soccer] Chelsea vs Tottenham Hotspur (SuperSport Maximo 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Tottenham Hotspur (SuperSport Maximo 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+maximo+1&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+maximo+1&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-maximo-1/playlist.m3u8?token=67ffdb295f9486a6f562d99de0cb485663d7a814476f3ff2bd7391e8b45000ae.1779216944.af0a11307a2d1864b9d6fd38e7b1dcb4.11e46a771ef8f7e0aa5dc6e36609540c.1d8c6248e9817b7aa1e6f05d7bc93dfe&signature=e224ec1d545791f2021cf600206a65cae8cb730696a2577872c20c5abec27eb7|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="40" tvg-id="Soccer.40" tvg-name="[Soccer] Chelsea vs Tottenham Hotspur (SuperSport PSL)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Tottenham Hotspur (SuperSport PSL)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+psl&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+psl&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-psl/playlist.m3u8?token=b83a178a0a52bea2b66090646c0f2028bf23a9175a2c3b2658fed8ea28716f80.1779216944.b4c43800b8950a5ae98e5ef830abd701.6e5c4c13b48b4802026afd6419a02a36.8060375ac640bc1e90d1d9f0fa278996&signature=d8de0d9ac074f3091c266f2276cc97d6dc45e8bc3d34e5f23d24ec64c06133f0|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="41" tvg-id="Soccer.41" tvg-name="[Soccer] Chelsea vs Tottenham Hotspur (Canal Sport360)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Tottenham Hotspur (Canal Sport360)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport360&code=fr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport360&code=fr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/fr-canal-sport360/playlist.m3u8?token=f230133bb0981f135fcf4a98774ae37f4c95ca82e843a699c2cb0e6d57daa7fd.1779216945.d6ac0b1a361893226c8b360b8ef5e21f.b2a673aa5df9bf13269be4ab040b58c3.ca926decb4f28f4ea2a940c9c1979d60&signature=bf51a508f4c4b7a8ca9e83d9421a567e85e9df67bae8fd8cba1659cef11d620c|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="42" tvg-id="Soccer.42" tvg-name="[Soccer] Chelsea vs Tottenham Hotspur (DAZN 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Tottenham Hotspur (DAZN 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+2&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+2&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/es-dazn-2/playlist.m3u8?token=00419868f8a09ad7ea0b13c29229bcc3cbc734cacb40714925b0278b8e5d586f.1779216945.62c45d1ad6096545f7faf10f47e4202a.ee5cc996af996894b3ec7044becfa02b.8e2178a4f9ae5c85649b562ef749fca5&signature=618283852f6b2657f0948652e80330af6005b8ed41899481cd41b3a7b4152f28|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="43" tvg-id="Soccer.43" tvg-name="[Soccer] Chelsea vs Tottenham Hotspur (Italia 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Tottenham Hotspur (Italia 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=italia+1&code=it&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=italia+1&code=it&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/it-italia-1/playlist.m3u8?token=355a0a8eaab3533a4726c46b0b28b377164fb10f7d55b8e6a3d6945ba0e48af4.1779216946.056e3ecf0ed3936f408101d3f9b18597.5175021424972ce61029757f40c699f8.73468797615c081bd7b215443dfc06f3&signature=6973b35d1637e44c8f0efd0a036d434b26591d591746692d7181edf2ddb013c0|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="44" tvg-id="Soccer.44" tvg-name="[Soccer] Chelsea vs Tottenham Hotspur (Sky Sport Calcio)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Tottenham Hotspur (Sky Sport Calcio)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+calcio&code=it&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+calcio&code=it&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/it-sky-sport-calcio/playlist.m3u8?token=7950b16be25ad5a0fef3c09e7068b84f126fbbe57d2d4d5ea54f1475a5faa3b4.1779216946.c67120ab8c074f2cd3cef3c738ab64bb.ae835b3d6224f4c92fca6e24281d00c5.b1c25222fd26c8929a3ecf60fdf24700&signature=bfda38ebd17038b239a91e22f4e7acab74587a65dcd1c475a929c1ca85ccee93|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="45" tvg-id="Soccer.45" tvg-name="[Soccer] Chelsea vs Tottenham Hotspur (Sky Sport Mix)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Tottenham Hotspur (Sky Sport Mix)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+mix&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+mix&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/de-sky-sport-mix/playlist.m3u8?token=c9d1d18a67dde6a3c8c42f43d3fe43fbba0caa7fa3886a12f457a813343b773c.1779216946.2fc9edc433a943dfc90e9a6241407158.d63a40b1985e6d41e25881f426ec3ce3.80d0009933c654e0c2ad5f3d376ff2f4&signature=b67e109528e96df16ed3df0fb84b9891f1a9e7c5651e230a474fa278cac4c552|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="46" tvg-id="Soccer.46" tvg-name="[Soccer] Chelsea vs Tottenham Hotspur (DAZN 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Tottenham Hotspur (DAZN 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+2&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+2&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/pt-dazn-2/playlist.m3u8?token=5791c6d3b4e2251b295e700c57c9563b107879d5375638071a1aadb22af76717.1779216947.9fba4312ddbf2d352bf91936235bd45b.0c5ab8f7e9e877d02efc3fd10f714870.f247c953e48ab5bff1d73a966a42f77a&signature=62ba5572e65d8d7045a36067473d47b4c625c418650a4d0bdf7b151e99af7351|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="47" tvg-id="Soccer.47" tvg-name="[Soccer] Chelsea vs Tottenham Hotspur (Nova Sports Prime)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Tottenham Hotspur (Nova Sports Prime)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+prime&code=gr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+prime&code=gr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gr-nova-sports-prime/playlist.m3u8?token=63d8da9d288dfa2f33e7468a7df1b7cfc0ab067db4dbc25a35a465ca5510937d.1779216947.4d9f4f2ed50d8de323f7fdd121209319.6785fbe578f32056ba869ca003b5756f.0e174061dbeb06a872c0e0b83db2a587&signature=473931e64de20a30f89a3069326f4a49a62a3ce48f47f4a21b10d359b09b631c|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="48" tvg-id="Soccer.48" tvg-name="[Soccer] Chelsea vs Tottenham Hotspur (Diema Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Tottenham Hotspur (Diema Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+2&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+2&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/bg-diema-sport-2/playlist.m3u8?token=e691269b9616865045f1219f4c1629f885a6f2099bdb7e099060866e74f925f7.1779216948.ed4babe2c84ed3d9c06010159623582d.6a0b760d45548f6c86a748bf60b3ac0f.58d5a157f015c1d9d6fb4ee826ea3bf0&signature=d6f4fad9efc251a7cc8b784938559000f2bc927ca51619b137e7daa996f38c69|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="49" tvg-id="Soccer.49" tvg-name="[Soccer] Chelsea vs Tottenham Hotspur (Cytavision Sports 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Tottenham Hotspur (Cytavision Sports 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+4&code=cy&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+4&code=cy&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/cy-cytavision-sports-4/playlist.m3u8?token=16d7a0e74b6868aa88c69c7f98b66d98989609325480fb0e99ac0f9981879746.1779216948.3e9711b257ad6146fb677b2c029d3370.efb695bff869ae78b3fa02838fef9a86.6d72f4bf40080858d02ccb953d923244&signature=71e90503659e7250a82bb1d1987022602a4cb3643f5bfe275490082e2fdc680c|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="50" tvg-id="Soccer.50" tvg-name="[Soccer] Chelsea vs Tottenham Hotspur (Arena 2 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Tottenham Hotspur (Arena 2 Premium)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-2-premium/playlist.m3u8?token=c5faa14364aeb66c6a581007d0e31c53d1158fb3ddc49842e015b9ea08833898.1779216949.a1fd4f2b7b0d5066ad1d75c3001d9dfb.8f711f9de66db4ad41c785dd6716cd6b.43bf1b0e3714af568069cca5cf77132f&signature=2bd7598457574adc83f86a82bb7fe46c4852ac01b93b9d3d8b0602f45dadee3d|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="51" tvg-id="Soccer.51" tvg-name="[Soccer] Chelsea vs Tottenham Hotspur (Arena Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Tottenham Hotspur (Arena Sport 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+3&code=hr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+3&code=hr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/hr-arena-sport-3/playlist.m3u8?token=592f44b5fd37d30b23e7822ea39d38cfe48532df53ceb8b48879e7c11714c617.1779216949.64b591d1f7b244aee5ed566011cedc47.5b8ea15d742fe8edfd2c056328d874c5.0d03434b3195f9b6a4ee591f6aa37081&signature=6314fea52766aaa8b433f84a7e29ac34cf303ab5695b65e13ee45898e3aefa6c|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="52" tvg-id="Soccer.52" tvg-name="[Soccer] Chelsea vs Tottenham Hotspur (beIN SPORTS 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Tottenham Hotspur (beIN SPORTS 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=tr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=tr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/tr-bein-sports-3/playlist.m3u8?token=9ad037aae84d78612e0a233447152726dbac79903f5aa9acb97c14c142f0bc2e.1779216949.b6c23309898062806a897e718e010b12.75d8a5182e512894a67acdf0579781f0.812ed78d3b58a20617eed59ee08570df&signature=c3027d48011c3044a6ba9c94ce558b25aa7e720fd255fb525adf6edbd5e9dfbe|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="53" tvg-id="Soccer.53" tvg-name="[Soccer] Chelsea vs Tottenham Hotspur (Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Tottenham Hotspur (Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-1/playlist.m3u8?token=deda2128b67b861ab196df8305cf9db109e103c7307d00d65df2f12c10d3c3eb.1779216950.25f1fd97af8f06a7febe2d34c860d849.3a1ccf43f0711e568bb862bfb6d04a5f.11a194599e0d543de84edd3a5817dac0&signature=317602d1ba9f3b311bfb89d9a7b564b02307e204bc15e3f270858368760a0736|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="54" tvg-id="Soccer.54" tvg-name="[Soccer] Chelsea vs Tottenham Hotspur (beIN SPORTS 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Tottenham Hotspur (beIN SPORTS 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-2/playlist.m3u8?token=fea46e40029ef4b23a033681824188c8e30851acea27ea5111c96dde37cba26a.1779216950.8d4c4ebf3ef0ec38f233b7471a0d886e.c9254a6a69acfd9339a2461ce9b5e4cc.7decce341c0e57672b5a6e54d67e84e5&signature=d288a8ee7bd841b3de2a2fb1a13391447fe30647fdb2ee41568e4049ca33e672|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="55" tvg-id="Cricket.55" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=c02f9dcc248bc430b799419ef23159684196c17dae07b2fa23d77133a8b7ba38.1779209220.95517344f0cda4295082d1dd04c3daa3.0fe45e96b3f6039baecfc6f6974794aa.6c34de4aedf712782d0a9c5f622b6ea5&signature=6f9bc83e1322a734ab620819363b82c59838b5837641a2ef5fca0551d978f322|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=b0ba9fb02a2e89424bfb44a876480969ce074c635857f2bd250091d92b7fdd48.1779216951.a255e69f85795cf2e94e936c40928473.4733ac114f952948db308b0732e56996.364c154bc71a34ede6768438b57149a8&signature=a5eb1732c16896b32f23864217454c2fe4dcfa89bb4106fa6add1ba3abcbcc14|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="56" tvg-id="Cricket.56" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=e194db4fa712dfe7b1c3809b559e50889d3efa0d94beb48393772d2c5499ed7a.1779209220.41d8fa060f5a4a7de0eef798ac542b32.9adc473e426380ef96ee50fc9fe90f17.23c0d2e69ca9265dbdfabe19157b405f&signature=9b0840b255473eee11a1d9d3ad63befbfaa8ca6ab5c28850525a0dc4b6d747e5|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=d7168211e265707c61dcbeed2221f54d7be44953fb9d13da47fab10387d3439a.1779216951.712630ce78547af53d565c2d61ee601e.138e53198b7e164f8dbe5396ba8a28b0.21902d8c8fa2006ca68dbe5fb00a0a8a&signature=0fecc5c46a8815df48e0c66b9876cd34b9b8325d0ab8f6aeeaa07096670eeebf|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Fox Cricket)
+#EXTINF:-1 tvg-chno="57" tvg-id="Cricket.57" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Fox Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=e6dda04468974048b27dd98b89c4c5dec3ed1a3c7ad04e5e7bdd8406c4a7854b.1779209221.e145fcce91ebcf50533a0b07c61dbb98.751e956e3bb18f0c157566b2450df27d.1e243a1b80e8b0bcb2a2740a9ac3f492&signature=9136199eba4b05c62fc81ad106e975069a92580747caeecf08e6bb58ac32a1d0|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=eb301317c8b05f2f4f77c45040381e79756979b87d91d8a30a2b8b13c3849adf.1779216951.435dc4aa084469e509d93e874ac57673.2243b464cedfa4c65c8f5870d08f6732.d915fcb1bf431fb06902bf21794361c2&signature=612ac1a848e0df9a290eb0f585b0536eac256f9ef6b8585f25ef629aad47efb3|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Astro Cricket)
+#EXTINF:-1 tvg-chno="58" tvg-id="Cricket.58" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Astro Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=afe1da516075d12f18d225af910ac515ef21b07d7260936c0739da4d3985a59a.1779209221.c6f66ac38c8a238ce30cff35b18e7e10.0d7073578d0eb953a9c931555559ee88.5159f27ef8cd402cd26ebbae9fe49cc3&signature=92d1de8c78c27274b041f22c6e578331291df30eede2d395041c6f48d0ecaf3c|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=3c9dbe82c283200bcbffb27791fd34a79a8a80b4947982c44aabb930e973b0d3.1779216952.996d47e45d54d362d133daab5deb56ed.e6ee2b1776c40bf518ac314b044b2509.45dec5b7ca0a1a863a2447d5510321a2&signature=45931b16ce758f037774da5b38415a146f51fb93a4d51ace380771f7c3844041|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="18" tvg-id="Cricket.18" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="59" tvg-id="Cricket.59" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=08dc3442795d4aad8ac9dc9bc0e09cd0f8ac4009f0db08ff7e751a29edc9824f.1779209222.f93c7835db7c17d024981eef33e65d3d.235b14c80bc5ebdb37f6df4029b8ccf6.4118d1ce2a33df7d0f67732313047a05&signature=31e1f0458c701c075ce7352ebdf067c4b9a87953f7ffa3cdcfb24127e5acc148|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=279f9c8aa997794c1c90a4882a932c1612fb97c8f64ea8f63147ffe943b70088.1779216952.88b886762b13371ff16b853ccdd87544.0a7e4509a0158c2b64b00b09aae26e9f.81db2efda086506bd87b5032eb4a85ee&signature=46db1d07f4c0712b41edd5d2ef71975b58bfec19808a71f3f3afe41a04bcc1db|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="19" tvg-id="Cricket.19" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="60" tvg-id="Cricket.60" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=4e30fd663f0c09f24870a83c774712c8acf86f25445e97f4cfe2858d7759d9ce.1779209222.c03533f1ff89d1661ba77bdbffe5dd8c.a39429229f0c3ee8429d5c5127d3c66d.c0a125123130d4217ec05f3e39d559d9&signature=eb951a00bed0a217cb698d7a19a461f8e7513a99cf21bb6782a33ee779b65b58|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=ad31c8684c9aab0e4917ae67e03a5d23a8fc31e352392ab57bc873e7b81f789c.1779216953.71dd991fe4c844b3f84620e174d7ff06.04995d3da4b8e7fad2c29a9a3b7169a3.de18b96b7efc8a254055ed5f4f9d89e7&signature=7ea091129720dd108bf9fa7a0adf3b90027bdb7038e202c39517005e753a038d|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="20" tvg-id="Cricket.20" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Sky Sport 1)
+#EXTINF:-1 tvg-chno="61" tvg-id="Cricket.61" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Sky Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=e580ceaf3995765212ec5d61f0555fc8a96e33f46ee808f294eea9451a1fe15c.1779209222.9eed4b0bf79c0a308185e34e7cf31af4.eebb2637e9d5299e35b3e84b68ccf2a7.d1b06640b232a29bbd890008f9cd6d7d&signature=bf51adbe3b004ad17e21cc866bd6b8ff487a4cc2108cb72bf92058dba007dc21|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=ad866b47935a317b1360550c575936bb6923f1f96a1e9c48c9c672a47e49a129.1779216953.f031204d6bb2abe16a91790bcb84aa02.763269caf5d426022d22db811b38b505.a2874031b3e04c125d8da48c240bd59d&signature=9998293a658845f7df6e23d10e82bb00e74243259030922f17984ee0813e0dc1|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="21" tvg-id="Cricket.21" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="62" tvg-id="Cricket.62" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=7431c62ed075ed39c9b56d6cacdf4f600f50ff4779da4850fa005991f938d6c0.1779209223.0c5cba031692342c4e994964f0174e36.ac82c37cc784b057dea8b2d7957956cd.b15ef801e6348bfb19f54517f3e38adf&signature=61d9c3d29d765d69907a9e2a43058cc948b55ac5cc306d21d97f0090c5e19464|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=e55d63fe975cd0eacedc6c853a44afe84f5966243e391729c8f288b39cc0f462.1779216953.e12e7f1b853ff3caf72bbd041e993ed9.8a3b72b3e20e2d3ccf4b8ff89e59f85d.34ea66cd8797952e2e0e10c1e0c09c64&signature=b3dd8cf39bc724eec389bf95dbeee1743484de9924c0ae40b03065ea3d568f3f|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="63" tvg-id="Cricket.63" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Willow Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=30b85c2a65d7f7d3744741e486319002bc1bebcb39c0cd3b92de67150890e8e4.1779216954.498fb90730aaf18d1050c9cc51a7f21f.b3c11568e47a2fd05e07deecfa77bc82.0d5d3f86b5707c9f3a09787b91e3e80d&signature=c40dfac5748262ce70daf51e0fcddc6ae48ed5f14fc007e19eb8c699ca99e599|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="64" tvg-id="Cricket.64" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Willow 2 Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=ace65b7dad0ae200d76e1d548277c7fc990eb2a76ec08126f34645bd0aa3cac0.1779216954.149eb2b31f18c866ab72c8c10508fdc7.26dbbb4cb7f46fc168b6d79d9f8d79a3.bbe8c890310816277c5600c04888e540&signature=49f85823974f2d29f3fd81a234dbb307c5a8bfd26f719954316c3503f53ab220|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="65" tvg-id="Cricket.65" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Fox Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=4e5e7375f8e2d7834b6ba20215e7d10230b5a566bef51c125de413f2f44c41fe.1779216955.3cb2522f44de7ac6319586f8b8f3109e.045e8abaf3749d079c91c7ab5debdd8f.45e0958a29cc2a8b03e3c60b70f87f31&signature=eee41cdabdbc42a7d6fcb6a4db8a36a4f822b80c576f49cfec9225872f2c67c1|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="66" tvg-id="Cricket.66" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Astro Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=06e455e65b4bdc6e19c8eff1dc3368ba12af377e5251dbb5dd3b987e70e097db.1779216955.168d327f57daf5c72d2d1ff32a7c9fce.84085529508ab93e2d963282695ff5ca.239440873c520c07eed262bcdfbc5fa2&signature=7a6e3d3e43ca64af725b2bd1bc716d80f35a10cb0de42abaff4332978a0c8d1a|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="67" tvg-id="Cricket.67" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Sky Sports Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=fffc8b573236c9ccb621ab76304a3da1422ab226923b8733726e7a0f19edd12c.1779216956.157bf42bac3c191f1eaa669f4e714539.44283e99f663c1f5498512575acf06db.4bd8ed33207a88388b0fcaccf0375ae0&signature=c4a32c02ea204a80e582ea7e554434b72affeaa38d4dc9223f0679eadf782c45|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="68" tvg-id="Cricket.68" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Sky Sports Main Event)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=dd5b8e8f93fa78baa5cec6615731ae08c020db4d1c2ee14aa7ff7df89f23a905.1779216956.47db4b66495fb9cbfc6880ba96760956.6e82fb0ac4772e93930ab5c53d7da4f7.8e8a4583725890577be14ae3e0decc3e&signature=8bc92835351115398f9f4680ed8af16300d0a7413aa26a6ee8d3a947abd19fc5|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="69" tvg-id="Cricket.69" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Sky Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=6e627c82bdc34ca5edfa9781c8c6b605b1a89646ef9ff2da7e6bdbd2a3b2b85a.1779216956.3837b600f366aebabe8daad639f8f3ef.3a823bd4e9fb3e1376fd15130a6e6a7b.ff7882657120e86005837b4323752895&signature=218ab5b20ac2b8ff7f1ab5ac314a57a4219b70443a8c6fe619de3f936fcc7c7f|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="70" tvg-id="Cricket.70" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (SuperSport Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=6f283b150719e7c4c811188b44df1bd0a3ef2873a2f44f03bbd9aa53718aef22.1779216957.dc9845f0e55c1dd7d2e4905403afe1e2.fbe66c61504fa4f880788167417dd966.ced404de13fe1e408bfa54a0ebfeafd9&signature=2866bf5f481bf5f46bdbb58c289c845784bed1ac019bf9fc42f2552f470f0583|x-forwarded-for:77.238.79.111
 
