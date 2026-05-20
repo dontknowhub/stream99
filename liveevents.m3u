@@ -3,185 +3,77 @@
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports/playlist.m3u8?token=9704fe13787735daa3ddda255078204cf1274fd00cb700c156db7447e35e0060.1779313505.bcf249fdf13113c92207a2d743c58efd.24e2a1b25a999a69c62132392f9d8b27.933a979aa3c8924259d5faf1d1b99d0f&signature=e292dc24af65d27ff6368ddd5133c6498d24865f3b7ad3a73c02fad796527f23|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports/playlist.m3u8?token=493908c4b0c0b0b25801485462990b4e9e90a69db082e2947a56acb9d2245d12.1779318413.b25e3952146c6f4736f65ba21c08d9f7.e76f28eb6d2642d9e911aa340f05de42.12a8f563154ec9f39960ae2f88befe0f&signature=f341cd4257c7367b7b01158386f37a89d361eeb19d70f49f72f2b63960d9815b|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Nacional vs Universitario (beIN SPORTS N)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3230.png" group-title="Soccer",[Soccer] Nacional vs Universitario (beIN SPORTS N)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/es-bein-sports-n/playlist.m3u8?token=39ae9d584eb0b294468417b34ede74f3dd03e8e99219e42bdb54a3645722882d.1779313507.efe4b4df5ee7544ddfe1bda9d9ea5aca.d63f638dd89e792c84e01cbfb9f600d2.6a7390d671c14151582837c8249f9239&signature=aba5b458162ec1c5bd66bd41da557451e1403d866d25549f8e6543fcf4584c67|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/es-bein-sports-n/playlist.m3u8?token=522ffdb5bd6b10a86f66cbd5e6cdc822ae20ce98a375f97e2604861dc60a36a3.1779318415.d8d2c8da5bcddac91d705020df01cc91.f1993de8bf0067796ff3fb230768f814.22a22d9d5520758b45ccc6a08474939a&signature=ef81b1e1687bd6b80977c54cb6b29b98dacd271fc352dbd0436366b0cfe73b28|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Nacional vs Universitario (FOX Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3230.png" group-title="Soccer",[Soccer] Nacional vs Universitario (FOX Sports)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports/playlist.m3u8?token=60cab9ac43df23e7c7aea78ca5f4ef8d549f7bb2f1fd3592b126109d7f6f92e8.1779313508.9a074c429978738fd85739feade57a74.4b847b1190e946741f6a03fdf70d17c3.ad11cfab81962ed95a7a55e89f57f3c7&signature=7fc18f555cdf6b43bea70bcf613e92755cfbfd2380fd3522c2a77fcef58ba337|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports/playlist.m3u8?token=a5beb8eaa496f2a0e537cc30e05625287129e76730f049ea32fbeab3186b21c6.1779318416.0aa39b5777240b43dcbb5ba73ae2bd49.f647f6b873c112d989fb9ee5aaa5b322.dddad89343c31b9c31a78a1553e10959&signature=387ce162a542d88cf9efa30185fccf12f0bef3671159a7f1fbe13cccb6d0f24a|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Nacional vs Universitario (ESPN 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3230.png" group-title="Soccer",[Soccer] Nacional vs Universitario (ESPN 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=mx&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=mx&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/mx-espn-2/playlist.m3u8?token=890a8875aa84b73fc0628cb221cbbf514c066aa90dbac40b607f18ed9766afc0.1779313508.1cbccf61ee6060bf124963cf4db56864.42ab8a6fe695f1f3eeb619ef42ba3868.c84b01cfa8ebebf4d08647ee3e3c3e36&signature=85154854321df43f4ef8ee57ed4b954f3a966082a69fbe3a49c6c0cc70341ab3|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/mx-espn-2/playlist.m3u8?token=ce61b2e74fc2f72c3d98e9ea1b20a5b621a20c6d996ccbaa84e82851dd4ada54.1779318417.53266b11beb1df7c504f4d636717acaa.505de15b43b3ed3966605af57e250fd3.2afda3fc884cd737638cf98e82efff71&signature=1803b7ce2bbf0b46890c4a330356d8e1c3b0be965fed7bac04df2183cc086696|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Nacional vs Universitario (Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3230.png" group-title="Soccer",[Soccer] Nacional vs Universitario (Sport 4)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+4&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+4&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-4/playlist.m3u8?token=1e7b1ebbce220ac93a8be700e9ef1347484957cf3372d627380a8baa244216de.1779313509.edb2ed7bb7f400b0d31aa9925c2a1847.3e941ea84ca6e1204f409dd8f02081db.115afa65a86ff6f4a6fd11acc405ad19&signature=0455b8dd043a830290e4bcfeb70e58a7af041782c82e5d86128fbbb7d320e2cf|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-4/playlist.m3u8?token=91dd944a0450e3b0bd89c638bee8957e4e0e317a6b4b7f2bec372889f7635076.1779318418.7eb9523974041fb319fe9a62fa9c9157.6c6ded561baabb1f9cabb3ada90caa21.22ae81543f3aba88c78a6b2cfb36c470&signature=38c4cd98c25e369f98318814f7f1bc6c8a8b0d796f11f4df1b83a60e29703901|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Mumbai Indians vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Mumbai Indians vs  (Willow Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=cbc9d742b6d51d13fe596c5ae0b5d1303a7329456374675a519aa685fea3ee1a.1779313510.5369dcc039842f88aa3656d56e09709a.dd127f7aa91bcbc24549dd8584706346.f6c09d549d904ce07ade6bd06ac2e53c&signature=1e34759a5f63942e80b6a55bb2769166a83e465b3ef0fa4f0cfdc35e8c5527f6|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Mumbai Indians vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Mumbai Indians vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=e207b289a6da6e95e02846566c76e97ae33d3d382eaaf750a14e473717afe0c8.1779313511.e746a480b6a31db6e01ee89b9d5af0e4.9b0d6994f4a0c67c166e9dabefdd3ad1.f70157b99b806b02c10aed07b8ffe371&signature=7f901668446bf82a724270d4d157f4b90879c49c637a0a45d324633d196b32ab|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=5e980c31a5390bc87245f8aa8eebe472a5ab6682cf00a4abf4b4320b77943160.1779318419.8626351f2e455a5f4eb51932bb09391e.679e95e80090bedb718611301699e77d.0a36476c2d63c1dd768ae5d7095f91bc&signature=1a9f468d440c2f4280772509b3daf318caa05c6aed9d50a3838e4e85a1c4b789|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Mumbai Indians vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Mumbai Indians vs  (Fox Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=ba07977de6a69df096b43b0271cd7b17772d1c9d4b7e8708e0bebcd0f3b1bd1d.1779313511.08f0560f0d66b206bcb5233db9f61c59.3539e7dc4a260757e647a3d885549eba.a171edcc14e775eaffdd54319348c238&signature=c2b31c2f1bc3f55b9fda4526dc551d8c0f8360e1d44edfd56ea9fd9f7acb8113|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Mumbai Indians vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Mumbai Indians vs  (Astro Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=08a7e828c9b1f89e1a11abad5d9d21c99b0d14e3aef67ba5382bd212f153a891.1779313512.290d26bef140f708219f05c307e12328.a4ca7d91f8736b2497597d97970532dc.4c8675b222ff2adf19334ae2dc85b05f&signature=10cf8e539334f1047e006a65c9d6696d9b6e475ea16f32b609ae288c1a9dfd0e|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Mumbai Indians vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Mumbai Indians vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=e6c056a462ed5824d2eba37a0d989dfe2226c244f10f92f576ce3d82e3a8317b.1779313513.a3beced65ce663a66b43fcce7929fc6b.e9d46d3c821ef4cf0c14fafaf52954e5.83af56cc25b67db3c1a76e8a0cee2679&signature=d2580cf48c2fdc1321609593919b593f0b6750ff7853bcd2d172a23760d90335|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=585d6546331990eb6a8583692dfa6f5bf13979229e609139d6e52351aaf2c2fc.1779318420.99d2acccb32620ed25acac5c1f88b2d8.51a38d32dfa6ee198c9011429ef6f85b.31318bf7cde56e44af291d0ab1954ca0&signature=a8f9d75a7fe72022a365817941a97c3e4c6b72f5afed009a2e6e4223a0790621|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Mumbai Indians vs  (Sky Sports Arena)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Mumbai Indians vs  (Sky Sports Arena)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+arena&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+arena&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-arena/playlist.m3u8?token=3b2451b8df4d5d7313816559121b4daa7502cca7b02ff8253a4bc0fe2e5c0d89.1779313514.3e3e91fcc6c5e70cd9076551b0465f10.5eccc17fad12c740903e1420d6f06ddd.ed1bc389246f6bc75b94bf04212ff250&signature=daa08e7a16caa7812b7ccf3b4254abcb0494912133eda715b5b15154150391a5|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Mumbai Indians vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Mumbai Indians vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=ee80058ee008bc234af38cd9608f23ba8bb3f426b8b2862dc41cc5d53288c906.1779313514.a0c37fe0994fe0b62895ef633d56a281.fa032052fb2fce82320ae7e2fd4e3c1d.17ef1d9d64dff4b9bb32c495054261a8&signature=a4ecaf805ffe02b816ada58a2e57cea832329da715456f61a5d4294eed4ca774|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=af8e03838448c4282eef1eb2527c950467fd11afc9d69eef66ddaeb2171eb043.1779318421.e1c81c8d07bb432c1e40ff032b1b7389.27460fd5abc0aeaead613feaadb14868.39ebeb923fab075b165b356b857d8534&signature=2bccd7d32459fe37c97b88031a1b05621ec4314bdef0c0a45629200e67d8a38e|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Mumbai Indians vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Mumbai Indians vs  (Sky Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=e01b1e19e1dde16ee806a61341f86f57c9e2e46fa1a95d9117951cd5a9f707ae.1779313515.1a676604f9d5e6080dc22588be83d363.6c3f78d13c06d8f3161bce82d9210a73.404a741fb5702cce9dccc928f4f298e0&signature=e7b29ec90614b95fdd8d1bc68c3b085f8a423bb68e58d9f8d323dacb5fd596ea|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Mumbai Indians vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Mumbai Indians vs  (SuperSport Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=807ec3a9d762c520d6de1e199ed3509dc582c2efda70d5070f876ff52355b9ab.1779313516.95a26c0bed982f47507b63996720fde2.4a53451b796270bc8f7adcd9fa9f8511.2e89ca72cb33e719622627c40d2a5c2b&signature=869a8c5de941bf2ca1f100ef2c3fa707c559dd703cae7c6cd53c4f62b148524e|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (Willow 2 Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=10ed03438d570f09c37217155b4662aa0284df1662227395029f7c082234baf2.1779313517.4e8572466fae774f848686c70daf9f7a.85e6f394bd743b1e261c2082e3ccd8f9.17aff5674d92a025c058166cb7e3ac13&signature=a9143a267f9c0b8ff9bfce9ecfe35e1f66072b08ce4cf0f458f333174b55512d|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (Sky Sports Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=38129f152c4143590b1ec97232a18b2b9822040e971081632ef0e95033e19899.1779313518.d077eabf47c7b0174306ca02c7580743.59a4148e354fba583412110d44df03c0.45da3870641fd032aaacd36a1b3fe455&signature=449be1c2cdcc15734c6cf77e2b235a373354f173a6291c63388b43e9cd254bb9|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (Sky Sports Main Event)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=38268a8771a211631389d016cf1bf8ee32d05855990a59c825d236f43d322136.1779313518.8db27b858105e1064904c9f11d6255ee.9512d562eef0d1bd023ddfc72a497ee6.735da166431bf330ed70960a52b6e96a&signature=f0034a1c9cc404f2dd359fa5de15e2bab18302a5bde3a9b9e352da71436fe28d|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="18" tvg-id="Cricket.18" tvg-name="[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (Sky Sport 1)
+#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (Sky Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=e4316360d8d9c0f72f23f907cdba32c57d1eb42a87d808668661b678481661af.1779313519.0bab0b41af567a1342ef3953dc05629f.45042949c59db7e12f951ca3a887098a.9e6e9a2998f2e32fa67294a36a8680ac&signature=2f67425eda8930c9aa9659670edad34dfdbe780127ce6cc15b89c1a01ab27ea6|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=362c3ad23ab65a2eeb81f9208bad4d9cfdb280ed2f6923695950aa421920817e.1779318422.326e19c646f180c369f36f045d3e0c0c.7ab330b031316d4e854752ddde5ac79a.dc70377e6b1950cccd4b2e90e27e6670&signature=eb8a0690f0f66c1240143363a90f3f39f238be5670d5f6d7209a777215010e91|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="19" tvg-id="Cricket.19" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Mumbai Indians vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Mumbai Indians vs  (Willow Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=93c467b9f4f08737adaea4854ffae2376448af5446cdda54c54cb313cca98426.1779313520.0210b9c044bc088f558bb289bebdb6a6.91f15d51b2c1a2c95d1d4d7e47595bcf.e1c084f9973dd4bdcacbe90bd73faecf&signature=41db2fac18c7579bc82eaaed5641a65221ee64d3a35150db3cc53c70d88540bd|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="20" tvg-id="Cricket.20" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Mumbai Indians vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Mumbai Indians vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=b9cf3c9a3f0a1ebceadbf4c74b422d02bfb6d43d44925bb9a945b4977ada30a0.1779313521.a6cfb682bc5fce5f2c68d8d0eb2bf2cd.b22f408a36770addcac06cfdcd249907.8347472c7e41da5a2723a7f61405f17b&signature=141ffa1af32306a133c0498ade18680ff184b52c726b4f6e7e8736644f9ffc61|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=a045443d8af75240aa954a61d595b4aef7a790a56910c9150c5315afb2529b85.1779318423.f20b4e6613e54f1b9ed64a8c2a62a06a.08492befcf721bba1b549fb19a963c02.7d1f3f96e80af3a9105a6e8b847c4c54&signature=1e5875b52de7e921f0d2273228ffe9197ada25211271171cee4abe7423d16302|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="21" tvg-id="Cricket.21" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Mumbai Indians vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Mumbai Indians vs  (Fox Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=1c571a39b7ea751b2990cab771348a0b154e39ca78a60ab6d58901317a2dec8b.1779313521.9d041b372e647f18c3a7155b81e904bb.2752e1a0b77ef7e0cb0f880b67a64c57.1e11882f8b3e510aeecd8de1d8b86e27&signature=57362c0bd2c843621d0b61ab74962ebc8f4f9db76816cef92e10cb6b0da773fe|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="22" tvg-id="Cricket.22" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Mumbai Indians vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Mumbai Indians vs  (Astro Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=39c169e3ca3b517bdf9f66f1d1428738ab3ba763fd4b8721f3aa9d836c9402a2.1779313522.b73d7b83bcd820c7ba8ad9a35cf0a2bd.da74ef3b45f00e7c05e70cf7bd83c5a9.dce79339520159ab13497940d11798d9&signature=6e362fff0bcdbd9c0331bce55a7ebf4d269bd9c72cc530b618600de80da613ae|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="23" tvg-id="Cricket.23" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Mumbai Indians vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Mumbai Indians vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=8a0f57bd068c66918a1176712f0575f58e15500c25c4a8df9a7dc0f3b7e38126.1779313523.041f45c2f154e04dd885dfe164ad1045.a2397f4b8ff8263340fffdca9aecef5a.a23575f89b254b5ae88e7d9a07c70458&signature=c9ea39900b315e7150ea7a5fa5959257ae37fa0e14cee0f5c6bedee8a16eba3b|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=c60b702e6e758ea9fb61e595e7d44b1c67922fcccb7fe9a3af8dad3baffd40c0.1779318424.92f2f818a9287d34e1b5f0be6605a75b.dc17ec4a389d447a6a0055ffaa42444e.962ea5af4f9837489d61c499b4ae91c3&signature=5dae1240ba07caf3b40f0cf7fef4f3b3d5f4a9345dc7747c32a538d03fd03bac|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="24" tvg-id="Cricket.24" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Mumbai Indians vs  (Sky Sports Arena)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Mumbai Indians vs  (Sky Sports Arena)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+arena&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+arena&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-arena/playlist.m3u8?token=2f8173fb52ceeaa3cfa2f0666e03b585010ebf48c1bb09733a3831b771723fd2.1779313524.d5e60e751bfed97095cd05b35ab20045.51900526407364518cc3237d5c19afa4.3497a9a8e564b3bd39f164b867184ddb&signature=9093c671cf9bc9a237c18803aff6c61a83de59a4cc1fa6e5be5d7615233533e8|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="25" tvg-id="Cricket.25" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Mumbai Indians vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Mumbai Indians vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=a41207083abae165129cee3ca389d92268951b1c7a23fc598c511cdaee2a18be.1779313524.8a53924063d8ed8ffb052325e95f9746.3ee12eb4291732aeccd410c8f4029c94.45d9cf1cc7be1cbbc9b773895b2f668c&signature=fa85c4f6926b0f5ced4a5f0ad9c323cc5ecb3122fcd6c4e7bbc359871daa4d25|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=410f2af973c9927380723ba1e76d6b21002e1a1ac0835d65678d13af4e340233.1779318425.461094b6fcfe430c5301d75f5071c59d.aa5d137ef20856af8f07939d24c5de21.3951c88300f47fe31921cdc0ae702f55&signature=8aef3670c6996413ee8e084f6f7bce8fbc307e34fe532b0df250840f86897759|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="26" tvg-id="Cricket.26" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Mumbai Indians vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Mumbai Indians vs  (Sky Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=3ceff7ec0154e452d9b90459083b2cdcf7e92ae457a75e104f59a6a020f50917.1779313525.ac886068f47732bc722118199e51716d.f283e83d14804be4845dc013ae125d41.2658d7ef5f84dc0ece933fa466078812&signature=8cf80adc3a538422a17dd6dc510ca8753b84782a15aab79f1c2001055067d762|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="27" tvg-id="Cricket.27" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Mumbai Indians vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Mumbai Indians vs  (SuperSport Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=0691d617a9dd5a868314b1cf2bb25a87ba2bcabda20dfb2e27ae51f453a83d3c.1779313526.6e13fc5a9620147d9634e9e5826b0365.ff90b6fc830c9384d2c95b4881da45ed.51f0aa9c6b4eeb160fbe420b9c3832d3&signature=b92dded2ed4009b5d98b6c320556d45767ce1cc5b6a8cf5e8ffb4f9976e7e5b7|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="28" tvg-id="Cricket.28" tvg-name="[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (Willow 2 Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=d10c776b8e40d6a8d0611c3f0a6d2a15c8c7ae3f1526faa18a4c903939979941.1779313527.2eaaf186bd4cd137a51da48cc2a3ca38.fffecea59904d412b5582e84900444a9.37f376bd417264a2901ed363aeb7e313&signature=ff96b206808dc06c0bde25bd5070a4f1efc7fba9624c600406a6ee0caa2960eb|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="29" tvg-id="Cricket.29" tvg-name="[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (Sky Sports Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=4987350900f2a0d660d5e88a6d0ff3efec2a8e97f885a170b1516c4d4e2d72fd.1779313527.96dbf0a4d441cbb0700ff2dff18fd686.4e331f18bf803990df44a46ada7df872.3921bbc03a592b3ce7f211ccb8a79943&signature=027569f9006380722be8db7466e37efdbd79a7ab574203d09f9dc8e5f311a314|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="30" tvg-id="Cricket.30" tvg-name="[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (Sky Sports Main Event)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=6f4f94203033cbbcf5d3c75d02bef0f73e4865964aeb223651e2b85811b57288.1779313528.e6a9894448db09112c43cdda153efe76.486d6f03aab4dffc37c7151b393bf10e.c9a6a06fc65df21822b8817d8b649072&signature=f792b4cd72bc5ef2550b0d83ac73db086de216604f24928b4c2d424d9c35ebb4|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="31" tvg-id="Cricket.31" tvg-name="[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (Sky Sport 1)
+#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (Sky Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=abb308a33ffe3d6b40432f9d7eef418b99525cad434b34c65efba4fe66b7a7c9.1779313529.eda5f5ab1713c1e77a7eb26a3309a3ab.19faefb6bc409b5db8f5c06bc343a8b6.6ba6158552151f69cec16f2f0892200b&signature=5c36cd03c1cbebe422764cae4e152261f4bd029fa5b409150369c95194966f32|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=2cd2418939b798a3c74eb929aef1db012fb662a22a3c4881cab5f78de0c2cb63.1779318426.980dfbc258965539e3b1a060fbb1d00d.77673185dbd9bdc9e146856bc350ea2d.1e0d3a5dbacc1a2011e22607e15be728&signature=cb2ad3d2cef31592e86f3cb3b3939a73230beeb88e7293a5c82b71c91b49bc6e|x-forwarded-for:77.238.79.111
 
