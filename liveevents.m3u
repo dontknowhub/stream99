@@ -1,115 +1,55 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Santa Fe vs Platense (ESPN 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Santa Fe vs Platense (ESPN 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+4&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+4&code=br&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="1" tvg-id="Cricket.1" tvg-name="[Cricket] Test 2 Day-4 : Bangladesh vs Pakistan vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test 2 Day-4 : Bangladesh vs Pakistan vs  (Fox Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/br-espn-4/playlist.m3u8?token=ae8d59dfec56257ecab4b22811b141c593bc4c440619cd9d51f00fb56ea8c6bf.1779236370.f53a24d967610d5fec3395f75d5c660f.a555d6267272b5d5dbb1a631f552af39.5fb62a3d82e17d03f5495e679affeed6&signature=d6bca2b83c60d63a311fdc65a63d867deac1b05d36905379b84530970f4a0510|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=007dbeff21bc63ae3e89ecc2da242e625c824881b676a8ea214a3e5ff68c6da3.1779252057.18cc110b21880823ed4b9fdb53dea458.bb77a0a303d99d5a820a03fab5be21fe.90dbbd006f49ccd4022fe8f3ac1be2be&signature=c55a7afe4c08d1bc26d084830d1285e8a31858eea6c9b6abc7f2a038ee4ba7e8|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Santa Fe vs Platense (FOX Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Santa Fe vs Platense (FOX Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=ar&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] Test 2 Day-4 : Bangladesh vs Pakistan vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test 2 Day-4 : Bangladesh vs Pakistan vs  (Viaplay Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports-2/playlist.m3u8?token=3623547fd4382164e3e639480e7c43da194d71399549d5e22bc21a1943914a58.1779236371.e6820bee573e22d99ce56de6c8b1652f.ce707275637b17a2ec67ef2d13052a9b.76b94a3a2c243cdf0fa3d4b157ff1bdb&signature=36834f47e31ba6215bceb66171940c61d6288bf2c9560e60704e46423da3def7|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=49c5182a9fb2fb5e1717d26a2bc9aecc777ea38da5de104876a7581629a798b9.1779252058.192c80e54a3f915d0fd2c6c3f4509f6e.8412e2fcf1fbc5b74e6ce78c4734a434.a8ec58b2af2dfa7c9609336e288fa32c&signature=aa8bedc864b26ac88df093b263f9a726cf6a6d0121fd65ecd8607ee6a1d1b807|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Santa Fe vs Platense (Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Santa Fe vs Platense (Sport 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+3&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+3&code=il&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] Test 2 Day-4 : Bangladesh vs Pakistan vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test 2 Day-4 : Bangladesh vs Pakistan vs  (Premier Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-3/playlist.m3u8?token=7fb37f237af5fe32f0a10f7c14a06e24863663fbc66d613f42a216112956e473.1779236371.2d4f660cefdbd882b4cf0a10267cebad.762b2ba9bdbc97793e5c03e19b5c9220.ccbfca98858efc4d7a6d244484417a62&signature=3adee90f6c14292839f7ca8cfee0e9ee098c8f23712682fe317e87a442160304|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=f003b78ba8a00a739e0d44e7afe61ff388df04a6920c4f8dc63cb067e59f83fb.1779252059.bb95dfb1fe3991685a4348f43e8e9065.8615e603bdfed41fb973d547b66b5a31.7c8ce92271cf693452bb15626945edef&signature=b631d7ced2b6c06f742b20639609a8437926a225efd5e883d2093284e618390a|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Always Ready vs Mirassol (beIN SPORTS XTRA)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Always Ready vs Mirassol (beIN SPORTS XTRA)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+xtra&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+xtra&code=es&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] Test 2 Day-4 : Bangladesh vs Pakistan vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test 2 Day-4 : Bangladesh vs Pakistan vs  (Sky Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/es-bein-sports-xtra/playlist.m3u8?token=f4411b5d81e0f89af4200c7600adfbe3fe54f067c0f41b206c78b254526236e5.1779236371.3564b343c648d0ebdd8fb06436a4b13a.8698c47509f65f80d50c2618e2919e3e.52199507b64b009883272dc23ae099e9&signature=a0342b1a11f058723b8e9b82a93ff21c64410abe6a4fb3fc9e1ecced8005cdd6|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=2d62b8b0fd092e37614604c042e79fc45982ab32f054f79c8459ea0fff76e5a0.1779252060.0938730a2e080211b72ea1e153de4a1d.7089812e1e5759ba9153afcbd7ce58d4.cba7b4f56676c7dfd57af466b47a8a5f&signature=caf9ffcbef0daca92e3c5da5347bf01c0e088aae0f49fdcb4773b70399deb841|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Always Ready vs Mirassol (FOX Sports 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Always Ready vs Mirassol (FOX Sports 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+3&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+3&code=ar&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] Test 2 Day-4 : Bangladesh vs Pakistan vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test 2 Day-4 : Bangladesh vs Pakistan vs  (Willow 2 Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports-3/playlist.m3u8?token=f0e29817f9eb9d581dbc342e16e6bc2ee24bf898eaf86c297e7d1dbbcae0bbe3.1779236372.b191d71ba29543bab57ece4cc1317722.18889a183a61d353e7e16669adf6393a.bee5bf3eb6dabdcdd0c578a284f262db&signature=a35b203c66ab2a7719cf81afbb8cb883aa7c3e3946d0c3315b84c348d8c77087|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=c21aae0dfb811be28f221acfdcffed2c28428202fcac7a5025abc794e636d256.1779252060.9311637e638659f150083d92fd006fce.aa758a4c2dcbd8edc5c93a7dd86b4dac.d44ab0a6d34de7374b9c95587cde6c5a&signature=ba3b0bcf5441761bce3ad6530700925e13ae1243d9df944a8bdba8a6b2fe7b9e|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Always Ready vs Mirassol (Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Always Ready vs Mirassol (Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+2&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+2&code=il&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] Test 2 Day-4 : Bangladesh vs Pakistan vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test 2 Day-4 : Bangladesh vs Pakistan vs  (Fox Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-2/playlist.m3u8?token=119e5f57dc0c85e7fede5d01e180ede46fd7011065f1476cb58c6e40b4774ed2.1779236372.32c2d3e5dc3bb283289357b8f2635a23.7fe7c5b247e6efa863e795f4db3a5e47.5196f1f9db7612785d9e45a4dc7f6227&signature=77f1823f5c61d44e664c6b539812127abc45f314c6c153bcc527f2317ab9d898|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=494d0afe1a03fbda99026fae83609ac02bf551e39ba19c919412ce6df0c51bc4.1779252061.738ab5eb67a468b2f3760ce6a7701c0b.fa6641209c6adf227de1a9f0a88411e6.91e81a93315aaf4fcc9e8299c3ab8da3&signature=ef6f8381e013ce106cfe7d37e4a441b96d0740ce97018df12369b9e117e411b8|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Boca Juniors vs Cruzeiro (beIN SPORTS)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3202.png" group-title="Soccer",[Soccer] Boca Juniors vs Cruzeiro (beIN SPORTS)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] Test 2 Day-4 : Bangladesh vs Pakistan vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test 2 Day-4 : Bangladesh vs Pakistan vs  (Viaplay Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports/playlist.m3u8?token=9c35a5adcf3965e09d2877cb8f097ba8ceb93e0362b847a30e8e6de7764aea1c.1779236372.4ddba02df1f3372d2e7c5d24fbbd467d.eed989f01ec73b3c67f39c3ec622fce5.4a8763a9e47f3d62094e8db42316b561&signature=642115b261729bb4d8674dcde3ceebf8e142a5206471cced12ac39de6a7a729a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=f761032b6ddc923fd61e2608c31ea52b45cba03ca79bdfe9dcbdfad148a41f12.1779252062.d7fa26c0d25b6abaa393a7b37827b257.067ae7384f9dccdd96b5218a5ee4b7c0.13c2dbaf23d8e4052b523d7cce035e44&signature=8cbbeddacecb6b8fe2a625ef0df7306819c618c3a11d15fa2b1e4eb6c02983d8|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Boca Juniors vs Cruzeiro (beIN SPORTS N)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3202.png" group-title="Soccer",[Soccer] Boca Juniors vs Cruzeiro (beIN SPORTS N)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] Test 2 Day-4 : Bangladesh vs Pakistan vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test 2 Day-4 : Bangladesh vs Pakistan vs  (Premier Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/es-bein-sports-n/playlist.m3u8?token=4ddaf0502657668ac4b5acf988f444ea4b96eca827b2602bf9b7408d932c39f9.1779236373.eeaa7a222bca2af23e48be79b6db679b.582c5038ac46eb91b1d23c2619ed546f.5cb1f5a007592dfbd022656b844ca94c&signature=531e7ccf972cfef1ab818255aecb53d48e82023306441e8fe90ef225d7ad6fa1|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=65daf8ecc65308abd1fa0f25b7e95061d13bd4bc87827243206df115bad1d209.1779252063.c10572ff9c083ffea6b24a9269002661.084d43f325fa06ab1fb202605a207c7f.18b50c1e321a8b2a74c9f4cea3bf9512&signature=9ef508f68a19ea0467448bfa04aa93cc47346dd8350302e8b0c9dae73ec48bb2|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Boca Juniors vs Cruzeiro (Vamos Spain)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3202.png" group-title="Soccer",[Soccer] Boca Juniors vs Cruzeiro (Vamos Spain)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=vamos+spain&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=vamos+spain&code=es&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] Test 2 Day-4 : Bangladesh vs Pakistan vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test 2 Day-4 : Bangladesh vs Pakistan vs  (Sky Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/es-vamos-spain/playlist.m3u8?token=a65c677b1d22d23088715e353d34c18afb8959bea61953215efd816634b134e9.1779236373.90f64f283a99db237a4f31d3310a8321.3e7899e09c21d46059e969c6ca6d2f79.943ff0de94dbc09533a821e21a95d901&signature=9b77099328a1c1d26899874dc2279c0b0784f441e658b99a3de689d7b4014255|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Boca Juniors vs Cruzeiro (Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3202.png" group-title="Soccer",[Soccer] Boca Juniors vs Cruzeiro (Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/de-sport-1/playlist.m3u8?token=279df017b09abc2444ccb1f44809175dd0e1542c4deecf7c201ebbc5ab24d7a8.1779236373.283b422c67e425b966c9a18499200caa.e733d7a48e6ce6ecd9d87ffbb704cff6.15260c150a8e68fefa57d7b6cb80e35f&signature=7329b979be83d8a59c81016475889e6d345fa848b044dc4ed9110489920a8f6c|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Boca Juniors vs Cruzeiro (Sport TV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3202.png" group-title="Soccer",[Soccer] Boca Juniors vs Cruzeiro (Sport TV 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=5fe97a05d2af3c500335c54cb9c51ca812d8d71e6c9624ca758cb9afb65b88bf.1779236374.df48a851eb8acc50e026ce9af0088411.a67cb4eec0c2cb27ceecbd4af679e6ff.73211e0370309a8055f8717fa72470a5&signature=2a78b8660988dc218c1175a27a4bddd45aa2fb3bd790f506654f14b8425474ef|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Boca Juniors vs Cruzeiro (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3202.png" group-title="Soccer",[Soccer] Boca Juniors vs Cruzeiro (ESPN)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nl-espn/playlist.m3u8?token=5b67a3d9f4f02a8d62a3dd2b9242051a7bb8a0942758cbd2fd572918409a8a16.1779236374.26df943a450f57f3551d70b308c33eab.9d676b01a1d02b8d191c49fdeedbae06.15138ba4ab12fe57f28b7fdd35f5ce36&signature=bf1919a97d364db44e7a360fe6f3ce58bbcb0ff2660707f71f4dd570882fb497|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Boca Juniors vs Cruzeiro (Polsat Sport)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3202.png" group-title="Soccer",[Soccer] Boca Juniors vs Cruzeiro (Polsat Sport)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pl-polsat-sport/playlist.m3u8?token=e541377296fadb841abc75a1bec1ddc87fc27b2f0350a152835bceeab44b32e4.1779236374.a3f024026470f6531bc82dc8b550ba9d.edfb615eb0f19e24cc26f4100c5e0140.7c95b9bbad080c5831d397c1d6021ee6&signature=56d7d6de44456471848a6eb97df7cad763da5681d883262accab678a54b56297|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] Boca Juniors vs Cruzeiro (Max Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3202.png" group-title="Soccer",[Soccer] Boca Juniors vs Cruzeiro (Max Sport 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/bg-max-sport-4/playlist.m3u8?token=443bd0384913c642df8b9e0cb1a99b1ec4ec87f653f1365238c5cb06419d079d.1779236375.49e9b3ce5eb849fc8429b493aaf558ec.acabdc488869c5f00153db086fe1b37c.7f16b177c187f2ac30918d7108a20767&signature=a7e5d10d27cf57b3880faaedc1ee0bebce416fccb344bce1ac25bd078b6ea242|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] Boca Juniors vs Cruzeiro (Arena 2 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3202.png" group-title="Soccer",[Soccer] Boca Juniors vs Cruzeiro (Arena 2 Premium)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-2-premium/playlist.m3u8?token=62422a17fc21c19bad0fb49ba6779cdce6803f8d7f34f45f4d3135e81a2f6623.1779236375.c854b91bd8828cd8a19c9b65753c4358.30ddf37fb1a747dfbe138bdeae329ba4.374ca2b902f34006e3519586bd513d76&signature=59cccfe3b1f8336f269b3009c701165d6789297ca7d1316a5a45bb7bc62ec513|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.16" tvg-name="[Soccer] Boca Juniors vs Cruzeiro (FOX Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3202.png" group-title="Soccer",[Soccer] Boca Juniors vs Cruzeiro (FOX Sports)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports/playlist.m3u8?token=af9ae3e6c8054b02849f95071587b7e95db1190918c859e779841f81f06c2c39.1779236375.3fe16ca31336a4695398fc5fb8afcf91.7cea2c24601aaa54ebbdeef0fcafecfd.c6a728a66050ba27ad431c7c5769c667&signature=4b6d143885b3bb16d4e8288fd67d694a5dc971221868e3740b9d354364f1e0e5|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="17" tvg-id="Soccer.17" tvg-name="[Soccer] Boca Juniors vs Cruzeiro (ESPN 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3202.png" group-title="Soccer",[Soccer] Boca Juniors vs Cruzeiro (ESPN 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+4&code=mx&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+4&code=mx&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/mx-espn-4/playlist.m3u8?token=274a1cb61556b82eba883a58d3f4efe2103f9223fe8da60252a5422651ba1411.1779236376.c8dbcb268fa4a6c274bb405229200320.752fad7963251f57098a3f780c707453.f0be5c399f44a856c55a75556f986e87&signature=bd09ff7edf9f89b3a057765b457908ff1736d59eeb5b0ac219c03f5b530f473b|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="18" tvg-id="Soccer.18" tvg-name="[Soccer] Boca Juniors vs Cruzeiro (Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3202.png" group-title="Soccer",[Soccer] Boca Juniors vs Cruzeiro (Sport 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+4&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+4&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-4/playlist.m3u8?token=1cc1966e52fa8e24e3d142bbd17f7d5ba38617bd311eb078bcdeedc671b327d4.1779236376.fa58c546d2a79ac610e0421eaec382c9.b660da663eee7c58c5ad80ded2a89150.43cd3d3f6403cfe6a947618d247a25b0&signature=f02b9c659dc6c29d512dc0a3e4be8e3de62d4add3ee4f988b31507e1ac95b2e3|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="19" tvg-id="Soccer.19" tvg-name="[Soccer] Boca Juniors vs Cruzeiro (beIN SPORTS 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3202.png" group-title="Soccer",[Soccer] Boca Juniors vs Cruzeiro (beIN SPORTS 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-1/playlist.m3u8?token=7502f93ffeca2054a8f051a0e9f06287de094a5ef31ab4e0333736648e3a731d.1779236376.6f8114aa17715a771bde6a90720dbb37.edfa945a1a3429a9c3da764e27a011b5.14e5a364a5920750db02c072b7cc614c&signature=8ed1ece9e5a83b7235e94b352093a8b55a2940aa30849a3b33e55ba73d22bfed|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=6311a9f02758dc5ec5ed20a7450a426186b7a12dad3beb335b09ae7dabba6573.1779252064.36acdd876a183dfae28b3159c9e91a26.1e23135ee0680e6ffba9db54c156635e.93fcde18c5a89bb8603feb0f346d042f&signature=397131debd43482a8b2527c051c7ead7c0dc94c25c62ed1d3a1f615fe60cce13|x-forwarded-for:77.238.79.111
 
