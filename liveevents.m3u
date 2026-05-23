@@ -1,1 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Austria Wien vs Salzburg (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2203.png" group-title="Soccer",[Soccer] Austria Wien vs Salzburg (Sky Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=at&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=at&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/at-sky-sport-1/playlist.m3u8?token=e4bf8d3292bd01f3009d6dcefa6700bbe04a267dc14c2e6dba2f81555f4ff29b.1779534311.e803db9c0690dffa0d065df5f42688cd.d04e722fbbe46064903c1d3fcc97d47c.b835aef84fe4db952729ec6a693aedae&signature=c68ee9791f0c786f0ca454ada5cb33fb2a1902367b28a8d4b742b737b5c8412c|x-forwarded-for:77.238.79.111
+
