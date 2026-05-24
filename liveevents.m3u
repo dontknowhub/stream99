@@ -1,655 +1,163 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Sport Huancayo vs Cienciano (Sky Sport Bundesliga 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/33895.png" group-title="Soccer",[Soccer] Sport Huancayo vs Cienciano (Sky Sport Bundesliga 7)
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Alianza Atlético vs FC Cajamarca (Sky Sport Bundesliga 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Alianza Atlético vs FC Cajamarca (Sky Sport Bundesliga 7)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+7&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+7&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/de-sky-sport-bundesliga-7/playlist.m3u8?token=6d138a3e7d8109500c59578a98ab74f89f4d7ea5292291f8d036498eb116556b.1779652858.c6e3f2b8d7b78b354c4480cbefdda603.4e753a95b5d8c8882d36ec0bbc18237d.d2f2d5a1c482c1360c924bbc668b4351&signature=831cf753f2d1105a4f252d17d61afdc543d087f4d6b551219c79403555f2df08|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/de-sky-sport-bundesliga-7/playlist.m3u8?token=64c7c159acab9b8b6a00467b99b109809c0ac2aa9a6e8fb430daa92a1d28fbe8.1779657213.ce881d4ee507de469a7c4c1b46898b39.c38e107747a3bbb3ac2e7982798b326e.94561d4f52c247deb12ad2fdef657e9c&signature=f097c891c43a7fa7b7085f8c6031ff449938a9dfe33b64d4e56fea63c6c6162d|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] River Plate vs Belgrano (FOX Deportes)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3211.png" group-title="Soccer",[Soccer] River Plate vs Belgrano (FOX Deportes)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+deportes&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+deportes&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-deportes/playlist.m3u8?token=b794aca290408341debfc20634a139b6afb6486263e8c197c8826d28d4e9555f.1779652859.877223db6169e3634662931810d701b0.809c65339ac9e5fe5a7b446175f5d7f5.9dab6697d1f46c00ce047410b697a325&signature=1b6ae2cd13ffe7551e7f5211518c020c5d9b3f41bcc857601ae8b8cda0ed8fdd|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] River Plate vs Belgrano (Viaplay Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3211.png" group-title="Soccer",[Soccer] River Plate vs Belgrano (Viaplay Sports 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-1/playlist.m3u8?token=8e89333f9bdec2a79c9c5a616c29324bc981d991131df6ba965bed163a24394c.1779652860.8bb13000cbf87850b39b2cb85d7b812f.78600eef55b14462b96af3535db010ab.47d38b0832b618d67c9fca3097048a72&signature=528d024e924322454a99a0ee4b36d348e5c1dbd8f8d655a2f74fbaf5f07c00f9|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] River Plate vs Belgrano (Premier Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3211.png" group-title="Soccer",[Soccer] River Plate vs Belgrano (Premier Sports 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+1&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+1&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-1/playlist.m3u8?token=55efda4659dc0969df59a1f72c581a41e49f0db13b823a4a96ccb2fb59df55c2.1779652861.1dd9055d68a309198add36c041646c70.ab3e6cf7f3185894d0e64eb0920dc1e7.cc5a53293c6387f3f390cf0c6bec9a51&signature=b480700a9b3ee900788d4d2999fb2915a4ab2c3764a327610cca77bd48bcdd7d|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] River Plate vs Belgrano (M Liga de Campeones 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3211.png" group-title="Soccer",[Soccer] River Plate vs Belgrano (M Liga de Campeones 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/es-m-liga-de-campeones-1/playlist.m3u8?token=d87ab2fac2fcb4e8d49bf2735667c2040f6553a98a738afb1ce786459cf967be.1779652861.0e5ec54de824e7c2700a4c2dfa83e184.6838f4bb90905b72cc5d14068fc66a2b.20e05b6d558967443d9a244760c7b4f4&signature=dd7c6592d186d01183554f57e2bb6a6685afdc0a261942c2bef138e78398770c|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] River Plate vs Belgrano (SportDigital Fussball)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3211.png" group-title="Soccer",[Soccer] River Plate vs Belgrano (SportDigital Fussball)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/de-sportdigital-fussball/playlist.m3u8?token=5e02392fd18c497598ec8a7050c3548342cffaa1605c3b8b35936dda0f5ed51c.1779652862.f8bd08b99b9ec4f4050914d4a9f0bcec.090d2d8a967919c90ace34be5555e2de.ffccfe861030e6dccf55714e8ddf9c52&signature=7d5220e94a82fae3d5d4d3139b4cc126e53e69b72d65ba4effa565d418bdd322|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] River Plate vs Belgrano (Arena 3 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3211.png" group-title="Soccer",[Soccer] River Plate vs Belgrano (Arena 3 Premium)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+3+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+3+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-3-premium/playlist.m3u8?token=580097bc92cb3535b365cc3a47d5250803838f3bf473e5cf8f43ffad04820533.1779652863.8e413f989ae6342a8c8d6c44e0081507.b0ff1bee445523cfbad589263b8f0952.28bda09b59baae026a0e139e4aa904df&signature=8bd844283fa33807a859665f2594ad93588f46c3d043bbdb94fdca89875fe9ed|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] River Plate vs Belgrano (Arena Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3211.png" group-title="Soccer",[Soccer] River Plate vs Belgrano (Arena Sport 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+4&code=hr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+4&code=hr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/hr-arena-sport-4/playlist.m3u8?token=350610760b4cc322936a7ac584ea3661bdad3387b6514a8088330c1e2da751ef.1779652864.0a83938ec0cf1371012861cb6d377329.f08fba38f1358a34b21c3c4eb26620ac.d060b50361a7a6e9643da666c8486620&signature=d9a19685070f2c3b2a7707b29b12850f1834123e9239ded4bfc65823d6bf469f|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] River Plate vs Belgrano (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3211.png" group-title="Soccer",[Soccer] River Plate vs Belgrano (ESPN)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/br-espn/playlist.m3u8?token=e3665b674b6bc4b2454241458fd4793ab32b07a220f415282528f0a300b2e8d9.1779652864.ff41204da4bda4ce8cd5a704e5e12dfb.cb9f0c7c4819429308f22c2470800166.f6c5f4d9b1de7cbeb66d55bdd6a689d7&signature=140f60f7cb65e0435f71fe083dff3940dc39e34c9bafde8a62ce33e17078cac0|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] River Plate vs Belgrano (TNT Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3211.png" group-title="Soccer",[Soccer] River Plate vs Belgrano (TNT Sports)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-tnt-sports/playlist.m3u8?token=e7084fe3f28a8a4cca4ab60f88f4f04a3158dce1617afc11817e67556743997b.1779652865.70a3b0bf5799ba43bc17a48699795248.8bd989970aa0ad051d09dbd059a204c6.bf259a9a1e83f1dc75ef17dda5d305cd&signature=3f5a05124c739f670f889b6401c99bba05030b3696bd41cb0cc72041fc57daeb|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] River Plate vs Belgrano (ESPN Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3211.png" group-title="Soccer",[Soccer] River Plate vs Belgrano (ESPN Premium)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+premium&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+premium&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-espn-premium/playlist.m3u8?token=0a5c6539f39baf4ebac4694440090fe97fe3dd87cdc9685e4c28afe7e87f5bce.1779652866.d1c3178329954612e8e322df554db6d8.78fdf1abd98ff7c83b300994efd7b32f.e89e215c94c33585b7ba3ba00dba2a6b&signature=36314ef589549c5aa03c022ae56a0d6163e132c06bc1ddfdc6d1b4e4041bf2f0|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] River Plate vs Belgrano (Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3211.png" group-title="Soccer",[Soccer] River Plate vs Belgrano (Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-1/playlist.m3u8?token=85c1d0af56454c8afabe860d5486a79db445d8575cd3e2078af2f13f6cd5d059.1779652867.7191e46fe39fba0ab671f1d4ea493af9.15b5b77855dbe149d5074f9e5744d72c.ee83919236f8dced220b4449c3f83739&signature=a01ffe42d336f4d56fcde4fdb2bd5c9b85a108471fa7cc383535a83335040fe7|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Cremonese vs Como (Astro Grandstand)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2761.png" group-title="Soccer",[Soccer] Cremonese vs Como (Astro Grandstand)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+grandstand&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+grandstand&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-grandstand/playlist.m3u8?token=c0a1eee357308231fe9156230a3cf5b84f6513ef3fda55ff7f713414088970a1.1779652867.f86bb63c7aa72c739653ae89a2332666.449649662bc47520314afd4f93b18617.98af7b496ca70ecf04b3797576ec6a82&signature=2e3c7ae2aceb326dc3dbc4f144a8246262b71776e4e8c9a0925023d84713aa3c|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] Cremonese vs Como (TNT Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2761.png" group-title="Soccer",[Soccer] Cremonese vs Como (TNT Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-2/playlist.m3u8?token=92791afe65503dc3140170c45fcfc3071f2b79df7223646e71adf527f695c591.1779652868.e5b23c3cb26c10eef84ca2fb6b3abb4b.23b3003b34bb409f1a51b61d551f0984.a1e41d9f531c873295978f3180a55c1b&signature=3c9f292573e6a4601eb5929f16f8c63fc7b792e786a2f6be3b67c02e6b050c1a|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] Cremonese vs Como (Stan Sport 15)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2761.png" group-title="Soccer",[Soccer] Cremonese vs Como (Stan Sport 15)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+15&code=au&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+15&code=au&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/au-stan-sport-15/playlist.m3u8?token=aa1dfcaf518327723b741192e08832c85bb899ca92420f019949e2cd4440aab3.1779652869.4be1bf9274630419148121c34beaf147.9c8e73804fa43f1dc37174b80a6bc9cb.40783852c0fb0b913e0cac4e5a3eeb70&signature=b940ea175e0cafc2958b91699dcf00d1c9e4573b0278748a536d0be4c3ca4375|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.16" tvg-name="[Soccer] Cremonese vs Como (Italia 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2761.png" group-title="Soccer",[Soccer] Cremonese vs Como (Italia 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=italia+1&code=it&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=italia+1&code=it&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/it-italia-1/playlist.m3u8?token=1d0304d8057c0dcf60f04bbe7611c0b8204e5830c2ce1781a0d56609099a73b9.1779652870.8fd30b283273aa3189a429eb4fa74e98.4a14ead0fcd4697d218146f55fd0b4c8.d1af66cff13e3c3dccc1e84c871491ba&signature=4726b13a7664899b78d36c292618f58de7c7d043d0c05c4c6e278540bcfcec44|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="17" tvg-id="Soccer.17" tvg-name="[Soccer] Cremonese vs Como (Ziggo Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2761.png" group-title="Soccer",[Soccer] Cremonese vs Como (Ziggo Sport 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+4&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+4&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nl-ziggo-sport-4/playlist.m3u8?token=ea0a2d45d4ab942a8b689bd990b0568188e006564f834711ca72c7c51cf9ade6.1779652870.8533bfedaeba7226de9d2855a1366210.7c552364890193e5a97f1a05c8e38ed7.665a67fe35293e3d4b6b87ce07f0e1c9&signature=868c5e5f78be752fda4ac493fe05361d677540ed6db622fc31e4b7d97f64f6e9|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="18" tvg-id="Soccer.18" tvg-name="[Soccer] Cremonese vs Como (Cosmote Sport 8)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2761.png" group-title="Soccer",[Soccer] Cremonese vs Como (Cosmote Sport 8)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+8&code=gr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+8&code=gr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gr-cosmote-sport-8/playlist.m3u8?token=fdec607fa00fbfdc4daf06719de031e3a569e9ce24f584e70c71d49d11359e1a.1779652871.dfb8b7aad572fc5dd30d9be8f7cfe89f.2618fb898fa4cb3097d18409e7a8aa65.860837d6e5bf71b4a37924cfbd4dd168&signature=077577a4b18e89f854a4beaaf7c67c9ca7c04833bf1f7f87ec1f49f85dce1388|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="19" tvg-id="Soccer.19" tvg-name="[Soccer] Cremonese vs Como (TV2 Sport)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2761.png" group-title="Soccer",[Soccer] Cremonese vs Como (TV2 Sport)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tv2+sport&code=dk&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tv2+sport&code=dk&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/dk-tv2-sport/playlist.m3u8?token=e364e340fea5306f2c86e8ee0cd06ba876e49b3af4324330725dfdebfa5e29f1.1779652872.a811ef681b90a6dd20c36646f0f591c7.14057fbdb4466e576a021452a92fa060.a4233502fc5f870dc7006965a824199e&signature=d2a0c3ba6bb011c5eadd4aed4b5e58551b978895e346da829429224ceb51abb0|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="20" tvg-id="Soccer.20" tvg-name="[Soccer] Cremonese vs Como (Cytavision Sports 6)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2761.png" group-title="Soccer",[Soccer] Cremonese vs Como (Cytavision Sports 6)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+6&code=cy&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+6&code=cy&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/cy-cytavision-sports-6/playlist.m3u8?token=71614fdacf9f04593e9fb04baa6091fd470ccd5ce7733c5980044385ca2940d4.1779652873.ef24adf6698ef01ccfe13f6107778b1a.bb84de3d174c7fc050e1760b7b2ca8b0.af1667fe9007d056353dfa8f10132e01&signature=a2185e67830d7c0caa76be5e54ff7daea2366a20e32eb50efcc9a136f91daede|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="21" tvg-id="Soccer.21" tvg-name="[Soccer] Cremonese vs Como (Arena Sport 6)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2761.png" group-title="Soccer",[Soccer] Cremonese vs Como (Arena Sport 6)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+6&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+6&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-sport-6/playlist.m3u8?token=7e9cdd02c30f7386c9ef239363a1aa24a4cfb57c95381db0c871d23d239c4f10.1779652874.132dbeee3111c19ef12816955df45d7d.c890ca4ba1d8a2a5d600c35a00e16cf8.58e2b892febaef61ab442c0d181cf7df&signature=6a0f8f96150c65cb3380a9f51811d268519b9f0695a01adbcc10fa03c5901307|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="22" tvg-id="Soccer.22" tvg-name="[Soccer] Cremonese vs Como (Arena Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2761.png" group-title="Soccer",[Soccer] Cremonese vs Como (Arena Sport 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+3&code=hr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+3&code=hr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/hr-arena-sport-3/playlist.m3u8?token=0567aa66c37a6a060ddb8ad70d3cdbb56581606ed84fb40428c6c9deffb5444b.1779652874.32158b6b45eaf50ef508278ceedd322e.6cb58385e00e54bca6a864da975c682d.f8855c04f1acdbbeb4c81021e292fa8c&signature=f3a37e624014d8361a179333380635740a505c23e22dae136c86ead81087865f|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="23" tvg-id="Soccer.23" tvg-name="[Soccer] Cremonese vs Como (TV4 Sport Live 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2761.png" group-title="Soccer",[Soccer] Cremonese vs Como (TV4 Sport Live 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+sport+live+3&code=se&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+sport+live+3&code=se&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/se-tv4-sport-live-3/playlist.m3u8?token=7a41f184320c772ec574a8cbc9249e1fa5679c4a42ea72c4412cd0ee9212efb6.1779652875.cd8327296be67fc8deee83e9b68482d4.e6ec5d74b11cec0042a6058356c933bb.dcf970ebcb631d9f5ef43d4467c23df1&signature=1b6529a567cd0c7f25105b50199648260328f77007f9e3a70f04b52022f12ac7|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="24" tvg-id="Soccer.24" tvg-name="[Soccer] Lecce vs Genoa (Stan Sport 17)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Genoa (Stan Sport 17)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+17&code=au&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+17&code=au&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/au-stan-sport-17/playlist.m3u8?token=575a992afb4fe4eda166956852a24c1263bf24e53237cc0115191423c9b64ca4.1779652876.6e1b1ab0b02ba342403e6828444f6a33.7f1ee09c914d5431f50814fb89c58e9f.fc80a42bedd587979ef603140d51166e&signature=937bfe99be96f910311d6a3641149100f9cc7f9e3f9dbed5ce0a143243dedf4a|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="25" tvg-id="Soccer.25" tvg-name="[Soccer] Lecce vs Genoa (Cosmote Sport 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Genoa (Cosmote Sport 5)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+5&code=gr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+5&code=gr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gr-cosmote-sport-5/playlist.m3u8?token=455903be27a2f2ac584b7e316e2d0d8ed0af503b6d3062ec0024e07fe7e20709.1779652877.5ee0762a4a10ec9dfc0e72de0a395c85.2d4e21c5391748a69f6cd1446b4b2ad0.6436fdc7b5aa8cad9924d660c9333daf&signature=c6ce8713c4bef7aa8eca1f0092ec269037ce0fcd7139b92ef2bdada3abda310d|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="26" tvg-id="Soccer.26" tvg-name="[Soccer] Lecce vs Genoa (Arena Sport 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Genoa (Arena Sport 7)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+7&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+7&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-sport-7/playlist.m3u8?token=5db8dc2deb465ec5b1f2f60f4fdfcf9b409234bbceba283bb8eb9b0c12fd51dd.1779652877.7355c338ce60d5ad6c39377e4d2cd803.b298607718c28b5cbc0bb4a499e15622.f29eeb1a75414ab10b9102923808a01f&signature=8e7e23bbe958dd3fa2215f04c4979c45baebd4b0ab6a2a82068b4f7f7fdbf262|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="27" tvg-id="Soccer.27" tvg-name="[Soccer] Lecce vs Genoa (TV4 Sport Live 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Genoa (TV4 Sport Live 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+sport+live+2&code=se&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+sport+live+2&code=se&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/se-tv4-sport-live-2/playlist.m3u8?token=a7bce8fd00568757deb7362b8925c6d7f4681a006036ece8b81f342b77cf2694.1779652878.b2a5ee48cb28f502fd8032c6f82afe28.c2341715511cd8dac678879126c70740.7b6d4915df015bfb92c2ab951775698f&signature=7f554966e14aeae6611f7f7e1624091581af2aa8b5a0e5e43301d22a1105060c|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="28" tvg-id="Soccer.28" tvg-name="[Soccer] Lecce vs Genoa (Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Genoa (Sport 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+4&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+4&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-4/playlist.m3u8?token=bde813c2d20550c88a4a929081b1d1d0fbe13545858b0f5ca0eb25f1be277129.1779652879.db319099fa020357b39e2e42897b9681.f6aadaee1ff7c871ceb0dc5d09831990.dcc3e45dcafb4d53d3c523e875acdfe7&signature=7164c95cf6441c16b8868faa2c377b2c689f3d7fc9915553566f9894b8016d1f|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="29" tvg-id="Soccer.29" tvg-name="[Soccer] Torino vs Juventus (TNT Sports 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2696.png" group-title="Soccer",[Soccer] Torino vs Juventus (TNT Sports 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+3&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+3&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-3/playlist.m3u8?token=f9b1ded69f8f05a85d23f9c4e710e4c0fe469d4349b02d19e1e3de2ad1f84d30.1779652880.be59c6f6fc483d362af4d508ba27b673.780ca1261e91a98883acb0d87899f808.180b75e695a07b538b45d3e3068e77d9&signature=c5682b846bc60e50156f2d4de2c5bde1a1c8c54d78faf635a057fec0718847ba|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="30" tvg-id="Soccer.30" tvg-name="[Soccer] Torino vs Juventus (Stan Sport 20)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2696.png" group-title="Soccer",[Soccer] Torino vs Juventus (Stan Sport 20)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+20&code=au&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+20&code=au&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/au-stan-sport-20/playlist.m3u8?token=2d3ec4d9677c09552ffffa04646d333454c0cf9fa9a5e92fac26f14853ba6122.1779652880.afeb7a629b5dccf4ad43b505ae51684f.92639a8793ad062d56684ece8ca7c36d.e8dc36fcf8f714680d1d29ee6a1b3f02&signature=2e07a3efe079ecd369072fdb5be891e10ac146703642305471abdc1beb0e1841|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="31" tvg-id="Soccer.31" tvg-name="[Soccer] Torino vs Juventus (SuperSport Variety 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2696.png" group-title="Soccer",[Soccer] Torino vs Juventus (SuperSport Variety 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+variety+3&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+variety+3&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-variety-3/playlist.m3u8?token=10c22ea29eb07e6d861a54be3266de09f3988ea2e6593df4a3aa70cb4d97a744.1779652881.5ea0a013bc12febf44d25774de5ee01b.3c2ee0372ea677e3ca78893613e73481.85a1bfac14074701ffa124b3f92c0a0c&signature=c42bb8195cfd88173347cef630d939ee61ddcac4491beb547fc87d4238b111cc|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="32" tvg-id="Soccer.32" tvg-name="[Soccer] Torino vs Juventus (Sky Sport Calcio)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2696.png" group-title="Soccer",[Soccer] Torino vs Juventus (Sky Sport Calcio)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+calcio&code=it&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+calcio&code=it&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/it-sky-sport-calcio/playlist.m3u8?token=b1b5471e1398e52195c385bb6ae255524137c7b6aca3ddb47514919d095feea1.1779652882.6ae5fd1cf679fee3ea75c18b2eff8d62.ab7af82f9e23b8a80f6714e69d41dcd3.e730008dfecba3863026dd67fd7ee226&signature=c1cd6a642f1a3b6d6e83293dab6cf2123bfa1aa0396006d9b028267e8db009af|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="33" tvg-id="Soccer.33" tvg-name="[Soccer] Torino vs Juventus (Sport TV 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2696.png" group-title="Soccer",[Soccer] Torino vs Juventus (Sport TV 5)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+5&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+5&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-5/playlist.m3u8?token=59276950112df2f36660010aee169fd4d23345711b18c8c2d6f81c021ed37172.1779652883.50c0ebd06f53a6b460408fdc607a3f05.5ff485bb76fbd97bb54543a49d4f54fd.14edb723b5b1db57f13f99186cdff60e&signature=0e37a3b1a62d1bc92916f0b307ed115d3dbadb0a3c7f4a451792b27a4d1fccb7|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="34" tvg-id="Soccer.34" tvg-name="[Soccer] Torino vs Juventus (Cosmote Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2696.png" group-title="Soccer",[Soccer] Torino vs Juventus (Cosmote Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+1&code=gr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+1&code=gr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gr-cosmote-sport-1/playlist.m3u8?token=4db98873262dc1ea5cef002a36b607fdcf56733d07fbd641fbe2baba71e94361.1779652883.a6debee0b35b1461acf4996f562609cb.71b4958cdb1d34cd8b083187a5b7a82e.ff885b9b7e491e0a1cb1e998c768a020&signature=d4fc558c94c8b7f5f424bec4de573f2f17c32220af8d63334845e7118d3e9899|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="35" tvg-id="Soccer.35" tvg-name="[Soccer] Torino vs Juventus (Match Football 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2696.png" group-title="Soccer",[Soccer] Torino vs Juventus (Match Football 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+1&code=ru&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+1&code=ru&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ru-match-football-1/playlist.m3u8?token=51db51986ecc4aba20dd25d04f33d7f06e78b398116c5636a75cddce82fd95e2.1779652884.fc60c887fccb190e6cd86422503208d6.bead62e5f10c4b2154a8571986dd06f5.06b19ab8bea23fc43a9cb93883414f12&signature=694c3c3c631300f28a573d1b19a3a71fe6e838e32697d7afc29eedf6bee871dd|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="36" tvg-id="Soccer.36" tvg-name="[Soccer] Torino vs Juventus (Cytavision Sports 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2696.png" group-title="Soccer",[Soccer] Torino vs Juventus (Cytavision Sports 5)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+5&code=cy&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+5&code=cy&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/cy-cytavision-sports-5/playlist.m3u8?token=11deb39b82f4a240a2c120b6d1f4bc848ea6477c82114e83e56b297206af97ef.1779652885.5024c9869d7fdb6cd624a1c9b335ec9f.7b623def3231a40d5f3e60033456f59c.286769a40c1b28b118ff1e45c424f713&signature=3da79082eec071b402ab1ede7b51e9f900e843010a90fd0e332fb03f51e1f1dd|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="37" tvg-id="Soccer.37" tvg-name="[Soccer] Torino vs Juventus (Arena Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2696.png" group-title="Soccer",[Soccer] Torino vs Juventus (Arena Sport 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+3&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+3&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-sport-3/playlist.m3u8?token=b9e4148271ccf2b5eedf0a3c506394125e78f0b23a7ebf8e47e5597531a42252.1779652886.4d6c7eb4403e52019d89fe34305f21bb.d7ec6c5d9155e49ad85d07b1338a1e7f.684a07d4169f53d2eff10569c89e1529&signature=fa42926956702c0f96f5071d128f9e8da3559797266cb6ce05716cf3755d98e1|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="38" tvg-id="Soccer.38" tvg-name="[Soccer] Torino vs Juventus (Arena Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2696.png" group-title="Soccer",[Soccer] Torino vs Juventus (Arena Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+2&code=hr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+2&code=hr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/hr-arena-sport-2/playlist.m3u8?token=f683847efa1d839d367f805c770e54aa7f3c96a79e9a9b250370e499d6b2a76b.1779652886.bc5e180f055f882f27b96bcf93afed06.956c1bccdfc63962df322b19652c5ecd.2617d7703d8679768320448962b3d9d9&signature=0661271fa614bceb95909c2a3579afb0a6dbb5c40293a467991ccf9785fe5dbd|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="39" tvg-id="Soccer.39" tvg-name="[Soccer] Torino vs Juventus (ESPN 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2696.png" group-title="Soccer",[Soccer] Torino vs Juventus (ESPN 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+3&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+3&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-espn-3/playlist.m3u8?token=594daf9024fd12af0a3081fbc00695e491c18f6a5483a8f4d58675527b3b856f.1779652887.cb2043e992785e5aab08e22f1dd96822.6866b7c52203e9afca29f2e99936f707.3c4a15f799458c9f0e3eb02f9c941967&signature=ce63e30f560ca4bd676d3b68657c75143362e974dfac1f72782fe92931b26d27|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="40" tvg-id="Soccer.40" tvg-name="[Soccer] Torino vs Juventus (Digi Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2696.png" group-title="Soccer",[Soccer] Torino vs Juventus (Digi Sport 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+3&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+3&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-3/playlist.m3u8?token=75604d9b298f46b25f9870d66f5956e1b9605f233dd91d9d020512c44107e6a4.1779652888.6c0734fea4e025cac9c5d33f9b820f1a.2ebe753b142fc85e4f55cb338984049c.af8bb56474b469fa30154703669b4817&signature=32489004e6d4868b9c0dce7bca350306b6ade0a30299a7dd0b94779f7e1cd0e5|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="41" tvg-id="Soccer.41" tvg-name="[Soccer] Torino vs Juventus (Prima Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2696.png" group-title="Soccer",[Soccer] Torino vs Juventus (Prima Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+2&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+2&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-2/playlist.m3u8?token=6b527fb7d36d916b9e4e0310c52813e8eac68dfa9f91add5f6574f05e0991aa8.1779652889.da4b6902f67ab38e46afade3cf7cfef6.bea2a3c285076e94273cac57b8c849a2.7ad950f0faaf8d8c81e4045781019f88&signature=ba15818c371de66e5bec419dbc128c2e515b572e8a028d2174ee0a192a22c1f9|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="42" tvg-id="Soccer.42" tvg-name="[Soccer] Verona vs Roma (Astro Football)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Verona vs Roma (Astro Football)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+football&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+football&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-football/playlist.m3u8?token=31fc336e6812cb93af9226e5193c76ea6b667e8036e11b580cadeffd8187b326.1779652889.5adc2345c15ec959a22ba51b7656de0e.d01c8c4d0a9e5b4e5be118fe9fcb243f.95a2a937468f07dfac2da7279dcbd858&signature=0d2c1b975cf7e94f54d4efabfc2d4a5a80ded37021b13ce60548a2f349ff0aea|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="43" tvg-id="Soccer.43" tvg-name="[Soccer] Verona vs Roma (Stan Sport 16)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Verona vs Roma (Stan Sport 16)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+16&code=au&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+16&code=au&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/au-stan-sport-16/playlist.m3u8?token=88879c68acaa1f0b55b81c42d89119336f96311287ad2e8ee3f4d9a5b50308ea.1779652890.784572125bc3232d58cc4070676e9142.87b3a2c01bbb0d4ba362451032918f18.a365d2f208fcc633b9bb7e922be937d4&signature=041d00d725ddcfa27eed7ab1715d78c9e80fa690d49d6630e938137a5f7499c1|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="44" tvg-id="Soccer.44" tvg-name="[Soccer] Verona vs Roma (SuperSport Action)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Verona vs Roma (SuperSport Action)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+action&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+action&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-action/playlist.m3u8?token=8fe8184c7de03eeb5f3250c7562e35984973be6f73a7dd56284043a9141fa6c3.1779652891.7a5f347802ca68735d66c5cc288cf76c.c81c09d21c178be4b18a7cdfab431f13.ba8002452b5b86738f180d67e7f3f0f5&signature=dd894efe908ddbdfb9d96dd07f646124278c7450484a922a0b15decd07d23a34|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="45" tvg-id="Soccer.45" tvg-name="[Soccer] Verona vs Roma (Sport TV 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Verona vs Roma (Sport TV 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+3&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+3&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-3/playlist.m3u8?token=c5f9042c05160a1a9cdbb7b09db023896259ed67dc8611f87e28665600f9cc0f.1779652892.8bbf308a6e46acc5abd4a076dc439c57.4acb2c4d348dc770ccfbcd50106afa24.c8fc30b09df6df9b8ecdef01a066e379&signature=9abaef4aeaa47f35e86159853b99a38046498846e8d1156904072b69ab5ab054|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="46" tvg-id="Soccer.46" tvg-name="[Soccer] Verona vs Roma (Ziggo Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Verona vs Roma (Ziggo Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+2&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+2&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nl-ziggo-sport-2/playlist.m3u8?token=5b0ba0b3950143ab653cb4c87660652a59afeaae653de6ace981a17e66e56684.1779652893.120fa9e46aad48ea58038f957da004b1.eda274ac190db55304ce1d09c446ee9c.8beca58511f318a43d4f042a6e2f9b8d&signature=160be9cf1e3a229e634a03922e1d0ee313f7f5c50d74edd80348d6272fb237f6|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="47" tvg-id="Soccer.47" tvg-name="[Soccer] Verona vs Roma (Cosmote Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Verona vs Roma (Cosmote Sport 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+3&code=gr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+3&code=gr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gr-cosmote-sport-3/playlist.m3u8?token=bbd409f4f11dbc0bb1dc0695a521277d4b9437c86886e530f7168ce451d52a26.1779652893.6061d14b5630718155713bf5c34ef661.d689d966ad71595152f77baeed98b38a.deba6feeca1e4caeb6b7e4b0d2e2e6a6&signature=5c9b17b2be131b8a909df156c4e781f373a163832ed4c77fb1a9381e5aca838e|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="48" tvg-id="Soccer.48" tvg-name="[Soccer] Verona vs Roma (Cytavision Sports 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Verona vs Roma (Cytavision Sports 7)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+7&code=cy&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+7&code=cy&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/cy-cytavision-sports-7/playlist.m3u8?token=e1030aa2113a59274c13b363602c56b2a62223ab5eafd15abbebb84def344d1d.1779652894.5a4fecafcfe7af19c7725df828ba24e2.1217814a5125bcd2db4e667f605632d7.ecd8c06f31c2dd02a2d1718379329e36&signature=0fc6d7f2704467d3b70e0a78f493c024cb359b6240e367eac7e7ecfbdfc35030|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="49" tvg-id="Soccer.49" tvg-name="[Soccer] Verona vs Roma (Arena Sport 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Verona vs Roma (Arena Sport 5)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+5&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+5&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-sport-5/playlist.m3u8?token=f07b295a0ef44b5c964a8512374f2ac39a9904e4d30b231529b231a5dc6e8017.1779652895.6c97dfc6195dba26dd5117cbdd7b1846.2422c4e5f0ddc83df89bb00ac03e10c5.88501db0b6163a4777db9583776c42a4&signature=f5a1fa9257fbb125d21396a6e92aea4c91c0b53d038f4cf31e97f9b227e92fe5|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="50" tvg-id="Soccer.50" tvg-name="[Soccer] Verona vs Roma (TV4 Sport Live 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Verona vs Roma (TV4 Sport Live 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+sport+live+1&code=se&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+sport+live+1&code=se&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/se-tv4-sport-live-1/playlist.m3u8?token=bb2234580ec255d825e9ee236ed00cd3bd4f2c76d62949d0aee42d0e27ef4421.1779652896.8e53e62de31957bdc8bf1fdc55d274c1.7f78eb67f58e0ea5bc502c5e19855317.5b50806b4ee50c588c672d20d2dd21c7&signature=c960d4bf8f637e826c9ccee5ed33a72a4cc2078b4448ccbb05897025d60d6364|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="51" tvg-id="Soccer.51" tvg-name="[Soccer] Verona vs Roma (Prima Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Verona vs Roma (Prima Sport 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+4&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+4&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-4/playlist.m3u8?token=e5b25dfe232236a5ace09037dca1c86ec26256d21d2fd7a3980e1832d38affef.1779652896.51b65980485f378c2e8fa3198be10be2.bef54193f8082d186af6808681060ce9.39d619b1db5683c40acee16d4c99ff29&signature=fecd81a30c5075257d00a95e571cb2c4fd77791e10ab3ea6bafd7730ede5156b|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="52" tvg-id="Soccer.52" tvg-name="[Soccer] Milan vs Cagliari (Stan Sport 14)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2692.png" group-title="Soccer",[Soccer] Milan vs Cagliari (Stan Sport 14)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+14&code=au&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+14&code=au&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/au-stan-sport-14/playlist.m3u8?token=dbf60783f04480aada031df555e024bc473ca2e92edefa10497008d931fc9825.1779652897.15ad1ec2c9f0f1d1af144b3534289de9.2901d7520f9244b8d707c498e142d0c7.1ad2fea4b4e5a5ee48b304cbb16fb58b&signature=d65989fad1f991c3c1646e0f487315aafb6cb61af3c7ddea1b5867c8817150e3|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="53" tvg-id="Soccer.53" tvg-name="[Soccer] Milan vs Cagliari (SuperSport Football)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2692.png" group-title="Soccer",[Soccer] Milan vs Cagliari (SuperSport Football)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+football&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+football&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-football/playlist.m3u8?token=808f23a07d67a632ebfcc3c363ef9367a97fd53bf77a9a2072f8ea4d581d3e2a.1779652898.7c5f3e7a65172c2fb062412c1fd0dc4b.ba3b23c9ab47d00068e54231d7f581c0.b66239b2460b70532d9c1a200a8250e4&signature=9f672f209805956cb0a3440e8c52728b37719eeec498472fda6d4ac16c3a99d8|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="54" tvg-id="Soccer.54" tvg-name="[Soccer] Milan vs Cagliari (DAZN 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2692.png" group-title="Soccer",[Soccer] Milan vs Cagliari (DAZN 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=it&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=it&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/it-dazn-1/playlist.m3u8?token=028b83e1cdbadbc188780edd2764e7013735672188fa336a26d3832e4f5d956e.1779652899.cf3cf56cf394b63eb9cfb7c8f20a7e01.24da9a95977e9aefee5899a56c41fb45.fb914716d9fdd2c818b2ee3cb3b02856&signature=a2320d5f1f6f1b16f2fe15bd88cec061777780a0b4fdde799354598cafc5f6bf|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="55" tvg-id="Soccer.55" tvg-name="[Soccer] Milan vs Cagliari (Sport TV 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2692.png" group-title="Soccer",[Soccer] Milan vs Cagliari (Sport TV 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-2/playlist.m3u8?token=784897ac2882e9db3c714b0561a2030499b1366baab80156fa16828c1f62646f.1779652899.be1cd7678605d17e695d509e6ed32eaa.120914031f11f51e7b6581dbf591138f.3541c05ffd0924cb3e1b40f15edd8626&signature=43cb22e34967f66dafeebe8b3a5203d531ccd758ebb075dedf7a1f04733c4161|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="56" tvg-id="Soccer.56" tvg-name="[Soccer] Milan vs Cagliari (Ziggo Sport 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2692.png" group-title="Soccer",[Soccer] Milan vs Cagliari (Ziggo Sport 5)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+5&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+5&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nl-ziggo-sport-5/playlist.m3u8?token=ca55f7bdebba692693eefa1517f34b641b6c367bd52cf41c83b1eb5c7049de27.1779652900.d40137966c989ac5c82d9cf5a324b764.659ebfb83c394551203ad0d4d6699a94.55f68133cc188e57cae8c382710e75c6&signature=6bca006dc0918c925020950a08e85dd75c4944fe326fd4dbedb24361bb9e278d|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="57" tvg-id="Soccer.57" tvg-name="[Soccer] Milan vs Cagliari (Cosmote Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2692.png" group-title="Soccer",[Soccer] Milan vs Cagliari (Cosmote Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+2&code=gr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+2&code=gr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gr-cosmote-sport-2/playlist.m3u8?token=74edcee4fc99eb7ddd69d50bc1a71d37930694f0dee487a1254208d736227700.1779652901.42a5e4b445a8a204e7cd93bc66a3865c.fcc8699c26a0979bbf8b187969f6c14e.166c6619ab3942ec88cd5172b4720f88&signature=d2ad18c1b217c56975a983d2a2601d23857ef5ceaec297d67e5fb7421e0ae055|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="58" tvg-id="Soccer.58" tvg-name="[Soccer] Milan vs Cagliari (Eleven Sports 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2692.png" group-title="Soccer",[Soccer] Milan vs Cagliari (Eleven Sports 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=eleven+sports+3&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=eleven+sports+3&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pl-eleven-sports-3/playlist.m3u8?token=4e9914225b2f7e886510e0ff88f3616e9f3453c914511f958f84589eed5fb42d.1779652902.fcfc2b28c711b95260a2eb3bc45edb55.5ff8553a45b115a491ca7fce5bc17308.0c8daca98d65c3637d8edb9ec0230ef0&signature=e3f49c5d40e676ecd6111b886b1e0cd5762eb8ee915bbaba0013181c795d3838|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="59" tvg-id="Soccer.59" tvg-name="[Soccer] Milan vs Cagliari (Match Football 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2692.png" group-title="Soccer",[Soccer] Milan vs Cagliari (Match Football 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ru-match-football-3/playlist.m3u8?token=f74caaae17e8feceae5b9ae25a73fa1c0d2bd9b152c373832df97cd454e3406a.1779652902.22cc6b62facf69ed2aea1c8ef0fb06c9.ad678e2d25dab36328861d4bf711d8d1.8d919ef3cc7a4fb0dc83e9f2b2067cb9&signature=9ec0e4efe5d2a5f3ea4a909c0494900f74b737c8acee3aba088d0bf351660790|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="60" tvg-id="Soccer.60" tvg-name="[Soccer] Milan vs Cagliari (Cytavision Sports 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2692.png" group-title="Soccer",[Soccer] Milan vs Cagliari (Cytavision Sports 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+4&code=cy&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+4&code=cy&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/cy-cytavision-sports-4/playlist.m3u8?token=99e14c9807277c6ccb7657c5249ee50082647f9d8e5efcbc7bc83813f2c74dc0.1779652903.24c57a94ea886a5522fbf4db3fb60016.d9089af65805052f5f0fd7fa4030a25f.6af1a93c33ba36920477629df57cb94e&signature=89399587a27f43ab0b51877be330f45f6e4fbd5d4b80ea778beb2e2b00eef09d|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="61" tvg-id="Soccer.61" tvg-name="[Soccer] Milan vs Cagliari (Arena Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2692.png" group-title="Soccer",[Soccer] Milan vs Cagliari (Arena Sport 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+4&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+4&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-sport-4/playlist.m3u8?token=c0998be8fc11edd5edb98a6163a7ed3fc96761c8ae16c8182d02e698de94e5ea.1779652904.29e4dfc547138d981d1546c8d56e1e23.72c40abe72fc120e9c0c0768e761324c.1067a7c4d7e5478a79e0b8463f41c2cf&signature=a796ccd1db3ef71ac6193810ee6843e1fb0bdea8206d5b06f99b2756994be006|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="62" tvg-id="Soccer.62" tvg-name="[Soccer] Milan vs Cagliari (Arena Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2692.png" group-title="Soccer",[Soccer] Milan vs Cagliari (Arena Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/hr-arena-sport-1/playlist.m3u8?token=c0b0e9fbbe6c36a7fe85c4d9e9d866b25b791bdbbb5138f40d164518ee741f1b.1779652905.4b679e3178f8d02804a5fd36606bd2e3.30a952ff030d61a88899090c3cf494ab.502555602f53e3d30039a2f1a1de60db&signature=e88b04d1bc6ec401d5c4042ce6e092fee46a4fc56b7f95cd672cad1133178ec4|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="63" tvg-id="Soccer.63" tvg-name="[Soccer] Milan vs Cagliari (TV4 Football)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2692.png" group-title="Soccer",[Soccer] Milan vs Cagliari (TV4 Football)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+football&code=se&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+football&code=se&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/se-tv4-football/playlist.m3u8?token=59c53f1c677c9ffcc7514c2f5b488bc694538bcd9a7875762082ff315baba161.1779652906.ea949b8fa03d7433e884694bd98cd43d.9f0bdec72cbe077c74ff2312b68c0852.651c7cc48ece5f8db242332a772701b2&signature=3dcfc966f619e6f4ecf9673cbcb619314d24760c4a7de798af9f9df29393c1a6|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="64" tvg-id="Soccer.64" tvg-name="[Soccer] Milan vs Cagliari (ESPN 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2692.png" group-title="Soccer",[Soccer] Milan vs Cagliari (ESPN 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+3&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+3&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/br-espn-3/playlist.m3u8?token=7304bb0321aa35075eacfbdc9153e6ba2e027794beb55d73fb1fceed9b013e22.1779652906.8320cb8af6d415887a591da5362f215f.fc5fd95c1b9cfcca79e10e20fdf2698e.9bd8311fa920b453b3cd04063fabba87&signature=9e1f97f8ffa4446c593c306941e3310bef5a9fe579cd22f236215058af75b5c6|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="65" tvg-id="Soccer.65" tvg-name="[Soccer] Milan vs Cagliari (ESPN 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2692.png" group-title="Soccer",[Soccer] Milan vs Cagliari (ESPN 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+3&code=mx&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+3&code=mx&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/mx-espn-3/playlist.m3u8?token=5bb8a2217a8899bb906ca6479f66b37e2f8a15611388561da082a17cf23a0807.1779652907.966013f2ae1ac269f49dbae316eba772.4a186d446935214b396dea971ed845b4.0d5f4e4752baa6deb4cbd3c796fb487b&signature=2e9975ad8eb983f3f35c1fe638c206446c61afcde457e925aa4a921815393292|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="66" tvg-id="Soccer.66" tvg-name="[Soccer] Milan vs Cagliari (Digi Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2692.png" group-title="Soccer",[Soccer] Milan vs Cagliari (Digi Sport 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+4&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+4&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-4/playlist.m3u8?token=dd12f413231e0ade81fbed44e42ec88a8544f2bffc91abfb44020a811512096c.1779652908.80ad31eeafe7f4b6bd8b37b5993c1721.bd2b9236005c1b8d7d21e4ffacae7788.db9cd8a33317221282d8d9c02e653f68&signature=25982c678a8ae71b33a1b1a4b6bcde851e301feeea0e7a3243c53acd3eb5b6b2|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="67" tvg-id="Soccer.67" tvg-name="[Soccer] Milan vs Cagliari (Prima Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2692.png" group-title="Soccer",[Soccer] Milan vs Cagliari (Prima Sport 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+3&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+3&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-3/playlist.m3u8?token=f9c7deb56e5d138bceaa053e299328a3fbd5fcafc7a51e4d7b18c073f2a5dce6.1779652909.536febf4318bbe27d1fbc7ef1df7888d.35e68cec5831b167fdf2c8a51581a2bf.56e81e958a72694c3036b7ab2ed44038&signature=b96c4e59dc2e8a62e16d0c19533f5e32ce44893cd393fef5301fc1e9f1c1bff3|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="68" tvg-id="Soccer.68" tvg-name="[Soccer] 1st A vs 2nd (beIN SPORTS 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] 1st A vs 2nd (beIN SPORTS 5)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+5&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+5&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-5/playlist.m3u8?token=c3737c107db036ac7414b602740e0b35ebcaf6c7a156bb2a7dba90e7105d1652.1779652909.8b5cd0386921845f35d5c1b632b2e311.2f07d08adef9c54a4242d7bbc91e3ebb.cc42ab5d49128de8f07120eb60d7c195&signature=42aac004ca321ae21e7f2e8078feb55436be8b672d21cd5c52b8a5b08fff4283|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="69" tvg-id="Soccer.69" tvg-name="[Soccer] Salernitana vs Brescia (Rai Sport)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2710.png" group-title="Soccer",[Soccer] Salernitana vs Brescia (Rai Sport)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=rai+sport&code=it&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=rai+sport&code=it&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/it-rai-sport/playlist.m3u8?token=f6e87dd3a3070bc2587c08102867b13a0c86a964b74f91abe614d1e6995ad619.1779652910.1d995de0f24966b773a30f93f9b4fdc0.bc6631675c6d0a387b0c19ef887074c9.2392aaa0ed18db48f05c40075bc355db&signature=0285ebc1e0409597a9371622fb6c0c45bcdaa2759a567a0c42eac155f276cd0d|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="70" tvg-id="Soccer.70" tvg-name="[Soccer] La Serena vs Deportes Limache (TNT Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5031.png" group-title="Soccer",[Soccer] La Serena vs Deportes Limache (TNT Sports)
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Universidad Católica vs Colo-Colo (TNT Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3151.png" group-title="Soccer",[Soccer] Universidad Católica vs Colo-Colo (TNT Sports)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=cl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=cl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/cl-tnt-sports/playlist.m3u8?token=639f99b14995773e857eda3a5796ba56933e02a5d09ee4bdb1f0ee72f6fb3109.1779652911.d9963ac4a10fcb99a3422fd37a3ba5b8.0df617edf02fca28f998f5ba0bdb549b.c7f760e933bfb2f40b9e330f65d10906&signature=df88874162bf086f0971a7982ae92c5b6311ad38a05fe0ea58c0661ed8cb82df|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/cl-tnt-sports/playlist.m3u8?token=4103deaf9c53bf22be68a86be9d3bd090c8c814b269309080f308df405b3831c.1779657214.165ef1f3b2791b16b7de653ca2f79200.4cceffeb372a7140bdbb72a9634e00d5.82383a142a31f45ebe3aa651fd355cfd&signature=e3125085df4c4a024c772f0d5d146044cc5ad61f17436f00fd073ad79fbc09cb|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="71" tvg-id="Soccer.71" tvg-name="[Soccer] Villarreal vs Atlético Madrid (ESPN Deportes)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2819.png" group-title="Soccer",[Soccer] Villarreal vs Atlético Madrid (ESPN Deportes)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+deportes&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+deportes&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Corinthians vs Atlético Mineiro (M Liga de Campeones 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1957.png" group-title="Soccer",[Soccer] Corinthians vs Atlético Mineiro (M Liga de Campeones 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-espn-deportes/playlist.m3u8?token=d1a310a2fbe19092cfcc4eb010575ac0fdc239f90bb1113ced8791506a888a28.1779652912.e867b09a1001f9f84fe36a91bb6bd154.1114a63fd41c807bec468de58c876e39.a07457fc9d35bf02b734cb4f6b63d6d7&signature=9c030b95b2922cf6750a770f47eb097257f443d921fd2315b379c5709de99456|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/es-m-liga-de-campeones-1/playlist.m3u8?token=ecb0781953cdc90977dea79b739dad6d325332b14520bcc768edf918cbed65f1.1779657215.6c83104fbf59d643a22b045ce582e242.0c0ea96b896b326b03baf8895d03bd42.e4d4593816d32808832ed4a8c042ea31&signature=fa296bd9a516957c5bb715c3472b4407246dc52c11c48ccf7df2f350037c4313|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="72" tvg-id="Soccer.72" tvg-name="[Soccer] Villarreal vs Atlético Madrid (TNT Sports 9)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2819.png" group-title="Soccer",[Soccer] Villarreal vs Atlético Madrid (TNT Sports 9)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+9&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+9&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Corinthians vs Atlético Mineiro (Vamos Spain)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1957.png" group-title="Soccer",[Soccer] Corinthians vs Atlético Mineiro (Vamos Spain)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=vamos+spain&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=vamos+spain&code=es&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-9/playlist.m3u8?token=d138fc09ca3de2b4a67255cfc0ab720c62b8ee9aedf0b3c18e892bb94fbb51fe.1779652912.33d5816b25e4315eca6ca527f16d3af0.cda2b0c56361635cd12ada406e686262.44f013a503529153f2a0c6d8aeb81f1f&signature=caa014aaef50de26e9e212f45b8ff73f86fe4e0bf62e6fa007e08754c0891785|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/es-vamos-spain/playlist.m3u8?token=303573e60f46fb967314e12b4c9b0cdffc5a1bddbd01445c90972be08f252d46.1779657216.b7a405e71735c0b8cd67ec8886459006.9267ad13f0baa3c2c5579efeb9c19aa4.2febe3672b6a98553a7f0ab9280e9af9&signature=075d5bec4be846e3e1e58256068ad444c132e60ac4c987b2a071cfd8ac580469|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="73" tvg-id="Soccer.73" tvg-name="[Soccer] Villarreal vs Atlético Madrid (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2819.png" group-title="Soccer",[Soccer] Villarreal vs Atlético Madrid (Viaplay Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Corinthians vs Atlético Mineiro (SportDigital Fussball)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1957.png" group-title="Soccer",[Soccer] Corinthians vs Atlético Mineiro (SportDigital Fussball)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=8f135117d45274eaac3707889ae96d9763dcf0bbf89e4141e31b107e743a3f34.1779652913.9d80c12c2e87e662b62cb911a6c038c6.9e7642a2b66c811990ba82bfc56f221a.3066a7cfa2cc556096ae6832655c6299&signature=dab326b1bfde0ec9f494a79ce51c6bf2270eeab51310ce86547a03918d0c66e0|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/de-sportdigital-fussball/playlist.m3u8?token=d406024f3b1f0907446a4e90d7df9955e3bb089ce5081a94f2fd809b3ed399a1.1779657216.e44ecc06e235a596907f75fca2a2baf7.26b91562cd5d289cdf4b87b542bf9839.ecec834a9ea410c42984d40e881e3e95&signature=fe967155bb636d7071ab3b7d47320f8f76653cf7e28d20ef66e317db7f3f149e|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="74" tvg-id="Soccer.74" tvg-name="[Soccer] Villarreal vs Atlético Madrid (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2819.png" group-title="Soccer",[Soccer] Villarreal vs Atlético Madrid (Premier Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=6d1bc0086cb807c53ad846e94c40e44d88cb30fb2ce4fb7ce57b71199b07dd15.1779652914.5f688df3cb496e143cc460c9cbae982f.9f0aee1980cee90b96f81b00906f3a13.9c2868b57207f826229d96ec9936dee7&signature=6757b7615b56b1091ef4a9cb9e5bc16bcb30e15141c87562a6ec4da8bffe11fd|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="75" tvg-id="Soccer.75" tvg-name="[Soccer] Villarreal vs Atlético Madrid (SuperSport LaLiga)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2819.png" group-title="Soccer",[Soccer] Villarreal vs Atlético Madrid (SuperSport LaLiga)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+laliga&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+laliga&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-laliga/playlist.m3u8?token=d061ad475c9b8ad1300f426e25085c8b906a8db22be165ab0151accc3ff4c7ca.1779652915.754159a3acabae382b5bb1912fa04ba5.90b5f2e4455c26eb241a1b19a798d8fe.2a6d2bb20feeeecf1a3d75b06451c6c2&signature=5766ecc309dd6a6330f7c57344b2f4fd55c0850010805d54f1c19b97ae71748c|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="76" tvg-id="Soccer.76" tvg-name="[Soccer] Villarreal vs Atlético Madrid (Canal Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2819.png" group-title="Soccer",[Soccer] Villarreal vs Atlético Madrid (Canal Sport 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+4&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+4&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-canal-sport-4/playlist.m3u8?token=a84d2dac3a976d4060aebc708507c980b8f9861e4f28cbebc05ca8ceac0dd98f.1779652915.00f87f5a5b8cdbe17f46a55b0ddedf74.eae6f05ceab14b14c327164ef95aef0a.43518bb7fe7f63f29669eaabd158bc1d&signature=ad538c2b5747865cf7a8568b1beb0807c1808aa6027eba1942f72337f9be9bde|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="77" tvg-id="Soccer.77" tvg-name="[Soccer] Villarreal vs Atlético Madrid (beIN SPORTS 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2819.png" group-title="Soccer",[Soccer] Villarreal vs Atlético Madrid (beIN SPORTS 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=fr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=fr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/fr-bein-sports-1/playlist.m3u8?token=afe0a9032eb1a23598b3dc6dba9da8d3d100ba48322f6e85efc4c703c3175c1f.1779652916.3b8c59d0cccf85b7efc78fda254efd92.10e52e973a84d4f8c075cdc31af648fe.981b06780859d9156e27858529800482&signature=c1c61563cbf719d335ae9a01d42f48782d88b48b11a54e0bc551a112726d80e1|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="78" tvg-id="Soccer.78" tvg-name="[Soccer] Villarreal vs Atlético Madrid (M LALIGA)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2819.png" group-title="Soccer",[Soccer] Villarreal vs Atlético Madrid (M LALIGA)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=m+laliga&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=m+laliga&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/es-m-laliga/playlist.m3u8?token=6ade985d18a7758fe36312434282f8555aaf304f08184ae9e7cc88b2e122489d.1779652917.9dda4aa7d1c36caea1b4cb9fd1217eee.86ad4e2eb80a096f52e0c15e04438d33.29bc4953ec8180a4d84acfe6eecdc60a&signature=9bd5dd41b9dcaa84a818b0bf7ecea507d6cae0669ec401a7eaf96c2f487efd32|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="79" tvg-id="Soccer.79" tvg-name="[Soccer] Villarreal vs Atlético Madrid (DAZN 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2819.png" group-title="Soccer",[Soccer] Villarreal vs Atlético Madrid (DAZN 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/de-dazn-1/playlist.m3u8?token=dfcb1423d371d60bb2a1623d8434d27e853b0c3943c7c93f3446bcb1f9584547.1779652918.06d96327b53eaf023df237e8fec4788b.35f16843393a89e4552ab0f35be7365d.9b967169e66b387de000452da10370c0&signature=5fc4e592192e87abf3f2b726c1687d20b7d239d41b9ceed316211dd8f4e1d03e|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="80" tvg-id="Soccer.80" tvg-name="[Soccer] Villarreal vs Atlético Madrid (DAZN 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2819.png" group-title="Soccer",[Soccer] Villarreal vs Atlético Madrid (DAZN 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-dazn-1/playlist.m3u8?token=74b81e5c0da64caf0610a2ca8d07eb3c2dda6dff41b76de4e1ab029aa5f5de12.1779652918.15430a4847b8fc28c0b3e9f7db71294c.0a5baa6c4b0235cebdb109847938cd5c.8c040cb7494c192d429c8b4997e25732&signature=a935251a3b21cdaed6ca808b81556419f563bf739023f52142f01862df467a08|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="81" tvg-id="Soccer.81" tvg-name="[Soccer] Villarreal vs Atlético Madrid (Nova Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2819.png" group-title="Soccer",[Soccer] Villarreal vs Atlético Madrid (Nova Sports 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+1&code=gr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+1&code=gr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gr-nova-sports-1/playlist.m3u8?token=b61faf1c2f3efb436a1cd6c635563da271ac8108745a2f07c3329fcfaf8c9e2d.1779652919.7fd42a98a12683bea7e3601149107757.3b8d2d34b36b1f20fdfaa102f86147d8.2b55cb7f23242e8390c8557e6d88fe1c&signature=32749dc64f121e79ef16c1354f8cf044ddea61e22b4e97380d2cbfe9b7d82b34|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="82" tvg-id="Soccer.82" tvg-name="[Soccer] Villarreal vs Atlético Madrid (TV2 Sport X)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2819.png" group-title="Soccer",[Soccer] Villarreal vs Atlético Madrid (TV2 Sport X)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tv2+sport+x&code=dk&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tv2+sport+x&code=dk&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/dk-tv2-sport-x/playlist.m3u8?token=709b6e8e384e993af1050fd179b8fe63aa192264b09fba4cb74e96fe2583fca9.1779652920.cfbd5f98c3691c5192f800de5570f257.a86d093420cf7c40d4e9581c84b906d3.18de1ae90fd1a6abcb11941709267468&signature=f6b64ba5593041bcadcb839621616105513a189b2bcc27f729e2402cb0f84dd9|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="83" tvg-id="Soccer.83" tvg-name="[Soccer] Villarreal vs Atlético Madrid (Canal Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2819.png" group-title="Soccer",[Soccer] Villarreal vs Atlético Madrid (Canal Sport 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+3&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+3&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pl-canal-sport-3/playlist.m3u8?token=21544b777fb90d56e1d081f2e10810e75b46efdbf2292a2271e49d025618776e.1779652921.d4ff5f54a1db2059922713e6cb60c9fc.2b13da4c906cca80cfb54a0c4c965b72.019d67607ec7214c28f3ed3091be989c&signature=988822cbb8bc166a3fdeae79ecf2335f0632d5553027048ffc4506d4b0ef5989|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="84" tvg-id="Soccer.84" tvg-name="[Soccer] Villarreal vs Atlético Madrid (Match Football 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2819.png" group-title="Soccer",[Soccer] Villarreal vs Atlético Madrid (Match Football 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+2&code=ru&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+2&code=ru&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ru-match-football-2/playlist.m3u8?token=c8e2ef9f53cb72a560d34ec093c11f67c4e8438d4d33cf18ddb47de7d2c7bc39.1779652922.d44c55cd8fdd0bada4b6d8097420b369.f4458fa93e0cad28f69b7d2ee89dc497.3d221ccd1d59fa475accb775576d3a95&signature=576d801f6bff624cecc3931e6cd1e63dd23cc22cfc525edfbed96dafc0051e98|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="85" tvg-id="Soccer.85" tvg-name="[Soccer] Villarreal vs Atlético Madrid (Max Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2819.png" group-title="Soccer",[Soccer] Villarreal vs Atlético Madrid (Max Sport 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/bg-max-sport-4/playlist.m3u8?token=407728ceb221ced5c87d9d57f420d2a9e6b3fb7a03af5307d3dc6f0efe9e2898.1779652922.83d40e483c2b252ff936c478cbebf518.7125a87e4d8dddf48315f3b5a40a3b2f.f3361ed36032515a617651f29c9bd12d&signature=e780af97c02c2e706b51a0cf5d03e127ed41dc633d584a52824ddd5e88847565|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="86" tvg-id="Soccer.86" tvg-name="[Soccer] Villarreal vs Atlético Madrid (Arena 2 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2819.png" group-title="Soccer",[Soccer] Villarreal vs Atlético Madrid (Arena 2 Premium)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-2-premium/playlist.m3u8?token=26069f2aa5ff4480633e11879de7a3988dd40fb1ccc4bce0bdde7cbc8269856f.1779652924.4eccb5c9dc63d04be0266e905fabe3c2.d43b8714c6e6a13d93a1b573a7730911.77256c97dbb9f0e2d4ba2d4f9074869b&signature=10272a1be17c19c4829722025983bd4b3454d066dfe97fe7b47832019ee32228|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="87" tvg-id="Soccer.87" tvg-name="[Soccer] Villarreal vs Atlético Madrid (Nova Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2819.png" group-title="Soccer",[Soccer] Villarreal vs Atlético Madrid (Nova Sport 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sport+4&code=cz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sport+4&code=cz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/cz-nova-sport-4/playlist.m3u8?token=2629d9e5fdfa569a7d4370eb9dfb9436a29fe017347b9eb97357360ea386d47e.1779652925.3e453f0ddf59618b883cce38fac8cfe3.4057de00d5c45d505125f8b326fe75f3.03f184706f73e4ca487ef6410734abb3&signature=5f1fa0880a7106cf55d150ee93142b53fe553aceb161757c641a3cc34bdfdf4e|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="88" tvg-id="Soccer.88" tvg-name="[Soccer] Villarreal vs Atlético Madrid (TV4 Sportkanalen)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2819.png" group-title="Soccer",[Soccer] Villarreal vs Atlético Madrid (TV4 Sportkanalen)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+sportkanalen&code=se&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+sportkanalen&code=se&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/se-tv4-sportkanalen/playlist.m3u8?token=f4194a8b508414310873c275a5498fe92d98ea50b40b53108d765b58c49e4451.1779652925.d954da4999e843527d2c4c82aeaf8519.755e175fc888b9fce240738ed91ddbea.bb6e7dab0790f39c9d8e6144d90ebb52&signature=18f43790326de88c770a701865e3a828cc9d8285af9e1ecf6bfd07d361b7ec1b|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="89" tvg-id="Soccer.89" tvg-name="[Soccer] Villarreal vs Atlético Madrid (M4 Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2819.png" group-title="Soccer",[Soccer] Villarreal vs Atlético Madrid (M4 Sports)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=m4+sports&code=hu&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=m4+sports&code=hu&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/hu-m4-sports/playlist.m3u8?token=f501acfdbdab3966248559cc0febdf127f2877efaa07aa42cafd81cc8598d033.1779652926.c6027f5851ced00881005c00443f0223.a8df94fcfcaae7ce98af7e1a540e807e.1f32c39119f1d545bd01c5d08d3af941&signature=031656002a74dfacc7a5a45228623dfdcae8c84ab3522f935f1350d3ca3582a3|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="90" tvg-id="Soccer.90" tvg-name="[Soccer] Cruzeiro vs Chapecoense (Canal 11)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1954.png" group-title="Soccer",[Soccer] Cruzeiro vs Chapecoense (Canal 11)
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Corinthians vs Atlético Mineiro (Canal 11)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1957.png" group-title="Soccer",[Soccer] Corinthians vs Atlético Mineiro (Canal 11)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+11&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+11&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-canal-11/playlist.m3u8?token=0f1e4d50ed2a4e2bde4190b6df59e7e8203c892abd31d04d9764cff91edc3a76.1779652927.5ac00f480fa205ccd7de70c897b821f5.8533119134105f5624b0f2663f47379c.2e8ba8094ccb4748abc750cce6ad283d&signature=da2c0b1fcf96e2b826d26372862538d3aa862fc0b8b16c971c10a1ea4c618a25|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/pt-canal-11/playlist.m3u8?token=b343c71f6651aa0f618837ef5b989f62f680e390239e2b26d63c75fbf95eb2d2.1779657217.b482295bf1ce9369c17ae5c312b96f9b.79f5516255a63f3f1fddfccc1e4e99b6.81f8d3a238a64040ffd620630295a94c&signature=e7385d7eaf7a65e20a15483f9f7be2e86e876012327a18be2068e3c0807da079|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="91" tvg-id="Soccer.91" tvg-name="[Soccer] Alianza Atlético vs FC Cajamarca (Sky Sport Bundesliga 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Alianza Atlético vs FC Cajamarca (Sky Sport Bundesliga 7)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+7&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+7&code=de&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Corinthians vs Atlético Mineiro (Match Football 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1957.png" group-title="Soccer",[Soccer] Corinthians vs Atlético Mineiro (Match Football 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/de-sky-sport-bundesliga-7/playlist.m3u8?token=9cd2680bd0022e42eb118eff2f062fd5111e36dd22eb55685057b1ca204cb73f.1779652928.4821a80fe95827f30a5ed1c381786cd5.3fd1f5c41678156b327346642fc2a709.e7ec5d00d4665ddd707b103c29d86a6d&signature=362413415cfe2bec5302bec5e455eae87a5a2ba0ae2f1a14088f9c8748726cbf|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ru-match-football-3/playlist.m3u8?token=b7c4162ba930a62fbf3310263120138c2c676cbafe92692b3de45e06ec48f62c.1779657217.0043fff26c541385881e8025bae50695.2393266e22a4f97f8d67a74aa2f0324b.eda24a42f579f3a16f21a375acd01b8a&signature=0857f9db1a3d5b4c1d00ebab11fae81dc7e5a0e200dfab9e140b3ca572b6ac7a|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="92" tvg-id="Cricket.92" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Corinthians vs Atlético Mineiro (Arena 1 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1957.png" group-title="Soccer",[Soccer] Corinthians vs Atlético Mineiro (Arena 1 Premium)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-1-premium/playlist.m3u8?token=f27955e36ef738d87fb4d1d34821ec1fe8151cafe4675dd15dc32eaff9420247.1779657218.ec5e9d1682127deafb112a721f130a8c.fad781bcfb7fef4c12e22d735b73f5a1.17a631b8b471f910e9d1109a983b5991&signature=9d274c82facab2a6f587749016ea697f36728b6ff46095c829841f820923938c|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Corinthians vs Atlético Mineiro (Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1957.png" group-title="Soccer",[Soccer] Corinthians vs Atlético Mineiro (Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-1/playlist.m3u8?token=007645b0deb3217a065a2437b937532de782528ded2caad7649e56b8bbc8a007.1779657218.d02f834ea436e3b1beb018fda465a737.67b8fbacb54ab2123b2582c594cbcf68.f29f5e21766f636d875180610577f1bc&signature=fa725be61cb0e59e06e06d9e6c3dc659baebe93a2c4f7c80869650f0c3e3b232|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=4454517a23135c59dc18dd86dbdfacedb946de315793a57f6425842937dc2c51.1779652928.857d2ad5ba546c955baf822f9b621a77.d93485de3109d91b3ba0006b32a5204c.96258db04dac08873b92b033af78eb8b&signature=129043a63eb1682fd1bea27060040962753fde9c2031ceb89b59abd4d0dbe4e6|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=cca69533f8b6990bde8a3f320ccce0667a9600b9ece955fe1588e575e576468f.1779657219.f70d304eff266d1fe4f5926a7d48308e.6802c04e9179ba98447410adc010fc8b.7a4c7929a7866f36bbd7906422d0b13e&signature=70877a571820e2e7de21a20010fce070937ea3805588d6d5b762c05af6777491|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="93" tvg-id="Cricket.93" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=4e9d4b319b43ae9cc995eddb47cbb4768a175cb75610f608d6b95c64b842ae25.1779652929.01ed3e155b0e00936288b73f500b2e93.601ecd48ccd0e63f10a47274ac50a011.82d1bbc28eb366d166b517035273617e&signature=4eef0b3d3d839c6f1e1161779ade96775d54ad7852195d517aaf7999809c2b69|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=cb4c66a14675839093251eb158752ba7bf7939954fb4259c010cb7a3b9302cff.1779657220.0240733e2ca54ad791750f273facfe78.224c30bbf2ccabcfe85a0ba3976ba0c6.1bc1ce8b025b12d1bb04990be63bca48&signature=13233ff74d7a7f7fbd2baf495cf6251b1d03a5a3c1b7d09ba879328f9a98dfde|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="94" tvg-id="Cricket.94" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Fox Cricket)
+#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Fox Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=877cc6d7c67bdc154f02e5b5dead11a781d005a68d71710aff2d01eb7c455d3f.1779652930.0f580a54a18937feced8be9a7fbc8446.e3af5d99d388cac86ee07ad2f69e36bb.76bfca216588949411e5ff2ad4a95340&signature=f9da9a046d8e2e801766d6438f3e21a1a9587c9f612d8448c5e62e6f62321ddb|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=8bf76a5c672c47c05cab8adf1436bb04570e156b4974f885b9cf550e4fe22f09.1779657222.89f8dfb2fc259a7af370d2765bd51ab9.f1873607d80ec80b545b8d91f13377f8.3c68050aeaf05429650c8a22b8dc3ec7&signature=713a0b6681af30a7a493f569ae3b2103aa79d8b3db760db58b5ef71f0a446e44|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="95" tvg-id="Cricket.95" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Astro Cricket)
+#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Astro Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=e8db70e2889b1461cfef26a416e01b7d152a09b5677e85f4752e7ca5de670b57.1779652931.c23f9264a446bf63d95a8b814afacd39.b611b057981c9226f706d3b7d34fc76d.a6f87fe7ce05169f569fc0faa52e5e13&signature=0d81359da1d5e435e6b994a338e1240c76d0319e447a84dacf8ffa0697540adc|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=01ccae13701ce52c97f7143bd3c17ab1d11526c1c4307e1c67f9ac93487131f7.1779657223.7e0063f4b8c2e9ec661d48047c8243cf.f47e49892019c3d8cbb3ce16ea35166c.041559b2faadfae4a8b9f37af5efe63f&signature=a7fe9c89e4f0ab4c9ae652754847f39378606dec84cb22f424cc954cae26103e|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="96" tvg-id="Cricket.96" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=4751261920f0c2deb360c5dcbfd0bf5467813c78a4b70d7802427255be66ed3e.1779652932.b5f2dec77b137f4252cbb4299e91526f.5b50f4a06135abb512097b9354f7509e.ebee5833d3e5a0af6dd008b2a7cf5baa&signature=990ede6d6d423184d507ad58087cfd801f391cddf6a538d5aa75039099595a50|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=ac1c18df839efb315989b5cd0bc19d304de6e53d85ac5ec90a40ca8dc629cff4.1779657223.6b5a91dcc45579ba5f7a9e930cc5f17d.e1e349e44e0148ece559aaf84ac68897.6e4718bd2bdbec599af9340416a00991&signature=8feadb08eb8c5fb50b5895fc0552e93352c17d8e32e825853e11fd979411da60|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="97" tvg-id="Cricket.97" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=4cf4ac2ac67f3aba802023a65ce0098b9bdfdfd0b559b25f7e03d00a69b78cb1.1779652932.4ebf019f345ef1abbe70ed3c25189d68.a1819d3380c6de407d2590d9415fb3d0.35fd417bc2c9e5a9f04acdfbe411464c&signature=5d30a82a41d0946bf4917714369f510bd1358fca8452f3bb048078e844311605|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=4f1a6766c335fd4d304a28469b524d59e4aa6551549d05ba2545f4daf5b661d6.1779657224.7d298450dd20b61cde5328b7d88ea58d.0e5767f15391b931385a7b0685066cc3.d8c7e270fb055f0a245ab67a19c2b3df&signature=b2d0868ef48296f05eba06f75fcf1b05e1757fbec6c52ba700ec00c5d9ac8845|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="98" tvg-id="Cricket.98" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Hub Premier 6)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Hub Premier 6)
+#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Hub Premier 6)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Hub Premier 6)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+6&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+6&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-6/playlist.m3u8?token=f855381ae30373faa8128992b8ef1b18d8179b3ac5b2ef03fb9037e29349e384.1779652933.f23770ef38fba1750b9116ce4355c6f5.a75a7c1c76cdaa5563a1b3206427006b.3c456722059728f2ce92ab0b9cc1a813&signature=46c1496f26657f6539f2ca4bf6f0aff4df0dfa3b5e9b62d7bf9bf96183798fc1|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-6/playlist.m3u8?token=58028156c86ca7106d3f00e4431cc6bf25f02ed0f528130fd3d42b6d4af94b34.1779657224.43d05305550004612c7db5dd2f67093c.02601c572da8dd70bc5a84503b449237.05eda0ec8d310510188603a9ef0c6d46&signature=47400f4b2e9515cdd6e2771e947bec75d8868bf6ab51b27f1efab2fc8a4f37fb|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="99" tvg-id="Cricket.99" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Sky Sport Select)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Sky Sport Select)
+#EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Sky Sport Select)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Sky Sport Select)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+select&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+select&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-select/playlist.m3u8?token=442af06b8cc802c4efa081359f98a6725ed1177508badaa32db1738de1c2468c.1779652934.644f65c18a88e30ceda1fb38260ba552.0aa513cac4f9edbc0b23216b08c5817e.4364441f3faf434ce84dea00c1025898&signature=032cc30c27bf39846e821a35e7b928ba764a8629122c2641a2f213929b52eb7f|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-select/playlist.m3u8?token=2690eceba5ce905b5f1a7254ad07614370b29e7de59f552f0fb03a90a70e5f9b.1779657225.31ce6ab93ba2db29b4d06f9f15f31bc5.62e7739f1f31204fc825524bdf9648c0.44d66bbb582a28a996d4ce13135e4120&signature=b1b7d9d1554fbc7e34e0258c75725d7ce64682b35f861f26a06fd27023805de2|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="100" tvg-id="Cricket.100" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="18" tvg-id="Cricket.18" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=2810e5951665848a795ba8650c4ef8a43a5e0241d5a6e76b49f2740cca18ae93.1779652935.8a756c7bd18d4dbde70e0c9a192a588b.f4ad8680bf902bdafc3fcef42db8e5ae.77cdcef56ce1f5336b022ede23b68767&signature=03f2334b7619a8b9c5067da9e9f9e7b47f0626a68bf8e1c96e210bd4c6c15bca|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=046372514349b3a03f1b3010e0edbe4cadf3de66358eddccc7de4fef7648bce7.1779657227.35b29c84749ed28deaae695b73440a61.030de83109660c87d46750a3b18b364b.bbc0ed658c70a1b848fd5398db4d1252&signature=0aab7152a89ea9a2aa8b69cc4b4aa7d6a2cf11214b0c5db6b96c469ab092db51|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="101" tvg-id="Cricket.101" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="19" tvg-id="Cricket.19" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=8f7ebc79d5c91beb55acd0494765b056aceffc45991f17e13ca178400080933f.1779652935.c284ffeee97bb1828dcc7a4dde1f7e23.5866e3f4d48b8513d6e5ca0e7b6e28ef.44097de25489664d1de1b7a61557f02e&signature=ea131e3ed6c760288f7b788bcdd923d23b36a39e55bf8adae7d8d87db12cf384|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=6ac8c75ee30a85945083b15ca49df32921a25351b5c8042f37931f6eb600ddd4.1779657228.88a0025ce30882e0120bd4873c308418.284b95565975567fafc9a605aa5b5ecd.8e65b115472205d77d0204c8ef4cb5f8&signature=0eab4bd165a50d9151133ca357771e7cea9a506f2e64dd13e17838f8ad032220|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="102" tvg-id="Cricket.102" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="20" tvg-id="Cricket.20" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=36bf6f3f35f01f6251bdbaf61aebb425be7ebaef273d6b30c49b27fe062e6ea7.1779652936.9a3419051dccc71f20a0ab61b3582321.149bf75596558be53028f84d8f877e72.c90dbaf9f1dbcdee75c1d828b5fc92d7&signature=653b17c1774b03ddd64c043dbaf6473282c569f67938b2f42dc6fa0140ff86d1|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=eae34ca049ae378255d185e4d3ce08d6f17a6bec55db4ab7518fb508b43f959a.1779657228.5378b8ccd925d0a843b54a15a47cdd6d.16a8e21cec5bce7a15ba642f2ca3dc63.4ef64dcec68313305359476054e08f76&signature=26c3ef76d8804da5922b315849e03fb2e1981b2986cbdaab39d61a59480237df|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="103" tvg-id="Cricket.103" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Fox Cricket)
+#EXTINF:-1 tvg-chno="21" tvg-id="Cricket.21" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Fox Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=15dc062eaa2455c816a946addbf24ea1918d818bd4c8fce4a0ba61f62004a70e.1779652937.71058f8ce40920bd5ef776e7dba6cf67.e189d1a87e11c963c44f85a7ebfc0326.9424ce7ec75a2332748f9459f0095175&signature=f635cc91b1b361aa0f9d5e8839ab8ee6f4ed16a04e4e32d5382dce3bbb5b1cc0|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=3499312c93957cd320eaec73c8cf722878bfbe8ea6e456f1bc8655f04841246d.1779657229.e62b1b492aff1f07e2a313b7897a22d3.fce745dfa4238bf1ee40c75cc9a32dce.6d185e82361c99fd39e1b647d6b99f23&signature=afeda0756d0d329b24d2ae7625c1be4c3158f4f64f0748ae627ddf248b3014b1|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="104" tvg-id="Cricket.104" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Astro Cricket)
+#EXTINF:-1 tvg-chno="22" tvg-id="Cricket.22" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Astro Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=3a8bfa54d98e996652f74b6af6041676576edeb86464f206d10c70bbcee33d60.1779652938.07b41ba1d6d36f335c68b88cd27cd32d.a748dd57e2aeca2a931a7063a90142af.a913216b4ee84ba116051ab3700666a8&signature=3d3b30e68b9fec0787be8e4d0f1eb41e4bfcee8b05a03a272231638f368fe187|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=1d48be2a858eaa92db62952c35c87c85ba1b051e766612e47c23e0748e155cb6.1779657229.5f8037c5e7c68b703bc1adbf91424141.e97fa524b942baae29239c6465bc7a39.defa96c89f82cb27dcffb8d726ffbc46&signature=dd355ed43a1e4565ee18e6c1868e825e8bb884137d11875cdb00a3e128b2c0cb|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="105" tvg-id="Cricket.105" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="23" tvg-id="Cricket.23" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=3f69328604279b9a271e998800fb43359a81f9237f11455371ba1d5a1e0fab8d.1779652939.b6d85671d5b0d6392ba03aed228049e4.98b4ffbc1ded47fca1716c16a088d263.c6f4aaa2f631c01b55184abab024033b&signature=e5f0fb0ff5853a6518df9ba86e08d51b795b6bab670940e774cd16dcf86cacb6|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=93b601927c19ad884e605fc54763d2ec58a517b65ad9b57df750ebd5a632799c.1779657230.224e426920f6b7f01feeb0d5ed572908.4f624d91edaef666949bd85330a76f82.6e03a62cb0872215a29478a99c66aec2&signature=1190c36e73654462f7bde94cd683461ad6bcb72896e9bbb875802069922f2c49|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="106" tvg-id="Cricket.106" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="24" tvg-id="Cricket.24" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=c914eaa8d7ef79105d218ae55488922f5596258db35044d444262c4ad6cdf51b.1779652939.4819a802e950ee5aced9bb7eb2f38c7e.c377ce2fdfaad495762eef9bbcf23b0f.04d1773ba29f93fa223703485bbad254&signature=1f2f52c6b3f72183e4c8b012a006c0430a5ed5c6d54882b40c6866edd2be7d0a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=e175eff4dde2ac3c196d7763f7956f05f599ef8de8d522e0c775ff41c9ce2994.1779657230.0c1f25ffe924f08414eca66a3832c1bd.e50d368bc0f14c5ab99fe00191beb72d.31d83adc591ab67bbfe60aa7a513c7cb&signature=d2e70d1d122f20d14e5e97e1545057327aac9b107cf2d5cab21cc7aebe4d98a0|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="107" tvg-id="Cricket.107" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Hub Premier 6)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Hub Premier 6)
+#EXTINF:-1 tvg-chno="25" tvg-id="Cricket.25" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Hub Premier 6)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Hub Premier 6)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+6&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+6&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-6/playlist.m3u8?token=a70f7acb8b53cf40458470ad1a8b3e019bd1ae42211a892edb6cfc0ad3f915d2.1779652940.c0a5d9acadd3ede005a3ef2e45761f77.838de28ad3e271199246528deb0ef2fb.55871c319d6c2a0ebecea323110b9fe4&signature=d87a98fb6748506fdb61da88967531afac6fe6d6c1be6c4faaf370e99385092e|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-6/playlist.m3u8?token=12dfb63d362fdd5690b619d8610b63b1b1c5761a159eb088332a5f1ba4b9dfdc.1779657231.c3feecb40cb0b3ca1606dfbea909f06c.085b416ece3b429254633bf385eb0035.94a6ea6b5c0161d144af0942d1e47f9d&signature=f215abaa145b936004c343e139dd7958602b39e4b905297ea41ef8feb690ea82|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="108" tvg-id="Cricket.108" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Sky Sport Select)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Sky Sport Select)
+#EXTINF:-1 tvg-chno="26" tvg-id="Cricket.26" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Sky Sport Select)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (Sky Sport Select)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+select&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+select&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-select/playlist.m3u8?token=5e6305a974b463ee3f007548ebbf0d8432ba2a1a1335e6f4934edf72928303c4.1779652941.6c49947af72acc9e52148cda9c9c41a2.eee036b148825b0781f998dd7554be85.9f3ff862c21c1cc2d58062656b804b76&signature=7ebc7289370e80c4e3e010fa2de9f3a7f3dff0dfee53a2378c8fd9bdaf109ca9|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-select/playlist.m3u8?token=3283d5fd78229ed176e181dfb77a1d9ae17fa32bc74b14355a72df6054f12301.1779657232.e61ce95c44ca4dc18b800e6ba4ec19d7.c2d22225df079feff01639215c94bb8d.d127b9848b1dccd2e3a8a9e68b856d50&signature=6c2f9624a31022e0d98244142ab9dfd7508dfb49edadcefc1a611cb14dd44319|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="109" tvg-id="Cricket.109" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="27" tvg-id="Cricket.27" tvg-name="[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kolkata Knight Riders vs Delhi Capitals vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=a98c282756f2fe811e92bbc89f53ca5f138cd9cd81668b3f470be8b5f78344b7.1779652942.7c9db99e25fb582d637f79e1bbce7672.debed90fec8723f9ffae4199ce79fcb0.b0e909d81e29a00bf40d45404e94085f&signature=a505e41fe257a2d71ff1cfffdd3ec4554261a083d4721641dd792b188baecc55|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=d43b56db4ef81a6e5f414224dfc2ea4ca4eb3836e53663116a875acfd31bfe50.1779657232.ae09e8cc79c1f31b89efec175fd85c55.91bf7b077347a1d52c38b38259e7dad4.3134b5647aa597a05c2ecadd28ac0a8c&signature=43a340da857da1d708b3db9eb9b01669d1fd6c81189328b4be7924a3b240c5a0|x-forwarded-for:77.238.79.111
 
