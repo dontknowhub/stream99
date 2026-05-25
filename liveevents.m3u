@@ -1,61 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Comerciantes Unidos vs Deportivo Garcilaso (TNT Sports 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/213609.png" group-title="Soccer",[Soccer] Comerciantes Unidos vs Deportivo Garcilaso (TNT Sports 7)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-7/playlist.m3u8?token=b1f0daa07db5c9ca8af6a884c8fcaa3c3ec5f6cc8f86714a821b27d64e230b83.1779746598.ca533f5c8237077e1ed1fb736b74066a.a00ae111614eda0651b638d1f5ad2ec2.bdb20b6f8db1d0a29805399a9e336afa&signature=d5f05a3630895c77473eaf0d59580a89a837c9728394c04f6982a024c77a92ae|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Coritiba vs Bahia (Match Football 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1982.png" group-title="Soccer",[Soccer] Coritiba vs Bahia (Match Football 3)
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Coritiba vs Bahia (Match Football 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1982.png" group-title="Soccer",[Soccer] Coritiba vs Bahia (Match Football 3)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ru-match-football-3/playlist.m3u8?token=cba8007b981ffd9f8c7ad0f8d4c37c66e7aec2e28304ce81b04bbaf74a6419e8.1779746599.086bdbb335fedf9dc1fa5b6678468808.798d1ad02dac09d46ebabaa5856834bb.da7eb2921a1eeed032da09d76dfac7db&signature=03a73f37369aecca4bc8d4c9317dd1fb72a9d5e2f154fbae94c7f7fee272b612|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (Willow Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=103f11f50a0399087193e875ee980eb1f44454c728614cfef2ca29ef23854fab.1779746600.530ce8d6d1315f3ca46a26d9532d0852.7edcc875d80b5a6d8dac582c743c52e6.f74110cc5ac6fda449022275fcef8829&signature=bd87a1ce2484b8ac2375f7d3d8ddaa2799de19a712b1829736ffdb73859a9e0d|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (Sky Sports Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=5de20ca9f71066b7ca34dc42beea146aa725ede75ebe20838d22cc7ed2d2e79c.1779746600.1f9d4d250aa513b5f5b92b8019255ece.e8ed18448b51d4be9fe89bbbe83a04c2.51839f525d5c87ec43f9f263ea3c556e&signature=27077a7a23e344baab36cfbc5df74d73b9fcea27d0d92c7b37624043515e9dd4|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (Sky Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=3cc3381c754369853e30e1fde5f37327747336bb70e863ad1ab567c58f02a48d.1779746601.77c6c1ca077339698eeb4e9e855aa004.27479ec54dd5bfb77c621b752e59893e.afe93ef5f08ddf5da21493ff56777a32&signature=3645f5b831a4db1abac81629d961775746f7ec031574fb1d360910d579cd694f|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (SuperSport Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=cb8e0de453856835a489c97ea688473f95fd8496f3a068ee0b945e209452e98d.1779746601.240d8bccbc20da34d3041134a60ec6fa.51fd62c690c53cf4f3bc9ac2f13396b2.c938b8e050b27fd86ea9c74c5e79a091&signature=0371207643d7029b0818e0294b2b472f876280f57b5cd911082e460537e05415|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (Willow Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=f503fd5f67d414782ac9d9f99eba3ea8cb8b2cbc46f4837ed80757222da8ed5e.1779746602.7389d4001973838576a99b7eef8e7d7f.b28120002de60febd0336e77124a0af5.9eeb87b44e72057b0a08f118db2d4d87&signature=27248448c2b3f77884b5d41273d10e8c70a4a654781848d5b5ebb7870aa25377|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (Sky Sports Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=edeb3b29374d3555f90066822aada3d94b224099c845bccb9ee4fc4afc465463.1779746602.bbd672c87f9f0dbc8754202c206ce3f4.d00dfc71c7280dcfabf004cbab5d885b.fd65f473ca7285f126f1b18bfba7d483&signature=340b3512245c733665cf05a5467be86e678644424364fff2c5295dec4d5d642a|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (Sky Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=6450b63648e7eab103a4e83cdb54f0597f3264400ce404994a6f147ca11b1dd6.1779746603.e28e4900de282eb2526ef664f6be7e13.3590f0a904841363866d8531d5df65fa.a8db8d8e8f37b0840499ec4f0aa44752&signature=bb8a584ffe0b8ffdbb42a11717250296e5b92078762d48ff97d5e1d93698c0bb|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs New Zealand W vs  (SuperSport Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=94e900f4d8b6b63539a18854af0fd9bc2ab2087844f689c70420bec323c7100b.1779746604.f163d9c6999fb3ff8e14a2ce8fa7257a.14f839b934823feb7978d2dec6f8c18d.9db7a2432634edde1d01c00dc3ddc1f5&signature=b3e4a909bfed67cc81ec1cbb186c0955dcabb21fc5192ee9a7b5a0b3a95d0399|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ru-match-football-3/playlist.m3u8?token=dc6d0ded9fe02d2d3d1e147715c749c85a007a42b9ec69bc0a5f4d8827607a97.1779752000.1734d96e153e5b7086623a8426643692.2baf4cc885c3b5e596bc02e8d615d94a.3fec03a4b78e76cc07cb9d57cb65b8ca&signature=521283506a46bb8bc049c381265022b13cc503644a3cd6bd2fbf02b00e1b39e6|x-forwarded-for:77.238.79.111
 
