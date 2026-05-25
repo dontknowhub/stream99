@@ -1,61 +1,43 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Corinthians vs Atlético Mineiro (M Liga de Campeones 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1957.png" group-title="Soccer",[Soccer] Corinthians vs Atlético Mineiro (M Liga de Campeones 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/es-m-liga-de-campeones-1/playlist.m3u8?token=c4cd788357351d3275889d63daab5ae3304d5c3e3f5f6efbcfc7154913b0000d.1779664606.c6fa34134ca2ce70b9bcc8b85508d8e9.4016090a7818ffd9ccbf5241dab04c9f.262b608f348804d8f05635c48ec0bd5f&signature=2d52761eb6aa1e962224cfdc0e04978345bfb5999ce443cb4c2cf00561d529f5|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Corinthians vs Atlético Mineiro (Vamos Spain)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1957.png" group-title="Soccer",[Soccer] Corinthians vs Atlético Mineiro (Vamos Spain)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=vamos+spain&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=vamos+spain&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/es-vamos-spain/playlist.m3u8?token=b1a2c51ca77602cc11b4050238beb6a64562f5634076ab29c56ceb842c64e3a4.1779664607.c8f8e3ab99408d266811080d08c21b15.a9f241cf8b2057e34149756be3eb9f7d.06cbccce4b7a57d3a0e783db5058f043&signature=ce0d13c2de406f88cd08ead8e0e3b5ef075995a5107d1e97fc69db0fec0ad369|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Corinthians vs Atlético Mineiro (SportDigital Fussball)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1957.png" group-title="Soccer",[Soccer] Corinthians vs Atlético Mineiro (SportDigital Fussball)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/de-sportdigital-fussball/playlist.m3u8?token=eba1376cc16a01f182b0b7e30cdd1cf23cc0834161cb6ca6aa91216597199e75.1779664609.b3c7eba2495035a6058edbdb3eab18ba.3c2438fa13c5dd6e1bc2f67c0e4df3d4.bbc400a195a9c07b4bbef86c45ba3179&signature=aee570fd8ca85c8ca8260939d89fe44efd8b1da948b60964a04b0b5bd76765c8|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Corinthians vs Atlético Mineiro (Canal 11)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1957.png" group-title="Soccer",[Soccer] Corinthians vs Atlético Mineiro (Canal 11)
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Vasco da Gama vs RB Bragantino (Canal 11)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1974.png" group-title="Soccer",[Soccer] Vasco da Gama vs RB Bragantino (Canal 11)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+11&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+11&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-canal-11/playlist.m3u8?token=4860e0b187212749e9761449c964701144c061698a29bf7b4f51ae4347dc0cc2.1779664610.0d1f7748427f2d7b444368568534c59c.e0047da685da8810c76a425629978225.5544ee04342ca0c8253e0bcc01d1a0ea&signature=4d6c6f0e18ff0b51e8c8c412ed39c157ed8eac47c0128e1790b2b83eda1d0897|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/pt-canal-11/playlist.m3u8?token=c80b988f0e500cd9d94f5704c6d9a059a04b4cdc7314141d638e80650a65c5e8.1779668113.0c0280596847115004c88396a766d01c.a78a92b0b7f1097844a55723c09e69bc.f74d97f233dbf73d769248964e9b74dd&signature=2485b663066d634ae0edb4258aa06f63b6018c1e7b41efa62952575074e231db|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Corinthians vs Atlético Mineiro (Match Football 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1957.png" group-title="Soccer",[Soccer] Corinthians vs Atlético Mineiro (Match Football 3)
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Vasco da Gama vs RB Bragantino (Match Football 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1974.png" group-title="Soccer",[Soccer] Vasco da Gama vs RB Bragantino (Match Football 3)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ru-match-football-3/playlist.m3u8?token=465a365191aaf31ea945c1106a40e136c370b33128f5e0dbf842f6f23396dbc7.1779664611.00e8a5feb1864fe96d8888e2ca734b9c.9a3ac3617ebdf620ef85eca0d68679a7.ccbe511296519e74d4ce4144f8676cbd&signature=04628a2fee6bb07902a2b1cabdb3b2a31058bb9f06d709a1e8f82c89e8ea0f66|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ru-match-football-3/playlist.m3u8?token=bc331aa43b94a847474e36e14d6441f1b9f0684b22795fbf501cbdde8534800f.1779668114.5a44584dd5a7680c6587178e1e8fc5f0.09f9f89711e1db07911fd88e8842a0fa.1f05456716137a561c242b6a4966eb47&signature=02658fa5eadde54a4e6523fc7262320fe92057eed6124088f03e520badc6abe5|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Corinthians vs Atlético Mineiro (Arena 1 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1957.png" group-title="Soccer",[Soccer] Corinthians vs Atlético Mineiro (Arena 1 Premium)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-1-premium/playlist.m3u8?token=96522098ff9e32128aab5c48477ad1bf91a809317b0e551765ef5fa4b15e9938.1779664613.a3cc8c4895ef9a4f2e14d94a785abf12.0d42286e7ef2e0666c5d4f8269d1fd8b.d51357f64211716987086cadc709403d&signature=554fa8410446c209b620d39c4211910e17d282ae39a55c273e7fb7c8b3e4eea9|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Corinthians vs Atlético Mineiro (Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1957.png" group-title="Soccer",[Soccer] Corinthians vs Atlético Mineiro (Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-1/playlist.m3u8?token=e1aa6003aa223e5d3fc07d67ca7ca897711030bcdaf217649a69a9dc5ff57942.1779664614.9612bf0edc2a67a46c88fcf601bd4b9a.aa0aa23bde33629a1cd6dc7dc6d77648.dad548bc1afe8a2db27af872c568c89a&signature=f12ce928f685dcc764ba13fdca972e6ab61d38f154b75db9a6780c3d15060f69|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Vasco da Gama vs RB Bragantino (Canal 11)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1974.png" group-title="Soccer",[Soccer] Vasco da Gama vs RB Bragantino (Canal 11)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+11&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+11&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-canal-11/playlist.m3u8?token=c9deaa2193f7c8d271b2e7f5d8d82977016ac7346d588b2ba80abb8d41dec831.1779664616.1d53b70a0991b65108a401b3add652c2.aacc9f4354c3a7d4731b72fbef30cb4f.80c3c3b05c59d9637913d4a6426f0e19&signature=12c73ae49d6bd57af46397cb0448063528895ca6f11ab023edbeeecac68d2107|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Vasco da Gama vs RB Bragantino (Match Football 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1974.png" group-title="Soccer",[Soccer] Vasco da Gama vs RB Bragantino (Match Football 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ru-match-football-3/playlist.m3u8?token=f6c5d126ea3c107117f03ee01863d9406bd69e29adeb3100d2cb8fa4c4f20599.1779664617.a9ef52d51eaa017404f6336361ec9796.74b390aa3edb6ff4e67c8f9a4d8a935a.81e80bbfc2e9a41953f97244f0c86339&signature=b63a750694a18f313e927e6708b7ea895298150d4d010cdc2fdaa7eb380dfe8f|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Vasco da Gama vs RB Bragantino (SporTV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1974.png" group-title="Soccer",[Soccer] Vasco da Gama vs RB Bragantino (SporTV 1)
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Vasco da Gama vs RB Bragantino (SporTV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1974.png" group-title="Soccer",[Soccer] Vasco da Gama vs RB Bragantino (SporTV 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/br-sportv-1/playlist.m3u8?token=0285f07e50903d76e6b5cfb1f4b40d506797257f840cd42edb282f3d36bf0559.1779664618.e9a19aafc6df0d6b3e733007e7aa10b1.6462fb68223814b01cbcfcf61b50f03d.1728f630662f9de4912155343f54ec1f&signature=a8704d9fdc578b41536040ba5767266ac482e9e8d05edd239e373e3a754d9f5f|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/br-sportv-1/playlist.m3u8?token=a30be50c7d4530b1e37344e9953ec3abea9a7ef392ac7dc46628204284d6f86e.1779668115.aaa6e9e42b8ab190ece7559a930e264e.e6c3bb7ef78e9afb90c3498c4a19ed45.45cf2120c8c0beb8e23315c36b814dd2&signature=45d2b552448f1a70174b86384a466593d33225edf878e238335a3efd28bc82c5|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Pumas UNAM vs Cruz Azul (CBS Sports Network)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/261000.png" group-title="Soccer",[Soccer] Pumas UNAM vs Cruz Azul (CBS Sports Network)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cbs+sports+network&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cbs+sports+network&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-cbs-sports-network/playlist.m3u8?token=01d23096296f9c1308d6b182c6cbb1e3cae33e3f876706ccb08df8227954ef3b.1779668116.88a9ab598a37ebaeda19f248d4f6c43b.d722f017f3814a018bdd70dc861b8f8b.28c8f009360295ce207cefc0653e898b&signature=6d84d21259d4e8a46fb81576926b7313a0ab509e72a95fe9a0e2dde94fc4f0a6|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Pumas UNAM vs Cruz Azul (TUDN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/261000.png" group-title="Soccer",[Soccer] Pumas UNAM vs Cruz Azul (TUDN)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-tudn/playlist.m3u8?token=9ecc63b57d6ef4a2b5bfe139fdd4d25a22ff6da5ef05a17a9cdd97650184dcf7.1779668116.77ad50a65887ca6abe9e22e3554b6e96.cc0ffa431044324e11347cd7a2099e0f.68ebfbdf888a65d4cfa0a29e6ae494b0&signature=d6d1f54fb794765c298db6f63c20daa8764f96abf638f96b8bf0fbb753d283cc|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Pumas UNAM vs Cruz Azul (Univision)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/261000.png" group-title="Soccer",[Soccer] Pumas UNAM vs Cruz Azul (Univision)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=univision&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=univision&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-univision/playlist.m3u8?token=4c546282d8869a3a8f3486ccf139a72a106fcd7f63e26c456790681322e83d6d.1779668117.974ca2450ee91e4bc39b16515e0e738d.d5027b2842aedbaf561382aa0f7de7e9.c1c2fba8b436309b9543c467b3b68729&signature=9723c612822e71501b953b34cc7ce15ff5fbd104d5c2b5566a8f20294cdbcecb|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Pumas UNAM vs Cruz Azul (TUDN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/261000.png" group-title="Soccer",[Soccer] Pumas UNAM vs Cruz Azul (TUDN)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=mx&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=mx&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/mx-tudn/playlist.m3u8?token=65f37e3cf1a8f99b128095a356243b992559622ab99c65c3d6df536f9a7176f3.1779668117.9e30a8d3d5655f1c15e642ae87b5f2b4.ffc52e681aeebbcb31e0c1c54067a320.af3223515071db1822c7454a814ebe34&signature=ac54b583a8fc111a14413b8d67599f1d5cf48a8aa4cfba543b9244febb8912ab|x-forwarded-for:77.238.79.111
 
