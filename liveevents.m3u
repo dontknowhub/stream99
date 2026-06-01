@@ -1,181 +1,49 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Brazil vs Panama (SporTV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Brazil vs Panama (SporTV 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/br-sportv-1/playlist.m3u8?token=772d4abd074201bb59133b1c89235cf5eaf1ed1ed57c6ba4e344b28b5ce05dc2.1780267986.6412ae439ab2c838e3a7989551fab96a.b391f68e6f7ae3f87eb718056b71240f.39b7626257d4a160db8f81d47d293f80&signature=95d78794516493aeaad88336152cf1c231f07c180acc9667e96749d3834e2b49|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Brazil vs Panama (Abu Dhabi Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Brazil vs Panama (Abu Dhabi Sports 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=abu+dhabi+sports+1&code=ae&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=abu+dhabi+sports+1&code=ae&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ae-abu-dhabi-sports-1/playlist.m3u8?token=214a2703f2c080874ee8278eae5a09211538f710bec1d6760c38a32de9b65e6f.1780267987.5ec64c6fd09be3b4095b7209d1d79237.6e55bc69b0b1662a19551af179bfe316.048b8ef8dec96803115c80c7d695a075&signature=bbb58dc229c07f1e2fb5d16c861d838b32bce195411b82986556d028690763e3|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Cienciano vs Sporting Cristal (TNT Sports 9)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2301.png" group-title="Soccer",[Soccer] Cienciano vs Sporting Cristal (TNT Sports 9)
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Cienciano vs Sporting Cristal (TNT Sports 9)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2301.png" group-title="Soccer",[Soccer] Cienciano vs Sporting Cristal (TNT Sports 9)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+9&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+9&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-9/playlist.m3u8?token=53ce5e696e27de9272f3e6ecbb8382d8aafd381995e4ae48e70b9b9106b65dad.1780267988.c7f4aa30d554a52c5abf7047d19e5f78.29b074ba007bc8edc745f0b57f2b8af0.ff1522b8746b04644cb59a9315b4f318&signature=5a0610ceb0090f63c4af9a91b1b9620c91ca62fde47f0d173581dc501ddba16c|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-9/playlist.m3u8?token=8caa21facf05c73a87e60c829619f6798b357effa0c30aba7045e678ba6fd62d.1780271998.d188d3e618146dd32beb2a1c7b9c4bf9.77bc98143c83ad79910eb4acb6365795.a4650616e27ff0fddb1e70942fe4052f&signature=dedc42e01e73b358ae7d6e22efd50b783e10af99034440d6d14d2dca422c1194|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] O'Higgins vs Everton (TNT Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3163.png" group-title="Soccer",[Soccer] O'Higgins vs Everton (TNT Sports)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=cl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=cl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/cl-tnt-sports/playlist.m3u8?token=d9530185247df04e82e695c89791e9b1f89acef8794e6d8ec68242493d0ab41e.1780267988.f90b15d63a58c44cfeb758f5d5971f2c.47dbbab3404b89679dca50433b33c851.29c7841e7d9ebe2f22cad4ef10314a90&signature=ddab5e22c98d9ca8e36f26709af846e6c2cc3d38126c5deebcec33b0957128e2|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Cruzeiro vs Fluminense (TNT Sports 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1954.png" group-title="Soccer",[Soccer] Cruzeiro vs Fluminense (TNT Sports 7)
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Cruzeiro vs Fluminense (TNT Sports 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1954.png" group-title="Soccer",[Soccer] Cruzeiro vs Fluminense (TNT Sports 7)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-7/playlist.m3u8?token=82996c29f9b29cc20045429ba5aad36658025b831550b31612b5f04853ffc3d1.1780267989.c7b379bb87aae8042fbd1d7f4eeb9dcf.9df647738dd8ee6c0d76593a4a4e083a.bb52e587f34e1b79ffc94f960e450adc&signature=6c3b85f18c97b52dbffeed75e6127139d21cf0c0f3c03f2e1a465aaee0cd866b|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-7/playlist.m3u8?token=b5186f59898d71dee9e050164fe5ff646cb73efca9d6a34216a803eee187b57c.1780271998.a6c0ea09731bc47fc4ca5c4388baf1dc.9e789e3f8988837d586fb64197ac54a7.b5dbba41ab285db12a673324b499f505&signature=d34e340cbb7526e4f5dedd48fd27e64c3e7d749e8ec88cafa9cb25e83b3b9970|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Cruzeiro vs Fluminense (Premier Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1954.png" group-title="Soccer",[Soccer] Cruzeiro vs Fluminense (Premier Sports 1)
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Cruzeiro vs Fluminense (Premier Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1954.png" group-title="Soccer",[Soccer] Cruzeiro vs Fluminense (Premier Sports 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+1&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+1&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-1/playlist.m3u8?token=3032d2a89efb8f72e73177c59a8a7fa1195b3bfff92c24aadd5ad53d69b71234.1780267989.9684bf283789caa0183679696a173d48.c0fad1dce9d32d9a83460b3e4bb19069.573b89e722c19d6ca2957cb9a751360c&signature=fbd2932f74a44f0e6d87788070576d502d6fa2a2d43b8c65edf19aaca0a9fee3|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-1/playlist.m3u8?token=48ce08259b146b2627569421775d1b9b66c106a1d6b7ecb0feec1625342450e2.1780271999.b1b88bd35d02c135a0c7cccc9eb2fd1c.5403e7667ab4abba6afb28f1d466ea8d.25bdc1641190062ea2af875575eaa5b5&signature=3c93de8b39c3c658410559e6e6c710c18f61440beb4a8e16aaca70336568446f|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Cruzeiro vs Fluminense (Canal 11)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1954.png" group-title="Soccer",[Soccer] Cruzeiro vs Fluminense (Canal 11)
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Cruzeiro vs Fluminense (Canal 11)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1954.png" group-title="Soccer",[Soccer] Cruzeiro vs Fluminense (Canal 11)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+11&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+11&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-canal-11/playlist.m3u8?token=88b6a2b94ff95a961fb55adc361647bb4359270d4e247164d0535bc07722a954.1780267990.e9a52c10145b1a911ee27702ca21181e.5a35f577f97e71a12b0dddf3f4059f99.9458e42ec4da43c62cbca778d14b4eef&signature=260f32d3099348da1d5752a1304d7a7fce6e9149fd05af4a9104d97c03b86e78|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/pt-canal-11/playlist.m3u8?token=054d8275715f2a39cf7071494d9b7effce4170fbd0c1a59ad2c1f2b2b4b11693.1780271999.fb1ba7c9d88e96baa734e85fd540734c.a701dec2b42013218247fe03fe70722f.7f9655cc543fc66dccf750da43861361&signature=4e8cac6080221b3240510bd1e448706910620667d5e5af73bd6369e9c13c3de1|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Cruzeiro vs Fluminense (Match Football 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1954.png" group-title="Soccer",[Soccer] Cruzeiro vs Fluminense (Match Football 3)
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Cruzeiro vs Fluminense (Match Football 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1954.png" group-title="Soccer",[Soccer] Cruzeiro vs Fluminense (Match Football 3)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ru-match-football-3/playlist.m3u8?token=c03bc6a6ff4e888e7939777b08f20dca4c8885c07dc1a2a673b05721b0bf9253.1780267990.1b7672d8b232910ba24a9aa2878cff9f.9c0ebe8273867e4177204300ad2c88ca.b4abc1c304942b2a615a8a1f1406135d&signature=7bccec6f371e453b5c92f030f2ed261c58f76c94acb2107a22f6a14180edde34|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ru-match-football-3/playlist.m3u8?token=2001fdf2fe07919108e186ea7b784485f51e7f4f55b69b39c1044dcf71c84fe5.1780271999.445809ff8691e64e5ee7acb81516cd3a.ada3f3aef226c0fbe9842b423846202d.3e0f54297b189eb32e2a9e0fa00c8242&signature=c1c12d1aeb9bd2f1473fcb3d0bed3635163edf5575a21e802ff4c9f018ecb06c|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Cruzeiro vs Fluminense (Arena 2 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1954.png" group-title="Soccer",[Soccer] Cruzeiro vs Fluminense (Arena 2 Premium)
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Cruzeiro vs Fluminense (Arena 2 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1954.png" group-title="Soccer",[Soccer] Cruzeiro vs Fluminense (Arena 2 Premium)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-2-premium/playlist.m3u8?token=5fccb58b0cf5ba43ed7e066902e359e85651c4c4661697b3ff1c01c7df02deef.1780267991.a29e5ab313c2a0442dfbbd7c32ffcfd9.ee59385fa981b97def148791b29bec1b.06b4428d5dec49535e0b8a29f2bf2e7e&signature=394d3d4d900c54dd4c1d3d55dbb02eb6c529a2b9cb984f1caccc25e5d8b3fb9a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-2-premium/playlist.m3u8?token=267e7f014c73d2455425a80b750548cae6328628868468a3b6b2aec01ee302be.1780272000.96cba919213ce0b7e096ef5653a70352.cdca15945d2973565147e0fd0b0bed56.68354bf1eebf6c4698102205979de966&signature=63108b651664e6bc09f3fccc68960e05b39ce6961ad5944d1868a18585d9be11|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Cruzeiro vs Fluminense (Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1954.png" group-title="Soccer",[Soccer] Cruzeiro vs Fluminense (Sport 3)
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Cruzeiro vs Fluminense (Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1954.png" group-title="Soccer",[Soccer] Cruzeiro vs Fluminense (Sport 3)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+3&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+3&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-3/playlist.m3u8?token=ead03305fd8bee528e916ef61034087c3c7779842643446123db94750db368f1.1780267991.3089c78b4bc62cd52f9fb547d090d7ab.c5db27f6143f2cf19240b53becf568f4.b0008d89e3bbe1239bce183369a4848a&signature=047057c35e1fe848fc015c7f5e3fabaae7c40d5c6e66af3979e4541f8740ee99|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-3/playlist.m3u8?token=74d6b722ed9ca9747c4027256bcdec030ef63423d40a0590230c47a8c6233461.1780272000.ad973042c6ff8c2abb26940b065e02cc.3fe0352fb1e291149d53a657e4561533.7c5b8fd46eef9f54e00c42418c126926&signature=134444de668b658c192f76cc3b7308d4b1ddae87335859a5a2d4b960aa359633|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] IPL closing ceremony from the Narendra Modi Stadium, Ahmedabad vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL closing ceremony from the Narendra Modi Stadium, Ahmedabad vs  (Sky Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Palestino vs Audax Italiano (TNT Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3157.png" group-title="Soccer",[Soccer] Palestino vs Audax Italiano (TNT Sports)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=cl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=cl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=5f6202c0e280b7a56157de01b5e0c16453d70f90b28da9a12bea6da8c9010e6a.1780267992.2a7cc2e8577dea5094a2dedd2e5835a3.d559ce0840445e98d7258a804a585e5b.013a20b4e3d2397aed06fe69c4157d2f&signature=1495bda63e960949638127aa4f359514f97c8b7e1dd1d1716709415732b16d53|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] IPL 2026 Final : Gujarat Titans vs Royal Challengers Bengaluru vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Final : Gujarat Titans vs Royal Challengers Bengaluru vs  (Willow Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=bb3c11f0f68a8beded3cc4aceff214a66ed6054ff2e88840516f898e103d0cfa.1780267993.e2a88c17645ce73616ae9e0a6256d031.9bfa31e93a8e2b47403ec33b60a48294.0ee935b002207cc36ed40a89e177512b&signature=8e37eff8d09f9ed1fed3910d40585fca39fe2c86363418be1e58164162b64b78|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] IPL 2026 Final : Gujarat Titans vs Royal Challengers Bengaluru vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Final : Gujarat Titans vs Royal Challengers Bengaluru vs  (Willow 2 Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=1c8fc1fbc9ba2e8e0455a5214a50408c9498a4b5eca2874e83ff03ce419aaaf5.1780267993.1cb39b7dadbeb0c202f6f97cbdd19f9d.28c93c73b2c802e86c949a2d424b6f35.fd4fc42d6268f22f364668239b1e50d6&signature=0de5325a4b85759ffc8df4972dee7de7d860dc3768b8048dd0a3bac47626fc62|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] IPL 2026 Final : Gujarat Titans vs Royal Challengers Bengaluru vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Final : Gujarat Titans vs Royal Challengers Bengaluru vs  (Fox Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=09ce7ffe28e4d69f8d7ac30698ba3099e2e09cff3dc0d510153143dcf76858f6.1780267994.93b3938c69e96a6de535617a531bc5e2.f39deb50198b90edc42685f5041c9d1e.4044d4424998dd0ca47081c1139b194c&signature=7b6992bb65c15c652ac50241053f93e074a86e81cb323323d165351876c8f0be|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] IPL 2026 Final : Gujarat Titans vs Royal Challengers Bengaluru vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Final : Gujarat Titans vs Royal Challengers Bengaluru vs  (Astro Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=5c9909c895dbfecee4eeaf8f3a2a6ac8b8d2666e065b6bbcf7868e3d820944a2.1780267994.d8994ab43aff1e7402dd0b9291450f2b.39b824bd90566d064d64d09e0f4bc06c.d48195a7f108f3d3a1256ff1bd38acb3&signature=75c21af30f14c4778ad227acdb6c4d533d7398e64cf25b8cbca541519febdf42|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] IPL 2026 Final : Gujarat Titans vs Royal Challengers Bengaluru vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Final : Gujarat Titans vs Royal Challengers Bengaluru vs  (Sky Sports Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=b04b949d82ccac15e091744b17dae1eb91d72b613dd10f3be55af0556947e79f.1780267995.ff8dcde13c18116827e9ebb4976c56ba.4320872137d39efbdb3ce5aac35ea61b.36d2da3d880de82243b9d9f3b168ff75&signature=edca9fec11b42f1bdc702634f22439e6b460cffaaec4898c37821db763b253f0|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] IPL 2026 Final : Gujarat Titans vs Royal Challengers Bengaluru vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Final : Gujarat Titans vs Royal Challengers Bengaluru vs  (Sky Sports Main Event)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=078c92885df7bb4d9eca2df10249731840e24c5ed0d01f229fbd92fd7b60d1ee.1780267995.af0ac3fa1588f7a6dd2fb6a620c31073.0ae92e07e667d384322f9abd8c9f4897.bf77d0e68f682d3a7edffdfa3a17b361&signature=dcfe15bccd9b49e428053d5cddf693fd01f8572f4d7f89bd85a3b8d7a3a7be29|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="18" tvg-id="Cricket.18" tvg-name="[Cricket] IPL 2026 Final : Gujarat Titans vs Royal Challengers Bengaluru vs  (Hub Premier 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Final : Gujarat Titans vs Royal Challengers Bengaluru vs  (Hub Premier 5)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+5&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+5&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-5/playlist.m3u8?token=07b50301e0368bd18f83489b9def3bb56784142565d0dc8a99b949f7a7e4e267.1780267996.ec24d42e642bb0937fad71adeb90e3e4.06033080df2d285e546597371bb249d2.f495af222dcc6ac63e13b58653dfa64d&signature=2f8a71d208456d2f4dcdda1697efcca250303dea7f423178cfa51adb046898a3|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="19" tvg-id="Cricket.19" tvg-name="[Cricket] IPL 2026 Final : Gujarat Titans vs Royal Challengers Bengaluru vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Final : Gujarat Titans vs Royal Challengers Bengaluru vs  (Sky Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=cc1a8bd3f3ec6e1fe4f95b3fb099a4e4946649eb47df7505e418c4f8e24b6942.1780267997.7d532cf2c8c2597c9a18c30056d57182.8542b48afefc541e2ba92d3cf0958686.6151e1dfd2667d484701170d9eeca40c&signature=8a0aa2083baaa41b164b37648e40cbe72281602e277db89d64e56980992b5e96|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="20" tvg-id="Cricket.20" tvg-name="[Cricket] IPL 2026 Final : Gujarat Titans vs Royal Challengers Bengaluru vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Final : Gujarat Titans vs Royal Challengers Bengaluru vs  (SuperSport Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=91facd65fef2734d0f4a3e71780a1163f3906ebe2938c486fbf62038ee134ab0.1780267997.0455f753aa3f90d8ccc1f11dc3b298b4.7478e09ac2705b4863827433425e00a6.6278087cf26eea70ab632364ea7d8e7f&signature=4ea63c86f91d063cef373c681f7a7f7d4915c8a5fb58a0fbc0560f600bfc6e57|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="21" tvg-id="Cricket.21" tvg-name="[Cricket] IPL closing ceremony from the Narendra Modi Stadium, Ahmedabad vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL closing ceremony from the Narendra Modi Stadium, Ahmedabad vs  (Sky Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=01e525f1a34fcbb5c9205655073d21a48739529bd15562b0b399b142bf19b745.1780267998.6402ed25e8914187fe5e6123e99acc87.f9543884a27dc83714ec9448e26878da.58305a812f9c898ea0e285a3edc05ea3&signature=a943f12c622067d778be42a00f26201bbb830e4263ae9276e540a0fb844483cd|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="22" tvg-id="Cricket.22" tvg-name="[Cricket] IPL 2026 Final : Gujarat Titans vs Royal Challengers Bengaluru vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Final : Gujarat Titans vs Royal Challengers Bengaluru vs  (Willow Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=49bf8c7eecc44854f8f4641689c7af9a111ce5dc3e5ecc5fd6a75a7b49b22e6d.1780267998.e985de828f7dd5dffbce852ec88c50bf.8b3b8587705dc97a5ce072c3e100d415.fa49ff308f4734fc6e637bd29580dbb7&signature=2e1e3d6f101f1d3e052b50a2ccf0694b0cdc41d4d514bf5364af48cd3fd92f59|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="23" tvg-id="Cricket.23" tvg-name="[Cricket] IPL 2026 Final : Gujarat Titans vs Royal Challengers Bengaluru vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Final : Gujarat Titans vs Royal Challengers Bengaluru vs  (Willow 2 Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=35b14d6c356dfb871267aa4e1e1b98874e1f4a672db3a2bcc19edb694d689b61.1780267999.a450395027fc78400ede669ac8e6f3cc.a7bfd35142fc3f2f67d3eb4ab150c1d0.50ddb9d6b1d9a6407470611e6fb697f1&signature=d12d762d5c92b3f9e14917095301ce385c3bb1024a153136f582e612e84288f4|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="24" tvg-id="Cricket.24" tvg-name="[Cricket] IPL 2026 Final : Gujarat Titans vs Royal Challengers Bengaluru vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Final : Gujarat Titans vs Royal Challengers Bengaluru vs  (Fox Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=8df5ff96851b3fd0cae0ecb085a9df69225c01d870baf42233da0ac384f62003.1780267999.e632cd085a233e0b4e748cd18910a44b.2cfe0906c44846b770d0e869d6a21eba.a7cbb3cf4faa4d06856c912449dd6a63&signature=7b8222de7780578407eb8146d66f186c1464fe04d27ac3dedaaf5e1a8cc139d9|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="25" tvg-id="Cricket.25" tvg-name="[Cricket] IPL 2026 Final : Gujarat Titans vs Royal Challengers Bengaluru vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Final : Gujarat Titans vs Royal Challengers Bengaluru vs  (Astro Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=6a7bf3beba215963107f35c04919198294fe4301569dc68b1eda271c85a7baab.1780268000.a3d4238145ac017140d8e5c677f68d12.9c0ca7bef2087a90a5f84bf1ad02ccbb.3fee353513c3146704f3c335482371a5&signature=60b8fceb300aa2faaf30c8f2660fbed1f6a84572e6633eadaaf43d3a820df6e1|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="26" tvg-id="Cricket.26" tvg-name="[Cricket] IPL 2026 Final : Gujarat Titans vs Royal Challengers Bengaluru vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Final : Gujarat Titans vs Royal Challengers Bengaluru vs  (Sky Sports Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=33da7c46c5507f54a2ec59113b8fcfe80dced95d1d23aa6c036299aec1464b1e.1780268001.8b1ceb3ff3b793039dd13b1777900a4b.eac4b39840b2026ec400052d11aae922.22a35c7d25d4bbe399ab983a81176333&signature=ba78f5bcae17b9734521652a6ade23acd4904417a36bd3e7827950c9453e9316|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="27" tvg-id="Cricket.27" tvg-name="[Cricket] IPL 2026 Final : Gujarat Titans vs Royal Challengers Bengaluru vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Final : Gujarat Titans vs Royal Challengers Bengaluru vs  (Sky Sports Main Event)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=4a043931ee8b295212c9af717f5d11146c1ca1244354bebe8a8bf96e03c055c1.1780268001.bdc0ca3f2b199b37db3344dc314e6caf.1d4c60a71272e1e68c8bbef54676f24f.fe27d7e43a3ca9805105bb42c0c4e27d&signature=c7a0731d29d1cce9051487aa7a1fe6cf8ab352186d11174e3da836e9e06d04b5|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="28" tvg-id="Cricket.28" tvg-name="[Cricket] IPL 2026 Final : Gujarat Titans vs Royal Challengers Bengaluru vs  (Hub Premier 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Final : Gujarat Titans vs Royal Challengers Bengaluru vs  (Hub Premier 5)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+5&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+5&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-5/playlist.m3u8?token=4c6d24127ae5106acb0b99d5e780478cf9e64666bc48fba315ee9bb22c930357.1780268002.9185d3110bbe554de08407957a780e47.645700e748857bc28df684aeb75ca15b.70c2da4069530b7e8f6a06e44c7b1ad7&signature=ffc8899b8c3f1478a3c31c9b896b1b4c4134a90a54fcf6f9b35dd1186301e283|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="29" tvg-id="Cricket.29" tvg-name="[Cricket] IPL 2026 Final : Gujarat Titans vs Royal Challengers Bengaluru vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Final : Gujarat Titans vs Royal Challengers Bengaluru vs  (Sky Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=97a7254ae0866fd0e7a8d0768c3b7bdb655385bfd1f68c9a0952e0f8ecef490b.1780268002.57bab965d38f193a1c617336b0da3211.1503163709d29288e8ef48c2c731100f.ec04797bff092b55709e6fe36f96f892&signature=ef203094455d18ec94eec7204c19aa7f67f4035b1aa7c62ba079c58e65244dc5|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="30" tvg-id="Cricket.30" tvg-name="[Cricket] IPL 2026 Final : Gujarat Titans vs Royal Challengers Bengaluru vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Final : Gujarat Titans vs Royal Challengers Bengaluru vs  (SuperSport Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=2970ad01070c1c30faf5c793fc0cef3c29fb4315eba5aecde68b612d1918af05.1780268003.4d1c829a66cd660ec45c38b1cc28bd50.8ea0645a12592f8d0ddfabbcf4e6a57b.c3d3cc075186f02929ce3ffbd35f2371&signature=508dddc2bc377185e675efaf112a92ae883db936f0c7e9b1bb4ba193a552fd83|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/cl-tnt-sports/playlist.m3u8?token=7e42297d52e0e9b0d550e872aa63bcab5cf40550f471849103b77f0829d4fbf8.1780272000.dd611708147e963bcdcb94716e9312e5.045db2000e1d6aca8e79f260945d93b9.01dc2da254649566818393500d96e99e&signature=f1c5751ead65fc6805e4f837b07821d7398660dee2bf352e92ef708034090eb3|x-forwarded-for:77.238.79.111
 
