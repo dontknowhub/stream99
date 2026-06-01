@@ -1,277 +1,97 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Bulgaria vs Montenegro (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Bulgaria vs Montenegro (Sky Sport 1)
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Austria vs Tunisia (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Austria vs Tunisia (Sky Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=abe129e4224a7eccd155f1d831b720be677db69e5b3574bc20e991382443848d.1780330747.9f79674c1600a95537a61882fd2e05aa.5cbe9a85cc426699a1c8ce3f65f08d5f.3666845b5cc8279a72ac2ff736c78484&signature=1785b8e86af231e98154adc6d6a89111958613cf844c0a4a07ed05301564c245|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=dc991d053d98404c2bbdd7ea28ec5957d94dfd1a34e25839ae8c3a391a8a89be.1780346267.7727eff007ef223ff00200a4a414fb8c.225bc1c63d12ceafc909df1271e32ccb.692a7ad952000400a91dae5cc128f794&signature=a274a74c333e8797f005261cdbe313f1cfca8e04b82bf97b2192fb3d018de414|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Bulgaria vs Montenegro (Arena Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Bulgaria vs Montenegro (Arena Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+2&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+2&code=rs&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Austria vs Tunisia (SuperSport Maximo 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Austria vs Tunisia (SuperSport Maximo 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+maximo+1&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+maximo+1&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-sport-2/playlist.m3u8?token=90469040ea9fa796f9583757b483316a56d07b572a91fd99cf239ad125e110d4.1780330748.e0912e8f2202c50d5b1c87bdcdb29ebd.b96f98fab897c3c17c26ebc4a49ce1a8.5bed84859f6b4d02b59fdc95d0a1c298&signature=dc82b710625fbfab6eb6b591e67fefe95ea97c84c1ba6238fdb31410ef65008f|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-maximo-1/playlist.m3u8?token=ac76ebe622abd658377c7e1904eab53bd6eeb73ebb3750edc2a8eff0a3c79a69.1780346268.506226df9dbf0998bcd9acfa76acc6dd.ba6ceafd7bd11bd34635793da46c174a.64584840e1fbd4994ac249a930fefd2f&signature=5644c98af24e74df49411ee262fd734bdf39e0ef9baf83e41d4934a5e4670a33|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Bulgaria vs Montenegro (Sport Klub 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Bulgaria vs Montenegro (Sport Klub 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+2&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+2&code=rs&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Austria vs Tunisia (L Equipe)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Austria vs Tunisia (L Equipe)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=l+equipe&code=fr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=l+equipe&code=fr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-sport-klub-2/playlist.m3u8?token=b521c68470f1b16ddcb92a5cb94ebdba8abdde226363efc71fa795ec493b3221.1780330748.d8bccc8ec49ebbe9fa3df3175c202571.eaac0ccd2255e5faf46c1300507e97d1.1f369e01f573b06b418892b750e6a025&signature=3fa7b14fba09122c9211dc0332b0a55c8d81482294cdece419c8e059cc890d0e|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/fr-l-equipe/playlist.m3u8?token=b46ae86babaf974e2db25ce2f9fffe709e59387ca3c7e11ce636214a2947d2ee.1780346269.542b31915428666096e7b1390461fde5.f5c0ee664b3382b664fa437bbb93bb3e.72662a27a505b0428b1af076f6fb92d4&signature=a27be2ee40c0474f43447bdf0f3d15515f867e0d9e2357a057250d359eaacf56|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Bulgaria vs Montenegro (SporTV 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Bulgaria vs Montenegro (SporTV 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+3&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+3&code=br&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Austria vs Tunisia (Sport TV 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Austria vs Tunisia (Sport TV 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/br-sportv-3/playlist.m3u8?token=23cdc493c7a6d60feda637cb5a11508e769cb9219af74d85b4301bc8b0115a70.1780330749.197356203680adc7e9fa011a0b90a7fc.eaa6c19571f5fc7a5a4b9f84c3142642.9e2c7b7209d719a68df400f545e93c2e&signature=15a8b44dd0c89a339841dfd8c9b3add18c09c8b1e8f6c7171b103e9896382691|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-2/playlist.m3u8?token=dbd092ebf979745409b3e9e5e7f3595df88c913f384e8b21f273cc08f9f7d23e.1780346269.e00c48fcafb315eef1653243cf38c4c6.777a6d0f0d2909a6b7f29261aa689f14.cca1b0797c5d9b61f4be64ed6e4e125c&signature=a964df4b02b87763bebd4b9c49dca67408c535850a827c9a157ee42b7e445487|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Bulgaria vs Montenegro (Prima Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Bulgaria vs Montenegro (Prima Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+2&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+2&code=ro&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Austria vs Tunisia (Ziggo Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Austria vs Tunisia (Ziggo Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+1&code=nl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+1&code=nl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-2/playlist.m3u8?token=a64ee22aa49db2c9498e5921257405610c6db4eac06e708df2066d87fbc7ac16.1780330749.277bf51a84fd42d400cb13ecd094f36b.1ec0330b1c821ad188cbbe6e8073e415.2502508e0f188eb944e6f2596dd1cf8b&signature=31958f9db0639c57229134f883cd3c855c4e5b8806f0c0e01c4fe457ab52b86d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nl-ziggo-sport-1/playlist.m3u8?token=51b4c7e2e2204c5bc5b8ee39ee1048eaa82bed85e5bca2145ad3f53a9c912fc1.1780346270.8de8b2329824907b32b83a8a8691029e.7c111635f51b22f4239c1e04926756d4.0b6557878c6df2fa8681b37cb6e73461&signature=99347f50c90430f9c45aac2a82d7c92961d4afcad770380298e536a89af25f97|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Bulgaria vs Montenegro (Digi Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Bulgaria vs Montenegro (Digi Sport 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+4&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+4&code=ro&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Austria vs Tunisia (Ziggo Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Austria vs Tunisia (Ziggo Sport 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+3&code=nl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+3&code=nl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-4/playlist.m3u8?token=d3160d67f7ccb5325efc309c2ba62520f0c87aeb8e8b554d98909225f7ad6f45.1780330750.c02606a3af5aac13701004e6362a90e6.e2c4ebd273d6c32d0feaf7e0210389b9.917001e7a0d4372d6239cc79d09d6508&signature=a1c246d5589a70062f821d6e447365d172a20161e105b4b6a00dd3f652978320|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nl-ziggo-sport-3/playlist.m3u8?token=06bad767d44e8e1f6ed162fb7690e42f49ead41d959ce5577e6b55e3cf66108f.1780346270.8f3d34ec5f6cf60cb3eb9b1c56f2473d.5bd6f59df3ea3fa5f0aefbb2a27dc3fe.e963370f6945b136102cce1d552e3ce2&signature=dc8a5c31be82ef76cf55d1a20f86c1a427a2e89c0a928630e3120e8d635ac7e5|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Bulgaria vs Montenegro (Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Bulgaria vs Montenegro (Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=il&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Austria vs Tunisia (Polsat Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Austria vs Tunisia (Polsat Sport 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport+3&code=pl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport+3&code=pl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-1/playlist.m3u8?token=db6eee689a0c84b6fdec80fb3f4c631d8b189ad0645a59a0791ff13d2e280399.1780330750.9c1119322f6be3123b8da142cc6e6d8b.c00562a8a0f8a045521fd740d4c3b281.1fc24814ea707429f33b3bebd9edefa0&signature=d11d990089ab17d0dcff0d31c90410a2ca5620c90894cfe639eec9ad44988f4f|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/pl-polsat-sport-3/playlist.m3u8?token=2b209fff41a4b8a12fbd13a5b4e81aee2dc7068975650149691f20f724f48e0a.1780346271.e93aea0065703aaac219a9111e4f947e.5fbb4dd511ffca83dfa7eb09ee22cc7d.3edd9776eba804ada305fc5df795b445&signature=999bf885631a90d3a6d89e3bc3ffe5f37f88527a556764a7e99a987ea5c5e605|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Bulgaria vs Montenegro (beIN SPORTS 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Bulgaria vs Montenegro (beIN SPORTS 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+4&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+4&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-4/playlist.m3u8?token=655ffa3777182a7930e41a7b870d51ec4ea7de12ccdb3cf159ad09735487ad13.1780330751.a7b76440b79d03efd07f827afff333fa.eb0bf297888393fb571d0425fdef72a8.f1a4c84105ebe6292313dd99f09740b7&signature=05ed92679c05c9cc90448b357d36902488aa946019d1947ef57a796e38d85bd8|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Slovakia vs Malta (beIN SPORTS MENA 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Slovakia vs Malta (beIN SPORTS MENA 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-mena-1/playlist.m3u8?token=47e0e48ac311abd9deab824a070d335a4df8c4cbf5f943892bcc2f4c42fb06f9.1780330751.a7d90022f6354b67fa4d47de5cb4fb6d.baba78c1622257caf4880af8dcb68423.00b2155492136bcb7406a9e031ed546f&signature=63dd90934d737dfa42534a9d9081be1abfb65b2c88f3194dc44422a981503ae4|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Slovakia vs Malta (TNT Sports 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Slovakia vs Malta (TNT Sports 7)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-7/playlist.m3u8?token=042b53a2fb5465799ebc03c178e43fbf9fb7293b5d7ccadb320122cae4943561.1780330751.84dbfd819edbaff023a80e8a2f0422c1.60cb869c6066dce9040492a8b98cad04.6d0767e6ad8e9ac3cb51f8fbb6cb29ca&signature=f6103d0e3cb4a1f22738a54cc7efecb511c779abd802aba9024a33dffaf87b6b|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Slovakia vs Malta (Diema Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Slovakia vs Malta (Diema Sport 1)
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Austria vs Tunisia (Diema Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Austria vs Tunisia (Diema Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/bg-diema-sport-1/playlist.m3u8?token=1cd5a008403b66e6f9e28da542885344058af94c9e5789bfc474383a578290fb.1780330752.e4207d7f7c07e6a2a93c8dc7d18a4130.05f43e4cb752ba53811ac0fd58bc6f84.184703ea38e9c9a0369c6381c9fc28b8&signature=fa6319388896de36d7c3354ba79fb5341e786600b5d924cda3a44e105e79dda1|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/bg-diema-sport-1/playlist.m3u8?token=1335dedd8323cfe6dcc3e826b513b3b30e51d1979a4759135d081fc9e4bfaf22.1780346271.3a2644134cbcbae46cf7e20996c590b9.a23780b8c4479d5b87b4e31784f31ce4.20dbf63b0ac73cec9c1c76ff84bd90d1&signature=11ea36f1ed4e88a1739a2820c334a0c16b094f3010e99d6c18feefefea703cf3|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Slovakia vs Malta (Sport Klub 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Slovakia vs Malta (Sport Klub 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+3&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+3&code=rs&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Austria vs Tunisia (Cytavision Sports 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Austria vs Tunisia (Cytavision Sports 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+3&code=cy&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+3&code=cy&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-sport-klub-3/playlist.m3u8?token=0b0bfaab37c1d53000d692f68313f9ab0ce2ed2ae9402eaad73aa0d6645dc796.1780330752.66e54928f1bd5bb2ba44324b2bc2e211.ac6cc00418f43ae878e38abacbf4541b.ecc267aee2add40295ae0b23a3db123e&signature=ea0e9e747c536e7a9b76e95cd0f970dfe3fe5846d558f1e29a9dcd834b040cfb|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/cy-cytavision-sports-3/playlist.m3u8?token=81eaea1b0218a0c675c1df3861fd2f112b66c05220e9a4c3a99be04b552d8959.1780346272.79979ed7bb04f764b6522a4e08ddb297.5bf41377fea32b1634e81ed04a7f65b9.9679b38a26d759bdb1cfc630f83d871b&signature=9aa5ac8a4227da29965dc8efe3969aa6350b320122010a4a71e1246bc9a39ffb|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Slovakia vs Malta (SporTV 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Slovakia vs Malta (SporTV 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+2&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+2&code=br&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Austria vs Tunisia (Arena Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Austria vs Tunisia (Arena Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+2&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+2&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/br-sportv-2/playlist.m3u8?token=a3106be7d121574eea7298f4d057ca8373656b50c50fc35cfeb1edf11a94929d.1780330753.b735cc9d15cd4a879174b0284a1e412f.52f4990a705dbac8acf531cbc08e26eb.f41928046bf3f84ac1aaa650b295eedc&signature=4bd6f77c761f5eecb2a9459fd27cfcec82f592aa96938644ed8308b3f8410392|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-sport-2/playlist.m3u8?token=d205e2cb992dd10a51adb6d23bcfb6a77b424400b2cf332cc186bb014d20aa5e.1780346272.0be0291b31668848b62cb1dc7b7124c6.ae38f953184947b02ce5eddd5489c5d5.5c7064ed4b10ecce449133f0a8d51992&signature=a3fc6662a0324143204ed9edd322b9056d86d6336347a014f33b132b866c0b88|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] Slovakia vs Malta (beIN SPORTS 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Slovakia vs Malta (beIN SPORTS 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=sa&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Austria vs Tunisia (Sport Klub 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Austria vs Tunisia (Sport Klub 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+1&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+1&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-3/playlist.m3u8?token=dbaa44cfb82a965ef44be7b43df6a12c0882eed3c9ce364ef59278351acf6852.1780330753.c0700767de1632651d6c35a6ce0697f2.db03e35ccdd5cc61453abcdcd84319dc.f1185256003c0b7ae61edab1ac20e355&signature=30c4cbb918ed972b3deb8b641f17439fa1c1e14157a10dab16df73381fdb9909|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/rs-sport-klub-1/playlist.m3u8?token=b9bf9b998fe9dce8848826ba280ebc8e3c50dfef77b15934642ab39d1843ac2e.1780346272.3ae0bd988fb2da23b835c94399f2f1d6.82ddd3fa32a5b75c87a1dad45014417f.7dc918e470ca0b1b2e5664727d8f30c2&signature=b075953b27c6f217b1fe194c6406684431cc13a44a0f59063db53c4cd1de298b|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] Turkey vs North Macedonia (Sky Sport 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Turkey vs North Macedonia (Sky Sport 5)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+5&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+5&code=nz&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Austria vs Tunisia (ESPN 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Austria vs Tunisia (ESPN 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+4&code=br&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+4&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-5/playlist.m3u8?token=ea47482e9b5e72aff648d089254c49c3b52fb1766c934036bb395c606b9f1814.1780330754.e0a286df5892c5ccb2d78a934de93276.ff51073d016ccba61b1c434347ae5b5d.d9d5e2831cf2d3bf41ed511a45575920&signature=4d9440bca5f02403366f9de119b25d4fdc5ab2121453651457aef29f83f1fc86|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/br-espn-4/playlist.m3u8?token=a1648eab6d404fa206239bfde6e9c1005b44ec8f429b235e3106f3113045fb14.1780346273.1f08e80e69f732c8cf04e6630326d409.35e9d067876f08985f2909a08eabd908.a4550a2af3e7ace1dab743b85961b478&signature=04f8a45e4a11603431fc3d428eab2aa427242683cdd27d5e3030315bf571199c|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.16" tvg-name="[Soccer] Turkey vs North Macedonia (Sky Sport Calcio)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Turkey vs North Macedonia (Sky Sport Calcio)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+calcio&code=it&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+calcio&code=it&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Austria vs Tunisia (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Austria vs Tunisia (ESPN)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/it-sky-sport-calcio/playlist.m3u8?token=b2617dd92f8b27e93c0c5aedd35db87709dfece6700d59d869ccd97c70ea458a.1780330754.fd3388ff209aa45b4187b21a43ee1684.f0a5b4d5445accdf15d927dbca7b87f7.097fe8804fadf510d0eba05315b67e1e&signature=6b4161d937296b9d329a4f9f05afb21ce25b3150d535335d43b687bd38f4f6b1|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ar-espn/playlist.m3u8?token=22fed0daacad4921620b8b8208313ca9f2b68a8184bf86e8b84d283edfd56ccf.1780346273.b9e10b4b2601c2e4ad50981e1e85461e.c2c45f894b99c841d05ad3e34e4a3780.76e1a916fd8cdfa2b3ca0a617ed86e76&signature=aa241dbe5927902b182743f42319731ff65a939cc36a28c75db0bab8b5ce819b|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="17" tvg-id="Soccer.17" tvg-name="[Soccer] Turkey vs North Macedonia (DAZN 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Turkey vs North Macedonia (DAZN 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+2&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+2&code=de&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] Austria vs Tunisia (Prima Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Austria vs Tunisia (Prima Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+2&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+2&code=ro&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/de-dazn-2/playlist.m3u8?token=0915f94a4c30b0c0950a70b329396f836758d8bb67c001754e6547ac4013fdef.1780330755.7325f243509eeccc61b7fe9154d9bf13.618c7848c4cb928d3156962c61f9fda2.be1797d0b80c332f73aa0946bb829fdd&signature=7637b5cae2e9f05443a1fbbff0041998b740e7a0b8a1f5a1f37965963dfa4970|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-2/playlist.m3u8?token=bd44df3474a51e74e1a1f4382d215c520fdfb60ce288a721f0828b6005e0ddde.1780346274.44757efbc70f5675fb36868fd91de0d3.ccbb1fe78fcace1e26aa2cfc30d554df.edf8fd07d9d64241634a651cc066989f&signature=0346febb04b26e5fd3d7b443bac3570e78f742833d4cfc52bea46a245de815aa|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="18" tvg-id="Soccer.18" tvg-name="[Soccer] Turkey vs North Macedonia (Sport TV 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Turkey vs North Macedonia (Sport TV 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+3&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+3&code=pt&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] Austria vs Tunisia (Digi Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Austria vs Tunisia (Digi Sport 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+4&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+4&code=ro&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-3/playlist.m3u8?token=ae5d1a4e9e1797beaf3870b56f07da611842a6cd12d8c8cfd2b9c1e179878311.1780330755.50f196e2a84a7122762fbb119cb08f86.8d100f5be047be15db37e1a1d742a901.a665c95d953861bf31e19a008e9ee7f6&signature=5ef363be098654d11078c0fdbb5b44a71889c3addc4c3907a43f24f9210c58da|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-4/playlist.m3u8?token=0fb6d1be0b0e3b693d60583bf9e3f8e3f1b18264b0f794e52bbc2f3259e2193c.1780346274.24e7f7254280a60b7025bd8ea983d274.987e5a0e79d576f7abb94e4b93474c85.987c172607a72fab662d73598488efa5&signature=37edc0c50c971b9fc938abf6e5b25dc3bfabc01f963e8f733d10c54e63c813bc|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="19" tvg-id="Soccer.19" tvg-name="[Soccer] Turkey vs North Macedonia (Ziggo Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Turkey vs North Macedonia (Ziggo Sport 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+4&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+4&code=nl&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.16" tvg-name="[Soccer] Austria vs Tunisia (Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Austria vs Tunisia (Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nl-ziggo-sport-4/playlist.m3u8?token=4d05111acea64fbeb7393e1baa1db4653d3e89a3948f3f5f02bd107b36713537.1780330756.ca1dcc47ea4ecb883c7f9bd4c985ac47.a632de9d1c8b138374e37bcf71b09e8b.369cb3ade40445baa638aa8d44356dba&signature=5e47621dbc8a194440b180c5faba41463538605814e4b5aa0c250ee208307dd6|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="20" tvg-id="Soccer.20" tvg-name="[Soccer] Turkey vs North Macedonia (Diema Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Turkey vs North Macedonia (Diema Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+2&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+2&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/bg-diema-sport-2/playlist.m3u8?token=6592cc3190d3dabf2011e9a5ea2859bcce0f6bf17f083e29e96eddc08f0e299b.1780330756.2aa6733d44bf9e821e3f818fbf2b0b88.2466bb65be40b86c6d19c7df0b5df84e.14c85c67713a3eb772af384a297b0144&signature=eccd82821bf2901b4893ec15ffa2054d2edf098bdd3890be449c17a301cee7f8|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="21" tvg-id="Soccer.21" tvg-name="[Soccer] Turkey vs North Macedonia (Arena Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Turkey vs North Macedonia (Arena Sport 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+3&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+3&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-sport-3/playlist.m3u8?token=8b2448ecca22ce085ceded9e28d4e567bd77c55c95d5c54927910cea3bdacfd0.1780330757.e4d62bc7e91c8416b0ed3e5f7553951c.eedf2554ce56787ad6b0fa6a8e9abdc8.5f8ca0ae847692896e51015d4dce2f8b&signature=7bd0bebc9599d7f8b8c295604a184af720dd70c2d8614e980308afafab1a34f9|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="22" tvg-id="Soccer.22" tvg-name="[Soccer] Turkey vs North Macedonia (Arena Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Turkey vs North Macedonia (Arena Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-sport-1/playlist.m3u8?token=3ba3c9f78c491ec4ab238a73765c2a382c8affd4638c9570a0061e606af99336.1780330757.5c0912e7ee2b108d65c80577a6a245c9.cfe3ce04b7e5f4cf3cf82411f780caa5.9a5d4db100dd42b14497b0ef9addc7be&signature=2d142a01064ed5061a347b58c6b5db65fcbf47a94f15903974d5a0164fc71bc2|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="23" tvg-id="Soccer.23" tvg-name="[Soccer] Turkey vs North Macedonia (Sport Klub 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Turkey vs North Macedonia (Sport Klub 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+4&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+4&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-sport-klub-4/playlist.m3u8?token=a6b6b92f15abb1d5bf0f1a018742eddfb6d88665249ca99a32fefcbb3660e001.1780330758.88264c59038b78bfad2087175ee5f663.78359b8a426d818de29e96c44def45ac.9c700f4a076c465af9066c9828f80a33&signature=7fe6f38546fde1cc4f3b118c435d5fc23f5ad140adbf788659a3570ab9ac56c1|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="24" tvg-id="Soccer.24" tvg-name="[Soccer] Turkey vs North Macedonia (ESPN 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Turkey vs North Macedonia (ESPN 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+3&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+3&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/br-espn-3/playlist.m3u8?token=8e6f8d7993068581d9e6efc41268f2f6c375b45cb2a7ea5c2beeb4f71507bec7.1780330758.05c265fb94d4304e464cd0255fb0046c.7387245642c1e4ef65d3f38b386ca137.e783e7214a94bbfba6935e4b0543bb5a&signature=40385d353de62b1485d9c3efa4ba80fc733865371266c139b9c7639b7fe64471|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="25" tvg-id="Soccer.25" tvg-name="[Soccer] Turkey vs North Macedonia (Digi Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Turkey vs North Macedonia (Digi Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+2&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+2&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-2/playlist.m3u8?token=df2219fe23f37669ab6578a52884d6189221ed8ddca357b8a4905fc5303c61b4.1780330759.349fc7c41e3464e1a220c113d703a6fb.ee228799651b2df654abfc420daa6913.795573da473502a831042cbf4bd701e7&signature=bbef813d8511d9b21c1d666e5b25148b6ca631473ec1427d2741c6486b1c2ff7|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="26" tvg-id="Soccer.26" tvg-name="[Soccer] Turkey vs North Macedonia (Prima Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Turkey vs North Macedonia (Prima Sport 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+4&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+4&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-4/playlist.m3u8?token=e21156663d98d337c4487ec02c483cb9bd8c863d0e32571186bbdcca117eafdd.1780330759.c71d6deb99fcbc2ce289407a7d57aac4.c6fb3060efc89fbd5299fc9290b5e281.da3aa90d0fe62b7afe1e2db5d2d45308&signature=cce5ae5910c282fd68e4ab36af2cacaafe1e07e26f8437a14cd9b3d2d887f0f7|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="27" tvg-id="Soccer.27" tvg-name="[Soccer] Turkey vs North Macedonia (TRT 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Turkey vs North Macedonia (TRT 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=trt+1&code=tr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=trt+1&code=tr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/tr-trt-1/playlist.m3u8?token=89741d658f0cd957c93051d1fe9649eea3722a156d54c37b3e77e921ab99100f.1780330760.73412b013a1084b81679d1f616ecc8e8.cb2dbdc04e8f9bcd3e8fa1ff85a9a15f.da4bd1c0ef05ba74fd963e5b7d0b13af&signature=c837043388b1f4c0c1c55438b5cf4554c4dda6a86def5f54c960ea0d148de6b9|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="28" tvg-id="Soccer.28" tvg-name="[Soccer] Turkey vs North Macedonia (TRT Spor)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Turkey vs North Macedonia (TRT Spor)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=trt+spor&code=tr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=trt+spor&code=tr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/tr-trt-spor/playlist.m3u8?token=547322c0c20b5836a171120077621d740604415bc85e7f71359923a278762861.1780330760.0ecec72e38225e4f201689515caf0d7e.3c57e087abdd8722e9a0e27748a8e464.3e16ebc76770e2ce53e7897c9204a089&signature=b4a016328f6c5cd833a56f923226e484003bf89fb819c95db6652450e3d93c57|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="29" tvg-id="Soccer.29" tvg-name="[Soccer] Turkey vs North Macedonia (beIN SPORTS 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Turkey vs North Macedonia (beIN SPORTS 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-2/playlist.m3u8?token=54b60cf10acebdda12e4dd3ef3dc6ef32968993295a74639d6457301e16468d7.1780330761.506aea15d651a215737eb69fb1879177.914314da3d64c0812ce0313f866ee1a4.6d0219066d31269bdb98bf557dafe28e&signature=2aa37e4d9ce475cf1ad0ec348dc63fa6c37b87628f2c90df26165e987f5eacd5|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="30" tvg-id="Soccer.30" tvg-name="[Soccer] Norway vs Sweden (FOX Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Norway vs Sweden (FOX Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-sports-2/playlist.m3u8?token=0d514c51b7674f1a05ad4f09b586ee6a728d6bd1232994b21b8d0c37000867db.1780330761.924a68fe6c62cc32241d42b43f275fdb.df73484b389caa5a37db8264305b6e7e.ac07b8ec9dbc3d9e012c82b593f1c957&signature=48900a05d557f19d486993eb204047698240c706442880ff413355ef0941a79d|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="31" tvg-id="Soccer.31" tvg-name="[Soccer] Norway vs Sweden (TNT Sports 9)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Norway vs Sweden (TNT Sports 9)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+9&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+9&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-9/playlist.m3u8?token=58466335c014a1527152b954677c6ecd72ef7a0c935fbb2f9f8b4f2b511894a6.1780330761.2c28c19bfad54c36fab2dcdb25dbca81.10a0ebaa0db3f6ae5de730bec67e7ba7.37f9c95acc5e242faea591493ecbf673&signature=a61f9de903f7064a2462910b34b8ea905aaa9569860deeda223e0ee2780321be|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="32" tvg-id="Soccer.32" tvg-name="[Soccer] Norway vs Sweden (Sky Sport Select)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Norway vs Sweden (Sky Sport Select)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+select&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+select&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-select/playlist.m3u8?token=d21a6173399f41f2fda98863b102add34b2fdbd18041964adc1e30031ae97a04.1780330762.c04bf810701eef671b5a354e77790f12.0c23da2ddab4d6cb07097b482874facf.944debbcdbf9c5af30b61a7af93301da&signature=ed3a48743ee4f460dc2737f75cdcd8b2bb4ff46e556dbddc66ffa86c56778cad|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="33" tvg-id="Soccer.33" tvg-name="[Soccer] Norway vs Sweden (SuperSport PSL)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Norway vs Sweden (SuperSport PSL)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+psl&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+psl&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-psl/playlist.m3u8?token=03dc12478cbe25b0a8fe18c8680a8ed351e7ca3c110ef44d38f78208137bcce8.1780330762.b249cee1926227ac5a0bfce5f4e9191c.fe7c6341b6c7a92e081aed5df15f9a9d.8e93eba270811557bf02636e65553518&signature=b7349c3b2c499fd1a3d62e599edfd8ef257df28fa30fa98d259e8809b5d87008|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="34" tvg-id="Soccer.34" tvg-name="[Soccer] Norway vs Sweden (DAZN 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Norway vs Sweden (DAZN 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/de-dazn-1/playlist.m3u8?token=d9d470abdf0521d4c4356db8b09db5bda39d086ab21574651f8039180aa771e8.1780330763.0e99a0b624e89fd321d981b3fab5b09f.9e3673e67a8c43e0840e78d02410837b.fc20c104d5be264c3f2a65ec8864d236&signature=4041c51408cc32c4b25ac8848f74fdd3d4579f699d130c61e0847897465d6115|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="35" tvg-id="Soccer.35" tvg-name="[Soccer] Norway vs Sweden (Sport TV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Norway vs Sweden (Sport TV 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=a44412da27282ec44a631bdcc0703d83ca87282e781e6bbef7f86c51865296ae.1780330763.771404e3cfd980e106139a8c1366f48d.9cf641b5b6ab1a020966f14abf08a236.c6fee078578344d86185ad60cd16e384&signature=4cfec61d730e48487f23c4b47361702bba2333c91859f2481d464c8480d19f86|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="36" tvg-id="Soccer.36" tvg-name="[Soccer] Norway vs Sweden (Ziggo Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Norway vs Sweden (Ziggo Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+2&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+2&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nl-ziggo-sport-2/playlist.m3u8?token=cbb565273ad463b0c140b7f4285a10cc39b910ce439d159c6f232b4af30e7492.1780330764.6d700d9ede5b265ac4b03a97fd276833.3794f5b01c1aa11c3d675918c5c0d4e5.b697725da8836f6a2f11d1f4720d08b3&signature=2f8590bb6d79c12314b83c9323361a2e377d994ebeec980932e912eac69b5d01|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="37" tvg-id="Soccer.37" tvg-name="[Soccer] Norway vs Sweden (Nova Sports Start)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Norway vs Sweden (Nova Sports Start)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+start&code=gr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+start&code=gr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gr-nova-sports-start/playlist.m3u8?token=da4e1151c926d6ef1bd62788acd8a4cfb010a7d5aed18da846984b1a678c91a7.1780330764.663a5bcc5436847674f3de1ef29a683a.023bdb86e87a3f2c49ce93e88ecf9230.820086de092465cf9043b5417c09bcea&signature=f6e5464a2388c1fd8664bd68a0e3e4b60b404ab7185420c0825038a9a9239639|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="38" tvg-id="Soccer.38" tvg-name="[Soccer] Norway vs Sweden (TV2 Sport X)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Norway vs Sweden (TV2 Sport X)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tv2+sport+x&code=dk&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tv2+sport+x&code=dk&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/dk-tv2-sport-x/playlist.m3u8?token=b4d5b546203fc4c48ac71d290d6619a2bf81de08369bb4c525a05f96b416532f.1780330765.a07338d885d0509bbdad3d51e7b2a808.4eb29853948f7c0b5eda7f28a8e94620.bf86bff42a1c77bd073895949b602d34&signature=f123a88200f356d783d5d7f1e21d82b00baca4314c97d266a93e37b43f7bfb21|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="39" tvg-id="Soccer.39" tvg-name="[Soccer] Norway vs Sweden (Polsat Sport)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Norway vs Sweden (Polsat Sport)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pl-polsat-sport/playlist.m3u8?token=7687a8c2171d7155c0733056d4fe12de052c3bb8f9d8400d627e16093a0bfea6.1780330765.8082d4062373425934abb396edf2cbbf.9ddf103eab80e51b0c5c12a2964e73cb.d4422ffdefc613070e7ca8b59d817416&signature=cbfdb94745e98ae13f73f0bf8d3a5302c18cb98e6e7f34758ec87536e29564df|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="40" tvg-id="Soccer.40" tvg-name="[Soccer] Norway vs Sweden (Diema Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Norway vs Sweden (Diema Sport 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+3&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+3&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/bg-diema-sport-3/playlist.m3u8?token=57f04f5846268d9226f51dff9474713fe73f1266e807032da7390e3879ce9633.1780330766.53bdbc85bfc291a8ffdd39651c875321.4a7aef878a18c725207ac9bb0cc3b9ef.a5d255c3452841b225b0ece342a04ddd&signature=05ea5f33f707c7783f88f09b9124f233fa635b139b0295eba25e623bd65e59d2|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="41" tvg-id="Soccer.41" tvg-name="[Soccer] Norway vs Sweden (Cytavision Sports 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Norway vs Sweden (Cytavision Sports 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+4&code=cy&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+4&code=cy&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/cy-cytavision-sports-4/playlist.m3u8?token=0cf4aafb80e0c063e31bc0af0032d55513a83c72fedd82e6c89295c868f2c887.1780330766.44d0bd284bdb850c6348c33e96f6337f.affcc3797d996076e1dfca73b65fd302.d5737601aac0135244289f06a3225c6d&signature=12bedd7cccc61b82696f7dd6a26a2fd33a19a83d13c898663060f6fa89f0d70f|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="42" tvg-id="Soccer.42" tvg-name="[Soccer] Norway vs Sweden (Arena 1 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Norway vs Sweden (Arena 1 Premium)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-1-premium/playlist.m3u8?token=7dfdeeb9f6094ffaf8c8330e31d37d3c8c4fd0dae3b57e14f7b35e6ad405beb4.1780330767.6415db91dd434bbc64e3f0cbfee99461.c13c9a8045b8fbd3e7d629b31d45c830.2b530ff43c70e284a010c1f852143e4d&signature=fb5f0cca6b81120cf05e342ed22a5fbd6f5810b8cdb82e327babaf1431a5b61e|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="43" tvg-id="Soccer.43" tvg-name="[Soccer] Norway vs Sweden (SporTV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Norway vs Sweden (SporTV 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/br-sportv-1/playlist.m3u8?token=73b0d7407e3608991efc973ef87b2885e85effa0709a970244c142db09349f8e.1780330767.43896cf3a6018c1b18cca66dc4603748.e6f4ff6c551d61ebed68751ab7b52d8b.17d03c347e3d57a235a9ef8165f2fbca&signature=9efd215cac21806ad284f079239ed56a5c12befead59311ccd4ce2feae55ae7f|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="44" tvg-id="Soccer.44" tvg-name="[Soccer] Norway vs Sweden (Digi Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Norway vs Sweden (Digi Sport 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+3&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+3&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-3/playlist.m3u8?token=feebb3983319b25ee06dde47a33dc9866a3599a3d19639047963684e56cf32eb.1780330768.560a35f6489b325c783c5d678ab2d026.bc56e34390d4b1d516db347cb120bcd1.3ac6c4332c8bea32315e10eae3c2007e&signature=11ce3ff83cec1255e640cb25abc30b9d3658ffa21f5e3453a843155caac4ec6c|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="45" tvg-id="Soccer.45" tvg-name="[Soccer] Norway vs Sweden (Prima Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Norway vs Sweden (Prima Sport 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+3&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+3&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-3/playlist.m3u8?token=a3238ab9bfd1ded13b556eb7d924aeaa47e825e44caeda11875a4373b106f17b.1780330768.c51558b4076eefc6fff5fbf60feb9f42.d40fdc759fefd3e02b7c0415ad9650db.e279d09476bfd4bc6b516fa216ea4e8d&signature=911b225296566588e404dbdce8785e3dd344604800021ef83e1ebd109246bb78|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="46" tvg-id="Soccer.46" tvg-name="[Soccer] Norway vs Sweden (beIN SPORTS 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Norway vs Sweden (beIN SPORTS 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-1/playlist.m3u8?token=1a67a3d4767e5e9beef1a47ef8f52c8caec1d6567c8a743632ab0a10c86292df.1780330769.e87eae1e8f71e07ac12bb68e8b4b9e67.11a5acbaa4dba33febac50b0abb9c79a.1abf5d48525eccb9bf6cc1c778f79927&signature=9dea4129a57a10de0a4c80e157592da63d0a0e1c4b8adc36382297161f15c7a5|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-1/playlist.m3u8?token=1b204ddee5ad7a3bf6869159739456b8551df7c4f453ff7903a22b9b977aca4a.1780346275.5bd3ab7c77cd5b0ea67c9914e7556d22.c929eea77c51cf95f4fdd4d0eb606f25.3ec090e352b73b7f31ad7e41f5524277&signature=5a13aebef3a7289754acec6978122560b161fc3dcee95ea16f7d4800de5a8e2a|x-forwarded-for:77.238.79.111
 
