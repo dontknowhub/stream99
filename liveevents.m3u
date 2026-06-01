@@ -1,97 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Austria vs Tunisia (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Austria vs Tunisia (Sky Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Colombia vs Costa Rica (Sport TV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Colombia vs Costa Rica (Sport TV 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=dc991d053d98404c2bbdd7ea28ec5957d94dfd1a34e25839ae8c3a391a8a89be.1780346267.7727eff007ef223ff00200a4a414fb8c.225bc1c63d12ceafc909df1271e32ccb.692a7ad952000400a91dae5cc128f794&signature=a274a74c333e8797f005261cdbe313f1cfca8e04b82bf97b2192fb3d018de414|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=7b41c8540cf4a200d175c1b9ee6c6f26fc5dc77c3bde694365499940f3049370.1780354169.ec95f29fc24d283e3a248d80430b203c.3c0106338a97e292e4e6ad6f39224eaf.09b3f11300f6a9d97ac636415e845178&signature=b35bf9b45e0139903fc62cdafe03695149b5f1d206a852c2044a3b502c12ddf3|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Austria vs Tunisia (SuperSport Maximo 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Austria vs Tunisia (SuperSport Maximo 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+maximo+1&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+maximo+1&code=za&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Colombia vs Costa Rica (SporTV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Colombia vs Costa Rica (SporTV 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-maximo-1/playlist.m3u8?token=ac76ebe622abd658377c7e1904eab53bd6eeb73ebb3750edc2a8eff0a3c79a69.1780346268.506226df9dbf0998bcd9acfa76acc6dd.ba6ceafd7bd11bd34635793da46c174a.64584840e1fbd4994ac249a930fefd2f&signature=5644c98af24e74df49411ee262fd734bdf39e0ef9baf83e41d4934a5e4670a33|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Austria vs Tunisia (L Equipe)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Austria vs Tunisia (L Equipe)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=l+equipe&code=fr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=l+equipe&code=fr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/fr-l-equipe/playlist.m3u8?token=b46ae86babaf974e2db25ce2f9fffe709e59387ca3c7e11ce636214a2947d2ee.1780346269.542b31915428666096e7b1390461fde5.f5c0ee664b3382b664fa437bbb93bb3e.72662a27a505b0428b1af076f6fb92d4&signature=a27be2ee40c0474f43447bdf0f3d15515f867e0d9e2357a057250d359eaacf56|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Austria vs Tunisia (Sport TV 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Austria vs Tunisia (Sport TV 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-2/playlist.m3u8?token=dbd092ebf979745409b3e9e5e7f3595df88c913f384e8b21f273cc08f9f7d23e.1780346269.e00c48fcafb315eef1653243cf38c4c6.777a6d0f0d2909a6b7f29261aa689f14.cca1b0797c5d9b61f4be64ed6e4e125c&signature=a964df4b02b87763bebd4b9c49dca67408c535850a827c9a157ee42b7e445487|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Austria vs Tunisia (Ziggo Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Austria vs Tunisia (Ziggo Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+1&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+1&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nl-ziggo-sport-1/playlist.m3u8?token=51b4c7e2e2204c5bc5b8ee39ee1048eaa82bed85e5bca2145ad3f53a9c912fc1.1780346270.8de8b2329824907b32b83a8a8691029e.7c111635f51b22f4239c1e04926756d4.0b6557878c6df2fa8681b37cb6e73461&signature=99347f50c90430f9c45aac2a82d7c92961d4afcad770380298e536a89af25f97|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Austria vs Tunisia (Ziggo Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Austria vs Tunisia (Ziggo Sport 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+3&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+3&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nl-ziggo-sport-3/playlist.m3u8?token=06bad767d44e8e1f6ed162fb7690e42f49ead41d959ce5577e6b55e3cf66108f.1780346270.8f3d34ec5f6cf60cb3eb9b1c56f2473d.5bd6f59df3ea3fa5f0aefbb2a27dc3fe.e963370f6945b136102cce1d552e3ce2&signature=dc8a5c31be82ef76cf55d1a20f86c1a427a2e89c0a928630e3120e8d635ac7e5|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Austria vs Tunisia (Polsat Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Austria vs Tunisia (Polsat Sport 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport+3&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport+3&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pl-polsat-sport-3/playlist.m3u8?token=2b209fff41a4b8a12fbd13a5b4e81aee2dc7068975650149691f20f724f48e0a.1780346271.e93aea0065703aaac219a9111e4f947e.5fbb4dd511ffca83dfa7eb09ee22cc7d.3edd9776eba804ada305fc5df795b445&signature=999bf885631a90d3a6d89e3bc3ffe5f37f88527a556764a7e99a987ea5c5e605|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Austria vs Tunisia (Diema Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Austria vs Tunisia (Diema Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/bg-diema-sport-1/playlist.m3u8?token=1335dedd8323cfe6dcc3e826b513b3b30e51d1979a4759135d081fc9e4bfaf22.1780346271.3a2644134cbcbae46cf7e20996c590b9.a23780b8c4479d5b87b4e31784f31ce4.20dbf63b0ac73cec9c1c76ff84bd90d1&signature=11ea36f1ed4e88a1739a2820c334a0c16b094f3010e99d6c18feefefea703cf3|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Austria vs Tunisia (Cytavision Sports 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Austria vs Tunisia (Cytavision Sports 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+3&code=cy&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+3&code=cy&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/cy-cytavision-sports-3/playlist.m3u8?token=81eaea1b0218a0c675c1df3861fd2f112b66c05220e9a4c3a99be04b552d8959.1780346272.79979ed7bb04f764b6522a4e08ddb297.5bf41377fea32b1634e81ed04a7f65b9.9679b38a26d759bdb1cfc630f83d871b&signature=9aa5ac8a4227da29965dc8efe3969aa6350b320122010a4a71e1246bc9a39ffb|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Austria vs Tunisia (Arena Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Austria vs Tunisia (Arena Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+2&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+2&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-sport-2/playlist.m3u8?token=d205e2cb992dd10a51adb6d23bcfb6a77b424400b2cf332cc186bb014d20aa5e.1780346272.0be0291b31668848b62cb1dc7b7124c6.ae38f953184947b02ce5eddd5489c5d5.5c7064ed4b10ecce449133f0a8d51992&signature=a3fc6662a0324143204ed9edd322b9056d86d6336347a014f33b132b866c0b88|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Austria vs Tunisia (Sport Klub 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Austria vs Tunisia (Sport Klub 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+1&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+1&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-sport-klub-1/playlist.m3u8?token=b9bf9b998fe9dce8848826ba280ebc8e3c50dfef77b15934642ab39d1843ac2e.1780346272.3ae0bd988fb2da23b835c94399f2f1d6.82ddd3fa32a5b75c87a1dad45014417f.7dc918e470ca0b1b2e5664727d8f30c2&signature=b075953b27c6f217b1fe194c6406684431cc13a44a0f59063db53c4cd1de298b|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Austria vs Tunisia (ESPN 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Austria vs Tunisia (ESPN 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+4&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+4&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/br-espn-4/playlist.m3u8?token=a1648eab6d404fa206239bfde6e9c1005b44ec8f429b235e3106f3113045fb14.1780346273.1f08e80e69f732c8cf04e6630326d409.35e9d067876f08985f2909a08eabd908.a4550a2af3e7ace1dab743b85961b478&signature=04f8a45e4a11603431fc3d428eab2aa427242683cdd27d5e3030315bf571199c|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Austria vs Tunisia (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Austria vs Tunisia (ESPN)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-espn/playlist.m3u8?token=22fed0daacad4921620b8b8208313ca9f2b68a8184bf86e8b84d283edfd56ccf.1780346273.b9e10b4b2601c2e4ad50981e1e85461e.c2c45f894b99c841d05ad3e34e4a3780.76e1a916fd8cdfa2b3ca0a617ed86e76&signature=aa241dbe5927902b182743f42319731ff65a939cc36a28c75db0bab8b5ce819b|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] Austria vs Tunisia (Prima Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Austria vs Tunisia (Prima Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+2&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+2&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-2/playlist.m3u8?token=bd44df3474a51e74e1a1f4382d215c520fdfb60ce288a721f0828b6005e0ddde.1780346274.44757efbc70f5675fb36868fd91de0d3.ccbb1fe78fcace1e26aa2cfc30d554df.edf8fd07d9d64241634a651cc066989f&signature=0346febb04b26e5fd3d7b443bac3570e78f742833d4cfc52bea46a245de815aa|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] Austria vs Tunisia (Digi Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Austria vs Tunisia (Digi Sport 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+4&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+4&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-4/playlist.m3u8?token=0fb6d1be0b0e3b693d60583bf9e3f8e3f1b18264b0f794e52bbc2f3259e2193c.1780346274.24e7f7254280a60b7025bd8ea983d274.987e5a0e79d576f7abb94e4b93474c85.987c172607a72fab662d73598488efa5&signature=37edc0c50c971b9fc938abf6e5b25dc3bfabc01f963e8f733d10c54e63c813bc|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.16" tvg-name="[Soccer] Austria vs Tunisia (Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Austria vs Tunisia (Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-1/playlist.m3u8?token=1b204ddee5ad7a3bf6869159739456b8551df7c4f453ff7903a22b9b977aca4a.1780346275.5bd3ab7c77cd5b0ea67c9914e7556d22.c929eea77c51cf95f4fdd4d0eb606f25.3ec090e352b73b7f31ad7e41f5524277&signature=5a13aebef3a7289754acec6978122560b161fc3dcee95ea16f7d4800de5a8e2a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/br-sportv-1/playlist.m3u8?token=c094ebf67c23e7c66401b96afd8707c33dfdb85bea94195ceb66670fe9ed273e.1780354170.1d3dcbd5e244460fadc77cfcbae2e1ca.5c2724096b5d120c25e8a0119efee6fa.7ba263a59338af022426f261d0684777&signature=c87a67e33d5cdf62137ba22a64f8d69c2bf5a9749c23ca02cbc19aec662a4e78|x-forwarded-for:77.238.79.111
 
