@@ -3,11 +3,65 @@
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=7b41c8540cf4a200d175c1b9ee6c6f26fc5dc77c3bde694365499940f3049370.1780354169.ec95f29fc24d283e3a248d80430b203c.3c0106338a97e292e4e6ad6f39224eaf.09b3f11300f6a9d97ac636415e845178&signature=b35bf9b45e0139903fc62cdafe03695149b5f1d206a852c2044a3b502c12ddf3|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=d15c78d7a8e4a2c45b88b41f327e3d48c8e7ae19711f4ed06e64c73f8133bf0b.1780358892.8020018cf7b79a08cf31dc0f1cafa52e.9a1f742232a7020fb5d88a824ea30471.8b3b55997ac60c4611b9663e30532138&signature=c73adf427b02273c5fddbf754e5448cb910b0b330228fceec9736d43d8e67cb4|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Colombia vs Costa Rica (SporTV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Colombia vs Costa Rica (SporTV 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/br-sportv-1/playlist.m3u8?token=c094ebf67c23e7c66401b96afd8707c33dfdb85bea94195ceb66670fe9ed273e.1780354170.1d3dcbd5e244460fadc77cfcbae2e1ca.5c2724096b5d120c25e8a0119efee6fa.7ba263a59338af022426f261d0684777&signature=c87a67e33d5cdf62137ba22a64f8d69c2bf5a9749c23ca02cbc19aec662a4e78|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/br-sportv-1/playlist.m3u8?token=6e54cf1f87bcd333c305f7886da10049068af95924c0242df6a003e08d137e71.1780358894.b47412915f845eef8f10c19159a4a979.4ff9009aa2c9dab719b2b70a2d19a0fc.0863fa4b649bb8398ad590a085c33d19&signature=ef93e5b924e9d55ce0193987b748f1434cdd86f611af7b020cd88269beb25d17|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Canada vs Uzbekistan (FOX Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Canada vs Uzbekistan (FOX Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-sports-2/playlist.m3u8?token=10abca74864f84092991cbaa5dfdc32073fda5d7f986e8e2c0b998bb06023c69.1780358895.d4b6ea4b880784eb5789503a21a312be.fbde74712cd1b8ac45f8abb384103cc1.01494e72ee3c0c2c11de6d53d9461dd2&signature=71e024f1e2661fa71b2e5deed3620ad19c56c3a112e8c852bf0c87f9d2bf75ba|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Canada vs Uzbekistan (TSN 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Canada vs Uzbekistan (TSN 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tsn+1&code=ca&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tsn+1&code=ca&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ca-tsn-1/playlist.m3u8?token=11e682151b2382f31407a2482b9c28bdbf49a353d53f461158f1d4256b41e73c.1780358896.0ce4a152c1cc3061a0c98dda6d6f0f21.a6f169726b86d0a3843a8c244fda92be.e9e0a5c851c98d55c926118358dcac1e&signature=1706feee7a796f31b704cc9f76be0d362a5c9b387271691e0a61d940a338e47d|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Canada vs Uzbekistan (RDS)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Canada vs Uzbekistan (RDS)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=rds&code=ca&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=rds&code=ca&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-nhl-league-pass-13/playlist.m3u8?token=64bf0dc21e9ca0c3f57573b77f3ed204ad7e40bafb6389dd467442943f7c683c.1780358897.7598fc5e1aaa59954472988a42b4153e.3c98249ef4dd499231884eca3bb4b8f2.bc28a76f50f00c90862016f0db79963a&signature=9e86751adbaa342b4550e9ff0ff259fee3e1d0f6f7d44f4327c4dd2abe05ff62|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Canada vs Uzbekistan (TSN 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Canada vs Uzbekistan (TSN 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tsn+3&code=ca&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tsn+3&code=ca&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ca-tsn-3/playlist.m3u8?token=3c1de00eac3ea2bd53833c752172133231435aafd4bbafafd5a62ba4e7824a6a.1780358898.7483b6e683a3c7a47a8050075a567e08.c2001bb54bf33bb8d47ba265f4115440.f01b2eba80e5b1a37c38d84cc9c27979&signature=a3f8c7e01bf4f87b538ddd8d5a91b3abf0553e1aeec1058c6130df5be4a8d915|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Canada vs Uzbekistan (TSN 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Canada vs Uzbekistan (TSN 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tsn+4&code=ca&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tsn+4&code=ca&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ca-tsn-4/playlist.m3u8?token=540cd4f183e8b43f18e1373b996a8720d26860798c5e3dc0b79fd2bcee80b691.1780358899.7a315b949c0de00762df057716d797a6.5ad75c739919f6c550784443be1bf2da.c95c0582ce7361340906db7df2dcb7c7&signature=2b9b33b8acbf6321b9d00b4c9e2d3aac18d7d98dce9e0708f9a0b5abb8356ebe|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Canada vs Uzbekistan (TSN 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Canada vs Uzbekistan (TSN 5)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tsn+5&code=ca&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tsn+5&code=ca&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ca-tsn-5/playlist.m3u8?token=04ec9ae525369e8c4b5707f08ec7db7a0367c9a1d1a367f79fb95bd41d70dfda.1780358900.e1175de3b31c3307cc8a0259f574cca0.6e601a9da84d66ca912728bc6df0e560.2726164293c99c3f873ba7b10bd3a9f9&signature=38a79c1b586f6d14767519f970990106b4aea83eb28f8c2a993f1a7bc4077578|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Canada vs Uzbekistan (Sport TV 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Canada vs Uzbekistan (Sport TV 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-2/playlist.m3u8?token=011aa42d1cb29a4ceccff2e9889db34372fe90275c9619d1a59e7c9fa7ef7102.1780358901.30aa40466ad6b42eb8fde510c4af8c0c.d8442362c8ff820503c012c7ad3b8286.d2e8d2295e424b5a7d2abc18b4db3d74&signature=94fab6d3a60083b47316207dfb958cc1bbe0d034b4b2a5cd45042e302199d7f0|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="10" tvg-id="WWE.10" tvg-name="[WWE] WWE Monday Night RAW vs  (SuperSport Grandstand)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="WWE",[WWE] WWE Monday Night RAW vs  (SuperSport Grandstand)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+grandstand&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+grandstand&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-grandstand/playlist.m3u8?token=ce29a97c1681cdc40887acd62e1c6c741c5d0b608fe27236aebb502dd60bad97.1780358902.dc58912e7e7f54b3a44b8715731db3de.44009f97b26848e979bb4abd4214ef1d.bc9dfe92ce8dec320fe884c10e85af8b&signature=ab9f53b7465a407801a9c90770021a0512bb3b51c1b7243b36e5b280ecbb5267|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="11" tvg-id="WWE.11" tvg-name="[WWE] WWE Monday Night RAW vs  (SuperSport Action)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="WWE",[WWE] WWE Monday Night RAW vs  (SuperSport Action)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+action&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+action&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-action/playlist.m3u8?token=c36eabce299bbcaef1d68b57e90b4ed63917c1947cf314512ca69477d3ba45dc.1780358903.a448b72151eeb95a4d9aae7b0567cdba.ebc8361bb18a4284ed61c694eeac6bba.ec2b1f65d94bd8eae2a88e018c490820&signature=69d212687e7bc812380a0eebfb61e65eddf06479d2684f2dff3239ae541e4fb9|x-forwarded-for:77.238.79.111
 
