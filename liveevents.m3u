@@ -1,145 +1,103 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Puerto Rico vs Saudi Arabia Sport (Sport TV 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Puerto Rico vs Saudi Arabia Sport (Sport TV 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-2/playlist.m3u8?token=1a61e056a8ee288f905ed93af311559c47bc067bbd623d2b7fe0d6ee21125a6c.1780702768.bca7b130d0cec5e0bdfa7619fafd509d.1966c68de79273ce53a779e11e823713.c3c0e5f27cbbb2a692df356208e4d5a6&signature=8eae9aad1884836a71d4e9109c22506f0a0f1d84eafc8ade7775ade142659e68|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Canada vs Ireland Republic (FOX Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Canada vs Ireland Republic (FOX Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-sports-2/playlist.m3u8?token=2e09326c4521cc6fda2b8cc2baaa5795eb9e48716c9924c57e545b19fe6189da.1780702769.0616ecbe8d4c1f5c38be3c3666572559.ed7ab118a72ffcbf81edad7a2bccd10f.36c2bedb2cbf884b73655f8f6fd7a0ad&signature=08e8f43c1641037c016ac82fe258e825dc3c3a0e22294f2abe533b16b899c37d|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Canada vs Ireland Republic (Stan Sport 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Canada vs Ireland Republic (Stan Sport 5)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+5&code=au&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+5&code=au&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/au-stan-sport-5/playlist.m3u8?token=5502f4c078c628cb4c213fbd4de6f53c85862858bbea544f7e3ac6849808d92d.1780702769.f83aafc37a8850e7453bbc9ce45b1990.26860167c4a00b29c17b72c3bf714e2a.c73fb11f6dd8bfbe8d6d55b2d923b590&signature=462ecf2bf0cf902389788fc98f2fcedb09926c7e1806c99b8aafc50e5f1a7cd9|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Canada vs Ireland Republic (TSN 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Canada vs Ireland Republic (TSN 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tsn+4&code=ca&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tsn+4&code=ca&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ca-tsn-4/playlist.m3u8?token=7833ce31f60837a3db384918e590bf744bbfebf463537ce52865e4b64906df5c.1780702770.4ecc1beb84a3baa639305815d84993ec.e27ee3aca7b168b6898e996f8970f821.e91516b4e9337095ca981dd279ce9193&signature=f41294eba83a3570cb1e9f470e3927a6a9537614c62d6690a1d8a53706ec1753|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Canada vs Ireland Republic (TSN 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Canada vs Ireland Republic (TSN 5)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tsn+5&code=ca&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tsn+5&code=ca&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ca-tsn-5/playlist.m3u8?token=c629908f0990892f34ef734535c9e6c12148867c8ed4c8bf7bcb4084e984ec86.1780702770.3a1aefa97ef378147db62b85d1710985.5b09c05375fc923fd62d06db98827121.80c9db02f9f026e30abc33d84636ba41&signature=a90132ed8fbee015d5e382fec2a0591f63cb1f2ce474da689a9287d323a2710b|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Canada vs Ireland Republic (RDS)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Canada vs Ireland Republic (RDS)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=rds&code=ca&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=rds&code=ca&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-nhl-league-pass-13/playlist.m3u8?token=0607040acca240a555a4ccc823d388a2b060aa0afdd756a0cfedd85811fa70cd.1780702771.8f9e70e1bb0c01d2448e077336c982b2.48d23d2d8e977f7c592901f5f93a06b3.d63b6f71905f156fb686887230fff443&signature=02da3c61d9fbb071e8edbe59d438b1a0fdd471ac41d211fc8b53f3b878da4117|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Canada vs Ireland Republic (beIN SPORTS 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Canada vs Ireland Republic (beIN SPORTS 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-3/playlist.m3u8?token=08443094969121fef0087d83281fd6d7b8c94ebf284c92edbfdaa80c8079ffc7.1780702771.95b050e53996d12d8e02b458617d8d5c.4fe03e1ade19cd130c2131326d380f08.8aab66bf0e21930d481f488795236561&signature=e5c89eaf99adc9435521aff9e4c2ff8a6285e899c4b529ff953ac18f4fdbe366|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Haiti vs Peru (FOX Deportes)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Haiti vs Peru (FOX Deportes)
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Haiti vs Peru (FOX Deportes)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Haiti vs Peru (FOX Deportes)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+deportes&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+deportes&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-deportes/playlist.m3u8?token=cf6cd947c8ed47f6e4301b3d9045e07ec6826b767df870c63b16f7c15607d5e1.1780702772.c59ce4b06fc2ccafeec3d3ff84619531.db0dc43304b46fb9d840257de9fe8e6f.5ffdab53141eea33d8016c50fc672d16&signature=a549d9b18fea2fe7da4a6ffefa9f8d81e3d4cfbb419d747d79263f65dfd8f8f2|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-deportes/playlist.m3u8?token=83cceafb68687010ca3cf6138c758cc57c188d7062dd768700aca9d17eb9f970.1780709530.09b92be257601e900c729d69c069751e.7cd11b2c401468bfcfd324ae919dbbd5.eabc190a7733b19bd3e0be900dafaa86&signature=9ba2836f49e7dd2f9cb309ba3ad894162c5beaa695bdf557fe5c16245ab05265|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Haiti vs Peru (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Haiti vs Peru (Viaplay Sports 2)
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Haiti vs Peru (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Haiti vs Peru (Viaplay Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=1e5fbd76457bb332e04b0ad12d03e15296d294444d2ac7ceb2f4f12895620dfd.1780702772.5c6714f86425ccbdee788faec4070ee9.4fa70dc5e4dcf7fc3e09ee899e132353.50710029e05217c3ac5ef986e1773a36&signature=3251694274b672f96e5e3d0e26fe61fdfbf9202a626d90016d8fc7778a69cd46|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=55f65b2885011a069c238e24a4859f4257c38f4d5f88d249f63225c0c27226d4.1780709531.0b273ed23c702faff67a44e7446e1a94.bccfb094b3ddebfa583fe671089ea319.80aebbc12bee3f6a1664cca046ec820f&signature=a67372d2589a994ae156d90828e97ce7b0d70b6da1f3a681a09b02266cf316d9|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Haiti vs Peru (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Haiti vs Peru (Premier Sports 2)
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Haiti vs Peru (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Haiti vs Peru (Premier Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=d40f4242190f825973e22d5654c627b544da7e678aee7e64c5d5c208b449ff8f.1780702772.435b8a853259417d1a1cc81275ff5d93.5f914ba84b7bc22658acb34bad9f932b.05ce140534226fe062135f1ca0fec065&signature=fbcf0384266d87e2963994ba329a32dfdbc8de68584522f0207dfb7514b1b343|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=b5528ef4f6eddd2b3eb501a1f7e81271d47d3e940788bb1003e89e7c5ad61856.1780709531.bc6c70741126a6fbefe8670f772ef082.a210a58de33b97fc95960d2ebc093ffb.375c11818f360cd423d215e084896120&signature=82f8de5af024c22246d75fc53de85789e660d9963d2a025a3a16f4c5ed24168f|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Haiti vs Peru (Stan Sport 6)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Haiti vs Peru (Stan Sport 6)
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Haiti vs Peru (Stan Sport 6)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Haiti vs Peru (Stan Sport 6)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+6&code=au&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+6&code=au&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/au-stan-sport-6/playlist.m3u8?token=05c7217c58bfda6e5a4f0fe8f2417711323c7cd5ab97d55066d8ae52f76a843a.1780702773.b8fced8ae5a89e865b60ce693f594b5a.af59e2ad27e4d5c5410a0f4c23983842.2b0cbeb3c4d20105acfeeab9a73b1b6b&signature=423419a60b80dcbb682306ea83774521bbb8d986078ab4ef45ba0875e48987f6|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/au-stan-sport-6/playlist.m3u8?token=cabdddf4f7de117e7c65c512c2553bbeb59ff1fe81deda10c380b54295ae13e9.1780709532.9bf1ea43e7a99e874a276238b1b08a81.2f30d8cab9e44017ccd34bad965770d8.d1852fa0a6ae8af589e5f0deed804256&signature=b2fe15b3e59d6d36b9e606fc9011fd564e3fecd0812db24b60c275ef0c864e45|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Haiti vs Peru (SporTV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Haiti vs Peru (SporTV 1)
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Haiti vs Peru (SporTV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Haiti vs Peru (SporTV 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/br-sportv-1/playlist.m3u8?token=d4be96dbffb2e3b846fefddf8ad58bbac1dc98a9296428ed4cc707f6ac0c9cf3.1780702773.de5f31385861fb7b1edb8b758dda8f1c.6a6b0a912fadbe710b6c60c3f0ea7be0.22cc28ad8a2a434cd8599b215b5dc702&signature=ee58ab80f85bdf5a6495392e344ff0259542b6f9fa98932d79ba1d74d35c4d69|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/br-sportv-1/playlist.m3u8?token=cc73977991135fa31d8df18f0d0638718a7e91ea1b31c875cfc1823992738a90.1780709533.8b4179c5fa85b740eefd47a5e6e59b4d.55fd32b0434fb62fac620a7a73f5be3e.bd80863fc540c0dc52d913dc9ca2f3f6&signature=66f85ab978dfb578974bd22d3311a30ac17a434b9b168f360ba032e10fc192ef|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=b989dda82939f1c1a6bd75d68a11beb72bbf3806100b406a19f4bab79198a670.1780702774.73118714088deff83fbccc2188c9e5dc.e0e26470f470abf5911615dbc5ae3f04.d9a5154478ea99ece9126f0c0070613e&signature=9ac6d8eca603681f62240ba8ad252ddfb9fec7655a1b17748bfdc0e5d0b46e89|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=f6712e0963513b027a390a557c2fac4957f005247e34cce491da5c8d9b36efc3.1780709533.913547d390ec0347e9a6d1f7d46aa311.dc35b7f79ebffcd7024e423262ff0d5f.eeb1f476f4f852c052eccc9009792970&signature=bf432bf7b4bae80049eba9239edcaac529f230be23c477e489768acb77c1a386|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=8fc52c71c7ff3c2471908284ed4afdcef896f9c164c60c2c0cfe940bf4bf56a3.1780702774.096001f8911f71e4335e348200ca832c.fc42b76e677a549ec3a67ca0c519fb75.0fc2d038335a267bda1929a5898d3bb1&signature=095ab2579847c16ee37d4d0fba6957566cbccd2026eec39f3a988f1a6e9b812f|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=d28f91180278622897487852e142622e257ac4b7bd9a97194e82d244a9926f08.1780709534.161ede9b7070e83f97cb7e8c7880fb3c.eae0cb890b4c8fc747dea1583af647bb.2407a97aa0db0256f6f257367e0db0a5&signature=e19ccbad3ae442b963c1d6bd1eb6c4649e464a531d32730a765523573baaf2db|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (Sky Sports Arena)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (Sky Sports Arena)
+#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (Sky Sports Arena)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (Sky Sports Arena)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+arena&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+arena&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-arena/playlist.m3u8?token=83667609c3d0de7be502916c53cf20e9d82a41a49ab297eca877806fb7e319ea.1780702775.6a2c49260658f4d03e8a9ff6a58855e4.3b1611d557f3f1252e5fb792eee92b9a.84d0741990c513daa0f2e11f4eaf4252&signature=46b267a11aa3f11d0118d4912843be7d3b860452d6596c9e8cb53a75d1a1f5f0|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-arena/playlist.m3u8?token=ea060e9ef7fb0f7240d11f0bcd2054dfc1c9608d6f92b95445d4fe445034d225.1780709534.7436161da0f52481785a7a4dd5eb29f3.c2dec7bed0dce1c10bf9862aafc8647f.4ba6f69e22970d63cb09908d93afd495&signature=c69e6fcfe01bcfd626f14b454fabeacaa69e44e10729e1cc1040d4b406302123|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=4ff724fcbb923746ec49e1f0bb8684ff3bf303ae514ea0a9a97820fa019808f2.1780702775.dcd1532b79b9a71ff5e0b5a6d5c7d5de.f59155d8e852c1b527a52a9360d249e3.558b87c3f4bf4e5a1b7c6ade8ab0092c&signature=52c98a8d249e8404a84f43a6f9d405fc0a9a3b0d110f8df0d3a04e5066540851|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=b130c26b402d544d0f46ed9e18667f0ef24bdbc1366ed0592704ec341cc45e8a.1780709535.ed2c6da8aa8c83f34dd40433afe8fc74.563b5d6300036fea58acf931e989ae71.e7770c6b1cbd736b8deb83dd94692da1&signature=99fba4a8eb10ac25bcbe086abe4bc65489b57d840fb259b03cc556f443bccce2|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (Sky Sport 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (Sky Sport 5)
+#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (Sky Sport 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (Sky Sport 5)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+5&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+5&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-5/playlist.m3u8?token=5d6f7a2067ea7e751c7b5036b2671ac31b03921cc0b20aec374057910c4e7b1b.1780702776.7af5d162b6d56046c3740a6992f87797.7b444f4c4ea84794f28df9e0fd6ec1f8.5d9545c5718451f774a0d3264228b529&signature=f398a7935bad79c23d44ac04eb00f7031094ce61f219b9f140580efcb7abecbf|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-5/playlist.m3u8?token=86df80025cb90c3cdcc49f89cabf86b6bbf4b61dc3048aa916e5317b47e0d72f.1780709535.471d4d74b3f7a6b3c93e865e2dab3b0c.8d775bedc38a9e9b997189e7e6c1f5a0.f6d016dedbbd5e141965f78125fa7bf6&signature=50d132f1d60572afe9037885154e218264be4dce7c80e4eb442294b208b87dc3|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="18" tvg-id="Cricket.18" tvg-name="[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=a5f603632fb8ba478ceec6bc7a6d922353056caa49b017b3f90ab9bf0212c1f9.1780702776.bbb8f804b83e3f7ecf6dc3529d0ef462.f529421dcd80bbd99b5875a0b6999968.47ee668341977f33f88b2fc9f62712c5&signature=59135e6d0b246eff4a572c5941f727416b790546cb328af68218188d12993238|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=7629d33416e1ae6020d3d7b9caeca3b43312fc9615866cf69e244ed0ddb8e06c.1780709536.c9616b295dc0417f322249aefcf945ee.7648c46c508c362a64f81bfecc22afac.c1692dec8d5574147bd037aa5e089fce&signature=88ee0cad6d0c9e082ebf4ccb33953a2776dec050b65fb96591f1d301241db5f4|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="19" tvg-id="Cricket.19" tvg-name="[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=541c57877e9748ab5c33c5276a669f8ec0a1f93a22dbb45a1a1b00f94327dd60.1780702777.b4d39f5640608dbd5e7829532077830b.58c9ac66f83a5d07877e0a8acf9bd6d8.ff178c4655a8381106eff69cf9d39484&signature=a65d7dc74adf42cc756764dfa0c30dfce5d4ba7c92481a2494c51ec0398baa6d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=30f9b21cf7e0b62311a5d9de397f80087436cf9a02c35097c8e6a91df280448d.1780709537.3a3d19626321603fa6c75389f17c7e00.cf5ef9240ad442a8e3d958de8c283c09.7741526f283a7b15b623bdc856d9d1fd&signature=f6d91dbf5dba6c49a992afbba59e6e415f9b6a351309c8f356b716c61392b058|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="20" tvg-id="Cricket.20" tvg-name="[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=6de877abc8f81c822bf97c919c361b04e913524bb87aed584fe8628976663bed.1780702777.1ce5bace0eac64b7cc133b7af78e33b6.afdac7967cf8236fc9de106004536fe9.5e559c8825e59c5791e86cd5e98ddab3&signature=dbe5cc69be24accd7dbe9a5b9123a2298735834c90d4be2476d355fa93bce6bd|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=445e9971f696522a979812a3c8561b446e6d50f0a98d4d371d0f596dcd35c3a4.1780709537.f83682efb5ee1696ed4b5bf441dc18c0.64276699dec88f82ec9ebf5c740da3cf.dcafafa7a6eee60ac2607e8ded816418&signature=7da747962a4ae00e5cf5db98e22d86f071554db5cd3c11bfbc09b20ae23af83a|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="21" tvg-id="Cricket.21" tvg-name="[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (Sky Sports Arena)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (Sky Sports Arena)
+#EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (Sky Sports Arena)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (Sky Sports Arena)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+arena&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+arena&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-arena/playlist.m3u8?token=9d3bc57f38e9929c1142455ebf3f86189753bfa2b7f6e847688d4925c625ff89.1780702777.f383fa69bd0bcffd35729ebd7a34631d.44197cdb3200938722e4b257ce2501e4.79477c34741e040b6b35fecc37f307c2&signature=42e9a7803f8a85b33389b75a523f174492a4be17b87c2ec408050ba7294439e2|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-arena/playlist.m3u8?token=0c9a29afc2f597c52abdf44dfe5997931897a664e7d083d3814ca5bdab9fda34.1780709538.f7a1a08b42eda10308c10aa0de8f9034.fc8412a1725d3cf686f1baf423943e7d.e6981a949dafad85c4436a2c3b8da8d7&signature=f00ed80c8981125313a31235def9e80a2a24eef0acc9d846a0fb58dcb1490afc|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="22" tvg-id="Cricket.22" tvg-name="[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=552c04003daf8b326d7b2bb90470ede886f5d29289b80fa8b272d135b08fc235.1780702778.5d576792617eaf5f99ac252fa5eaedc5.279d504fc9e2ae5a74627363103d5abe.913b26daaee5b1e309a9f7f7e71938ad&signature=e70b5724903c9653cd6e0ba6bd2fd5708eae9f8cf031c47d12e3a28e955b1727|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=131761beb5898b7b4a04981c7e0f39beda9d5684a0d7cbdf6a9ded05d33a33cf.1780709538.54cf0f155f13ffe2b422da9fabf91ccb.68ea5611abbbfee27bb97f2402536d0a.4b7d2dc70be37d7e48aebfff7565caf7&signature=1d65613262240f077fb0e368041545e31cabcc990a260b13133daadbaa21b9f0|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="23" tvg-id="Cricket.23" tvg-name="[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (Sky Sport 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (Sky Sport 5)
+#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (Sky Sport 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (Sky Sport 5)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+5&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+5&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-5/playlist.m3u8?token=884c782e0416905dcc2c8251aff6e74e9916859a6b7771ed06cc4945c1d2d09c.1780702778.7d4755a9b896c55de695f900e6836fc8.c351df9ae5f35cc3096862ed63018403.c2e5d8f25fdbb0e82f48da87052eea8c&signature=5def96cf11010e1f9c02e3f555560c5c1daa9c0bd914fdb9b63ddaf4e5c2fb86|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-5/playlist.m3u8?token=03471ec2b3828aebee6edf6ec3829ddc87da8d8e2a89a0809437ee6d2c47012c.1780709539.9b022d2e5ad1486de945917407bb836d.aff85f0a14470a08fdc5551a1570c688.7a31fc00687da47ae9cd79051fdbee4c&signature=5167a6e36b005e1cab01c0d0201f825b37f729204ae2a73db116dfa9643e9a2f|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="24" tvg-id="Cricket.24" tvg-name="[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Yorkshire vs Lancashire vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=aa09a11380044c60fd1ecf158abbfac856871d553906f5840ceb53e4706ff008.1780702779.8eb9b3214d15851189f8b25b27855080.dc1e7e0b572ac0b99103df39f4812693.ce4753fe1394fdca17146f52050669dc&signature=935b09f32f1cfbcd32bd368ae821b80c2a127aad119216c2ae7560b066e97dbe|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=c82138d90ef7fc9e4923ba88a2083cbebeb9128edb956e7a548fe44b262ab531.1780709540.9b386fc6ba21211e5bbcb52f2f7f0d1b.6722e56c0ab85410f5b419cf8f8bbefa.92539d2714a1b99f3f8bffc2c888385d&signature=cfff2b591abd6c6851282802e00e4237c584317f58fa8361ff1095792a7ecaf1|x-forwarded-for:77.238.79.111
 
