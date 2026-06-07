@@ -1,97 +1,163 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Cricket.1" tvg-name="[Cricket] 1st Test Day-4 : England vs New Zealand vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-4 : England vs New Zealand vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Liechtenstein vs Cyprus (FOX Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Liechtenstein vs Cyprus (FOX Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-sports-2/playlist.m3u8?token=45752ff6e34a92a67cd5f90994957d12da42652b7ceefb5ca79d225cd1096baf.1780834647.8d576173e914ec181f233ff569751534.f4cd099db85ea5ed50d41326839009b5.2da3a1bedd1986ff3b9f81b3c56cc50a&signature=92f0da7552a4a6bdce0dad72220f37b29037c5051683942d33ccda1bfe2cd9c6|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Liechtenstein vs Cyprus (beIN SPORTS MENA 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Liechtenstein vs Cyprus (beIN SPORTS MENA 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-mena-1/playlist.m3u8?token=e4c8a4d9476ac7f08bb3d94c54aa17eb9559a88808d2b33d91fc57ff64c4263b.1780834649.994c7e216347486874715778421ec935.dc327662f7a584ed670620425b5228b2.89727a8736e632be196385aef8158e5d&signature=1c6e27c7dc1ef3cc9957e1fd3700490a30e2aaab5ba170a378a72492bf62764a|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Liechtenstein vs Cyprus (Sky Sport Select)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Liechtenstein vs Cyprus (Sky Sport Select)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+select&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+select&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-select/playlist.m3u8?token=19912409b775fad06fdcc51e98855231dc5966aafed459c7e666eb4bb9a0d1dc.1780834650.422a191d3b58ee6c7a062752aa4b7b9a.92d77d8db14ca1d099820fa64d455b0e.fe3f775620489807b5cf6de690d0149e&signature=be51d1fc16dc98ac9bd43dcb2b7be2393da92c90fb876856f83734b27c79e228|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Liechtenstein vs Cyprus (Sky Sport Calcio)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Liechtenstein vs Cyprus (Sky Sport Calcio)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+calcio&code=it&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+calcio&code=it&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/it-sky-sport-calcio/playlist.m3u8?token=400dfe6b187d00ff77be90c8fd5e77bccefdbfd2c3a776801d5b6b02d7c4784d.1780834650.44bd8abcfd4ef804bb0d16b028bbe2f8.74008cc5b9d0512dfb554a3d4e890523.aabc14eeb55f44b38b5d314bea2c3118&signature=f11f2e8e2d88b305902b85d5b1314285b098487a706f19df07c457830ac68025|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Liechtenstein vs Cyprus (DAZN 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Liechtenstein vs Cyprus (DAZN 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/de-dazn-1/playlist.m3u8?token=d504211e2377b9abf61fa7d753de53d558a7410c3ec9ad58b9fbe8f529fc7d35.1780834651.0b60be6e627924b5606cd6dc390dc312.f2e18128332bcd6ad861f8c3aefb22d1.555c7caf175b43332b666580628b79d5&signature=ed3264bbb8b421eb80d3b7e7091fd558877105325dc950e7b6ff5679705a205a|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Liechtenstein vs Cyprus (Nova Sports Start)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Liechtenstein vs Cyprus (Nova Sports Start)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+start&code=gr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+start&code=gr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gr-nova-sports-start/playlist.m3u8?token=aeb6fbacc0fcc663de306086c62d167fd0dba5d452a233ba7353f89db86545ef.1780834651.35f06ab35ed27d57920cd85179c77d10.7c71152333a34d19a76747006f3c5643.455df07250819fe9b418e8d70fad8178&signature=fc5d9cab3efda14f1be6543b473c396637ef673df1a31b1d7357cc774cd5a61f|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Liechtenstein vs Cyprus (Diema Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Liechtenstein vs Cyprus (Diema Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+2&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+2&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/bg-diema-sport-2/playlist.m3u8?token=9111cee15ed9341539787dccb9be11affab29182d5fec3aec111ea3d9f76a3b0.1780834652.805ddaea9e9e30b44e88d298da80a612.78789a679bf6fc0f3785111dbdcf510c.c3f8f984c0b8428ba3f9de03737cb1ec&signature=5f48ce54bd86fffda788e5b313ba41fcb56da7b3393b5715c71a1d677b7f6b8c|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Liechtenstein vs Cyprus (SporTV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Liechtenstein vs Cyprus (SporTV 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/br-sportv-1/playlist.m3u8?token=59ed64987fc481115403ffd3c57a41fffe6a6bef5fd4fc72fce2d0bb1b601d1a.1780834653.ccc3e42df988995ab2815c0555e2f781.d6371fdd6f368be8e988843f2ecb4508.fef28ab61914d3b70c8d4bbbe6464c77&signature=38d7aef0a801fd641cc3df9dabf05834e99a048da4f95825ac35b311bc551b28|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Liechtenstein vs Cyprus (Digi Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Liechtenstein vs Cyprus (Digi Sport 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+4&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+4&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-4/playlist.m3u8?token=bd77df03f1d845b71352f4e61cbae62a3b749b3a87bd944c5a4418241103b0ce.1780834653.8d1e80c950103bfdd3231214be2f5f86.786d763efceacc2feb3b5d079140ccfa.1fdf723342443e145b396b5661646e9e&signature=f37592bc352a5bbefb006b3bbfc27ac1e75f27d152ffefaa739e9783a213ce51|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Liechtenstein vs Cyprus (Prima Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Liechtenstein vs Cyprus (Prima Sport 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+3&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+3&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-3/playlist.m3u8?token=d19c0da3a472366eb88e89cb67bc069d750c662e9ed5ceed3fa60a61364ecc61.1780834654.4df54b2140572a0394747f9d24847569.7be67ed547712ff24f5d447e54ca0937.ee206db3204f34240193d9f7f371133e&signature=71f716570c8f7c07a355a9bdd1ce582a23b1875917454f681acd53f9d57e9190|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Oman vs Mozambique (TNT Sports 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Oman vs Mozambique (TNT Sports 7)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-7/playlist.m3u8?token=b85b0990b96245301d0d7822b113056f2f2b7d1c1c68e80dacec100e6ade7bb6.1780834655.08c760e54ec42ab176374e75b46c4f37.dfed4fc212e44db30cf9ba9309e2d4d6.4632c270bd18ba4a50103da251aa5eb2&signature=18a78f8619069018e1dd3199a46918c1b896d8d182624170b529af7e2066467b|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] 1st Test Day-4 : England vs New Zealand vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-4 : England vs New Zealand vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=ddc5481cd1bbe62e796be4540ffa1dbe136c8ab75a80abce5bd8c8237c060ffe.1780829711.7c9cc68b11c4370f8ccabf2e825f3871.c93d319143cbe9ba915cbd4c1061d7ea.b215a65be5125c955e17bbe077a56ec3&signature=3136afd435c7698d46f169918d315beacf4b0b0ff021d80491268dbed5a4b3fa|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=84ef0d689ddf27139b7ce7dfa770971402e1e668ce68d350a222876c58f4ffd8.1780834655.3152d0c00949c4c4ceab01f6240c7205.0af66221925996297514e7f09e792a36.9494aaeaec0a2a101776d17fc98a7f90&signature=573b9ece6b422c87547334348dbff675a39708f965a9b11c1da59cb3840776f3|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] 1st Test Day-4 : England vs New Zealand vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-4 : England vs New Zealand vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] 1st Test Day-4 : England vs New Zealand vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-4 : England vs New Zealand vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=da5156eccc988d514000e974a0b05bad1e6aaffbf4e317b4a771da32a41f5f2b.1780829713.b5ee0dbe37a5b4abb98fc1aa8f4db620.b548e86fef8f15753710284710fc3e30.2f5d4c8791ac32987fb2695c7c7c8e7e&signature=3ef4ca4bf34a93591ca43998a468c28fb4d2eb8f9ff7d21f63b57d6ee67e35fd|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=dc0a0cc2c9ae70dbdd9ae29a8b4f0cdfccfeff853957566fd6ddc9776ad9273d.1780834656.4cb3246fb97f71b4a3aa5d555ca2f53a.9020f9614ee243b0e1f278939f108853.e614b312dc8d84c2a02b4cfbb2d50327&signature=9721a0757677cb9e1ce28b2b20198d8c80a5ffd892a21adda7a2544be0aedd1e|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] 1st Test Day-4 : England vs New Zealand vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-4 : England vs New Zealand vs  (Fox Cricket)
+#EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] 1st Test Day-4 : England vs New Zealand vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-4 : England vs New Zealand vs  (Fox Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=2e4d7d90bb1c17d20497e708a5d1661db409ec95626981c1a62e5a2fd7b1f803.1780829713.ed0c539d46b6023aecf1fd4998fc6afb.f76c6e58f3b7d042e3fd2306a6038782.bd865c39cc8a06435857e056f0bbb55f&signature=3c297bbeee788db2c8898851baf5b2b86b2385c4799f684bae6141a1e7b1f20a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=873898f4f8b7c3717a1d16b9a766dbcb6a622acc28900abce5d23ff9ee442548.1780834657.363aaa817d8ceae3b8956af2ab273621.dee6fa65f400c7257e7691b6ace6fbd6.cba560d32caf5990beed02666c22cb91&signature=e7ce1a9e642efb68e92e2ba3700f9adf14b2a744c79ade4c8f5e1d148e2240af|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] 1st Test Day-4 : England vs New Zealand vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-4 : England vs New Zealand vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] 1st Test Day-4 : England vs New Zealand vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-4 : England vs New Zealand vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=1eb7801af2f9529c212619e4eabd354e6dd4bc2f1d0ab056df61cb7a949e23bc.1780829714.d5c3809bbf21b606987378d6c084d25c.f47898e10117e17669298942113a416b.5092341adcee40972785cb6e436eb293&signature=1e6412bdcf8fe76fb1fb754c8ad23c2443b110a13deee7aa8736e8a8999402f7|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=4145cf6b8c6530b6c5696ddd9e68bd3acbdaeca220f5dd9177e3b8ae1b6352c1.1780834657.79daf792b4c93aaa36b0e9a6d162b1d8.4c8486260944c3df0813c640b7feac73.8fa48a3819e8a0bf713bdd9ef046b9ae&signature=92314aab4aa4110c7506f4cfd860b9fbd14e95442fda3e95841e320272457f6f|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] 1st Test Day-4 : England vs New Zealand vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-4 : England vs New Zealand vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] 1st Test Day-4 : England vs New Zealand vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-4 : England vs New Zealand vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=1fe9931e07feaabc3cb488499a70528dc751d55234a9d74d6b49513fbbb1b9a2.1780829715.eafe5edcfe64f27572963493fec5a71f.69fb0131bfc443893526d3e39407087d.4d3a287f41799674c56bc75150342d8a&signature=e14c106cd0d57706170a9795f690a11d92859eb0fcf74cf93c3bb843a13c0e00|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=ea3786472eaaff284a1d427b5e943640845578bd97a0d6d8d502ec581f1b8eac.1780834658.899a78830b244e328444c37109eb48d9.661fd5b628e54ed05216a3a3ec513388.42b2fb6b8e6689e40e0f28a0873476d2&signature=953508138f26a533aea97474dfe6491dad66ecd078f20dcefeaf02ab7915e86b|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] 1st Test Day-4 : England vs New Zealand vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-4 : England vs New Zealand vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] 1st Test Day-4 : England vs New Zealand vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-4 : England vs New Zealand vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=cef2db3678b917389cc06a26442fbcd1eb6554d060a9e5aa967aed2f941cb322.1780829716.69dabd47aed369b8ca7ceeb162e8df24.5ee1e1bab87821e909c0037bf61e59ba.13dc4fbeedded9a973f3cf2ccf61fd98&signature=c217b4c26ac5f6e3781cda7e2ca3d577c5c28e2665cc5f5261f54848bb76db18|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=7feaf9721e8f7b37244d583e508c972ef802be47a706af602313e66c6c5616f1.1780834659.faabaede72407ffafa472d7fbed05b7f.a29f25255744d937023de657ffce1b8f.6098410106aee2c44669cef390af025c&signature=c49f2bd01679b1f340a056c725339e9027a9d41cdf7e38c355998c81ff54a8b5|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] EUT20 Belgium : JB Bruges vs. Ghent Gladiators vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : JB Bruges vs. Ghent Gladiators vs  (Viaplay Sports 2)
+#EXTINF:-1 tvg-chno="18" tvg-id="Cricket.18" tvg-name="[Cricket] EUT20 Belgium : JB Bruges vs. Ghent Gladiators vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : JB Bruges vs. Ghent Gladiators vs  (Viaplay Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=6df6f187b0de9ced0946c022d9560e55cda0308b7e0bc939ba0d855835cb868a.1780829717.441f115c30a0192e23dc81a3fbaa6bc4.a3ee5f96009494df36d37294477a003d.4fcc3c2e6a8baddbd73c707a19966627&signature=077e3a4b5bd3554b4c265e290b94f035abdb7d6e810ccef794b1824318f8b604|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=4687b260e0df28c0fee457eab419aad9a1af87fa08ba4003d2f6740a672c21b1.1780834659.7c3dfd2e62512ca4b46525420403d2f1.61ed5b214afbcce4474321cad95823aa.9382d2e49944f9b5893593d9354c98bf&signature=54ce8eb9e2471e3df83a4952d80b421d8f3890a18749b816edb14db1d6c0a6ea|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] EUT20 Belgium : JB Bruges vs. Ghent Gladiators vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : JB Bruges vs. Ghent Gladiators vs  (Premier Sports 2)
+#EXTINF:-1 tvg-chno="19" tvg-id="Cricket.19" tvg-name="[Cricket] EUT20 Belgium : JB Bruges vs. Ghent Gladiators vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : JB Bruges vs. Ghent Gladiators vs  (Premier Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=f09645266fdfdffafdc8c4c874f515baefff73ae94c417c6ab13a8023a2c9f42.1780829718.c5ffc41bfe8b9a83b11243ee7ba672ce.9d57a28b60d1f589e48128729622cbd4.58b07c1838a6a2499f174d3d6d48c2dd&signature=fb230b011c1f90d6d542c2922972b96e2464ba69c0c20a804e37b2dce06537b0|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=36020d606c87ff03f39e35f1a2d966eff8bebaecbb66e7dc8adf5710e2ec5729.1780834660.11e9d21b0cf7963b1de77025dd945871.91add862231d59c02cec61acafeab1af.0552f8f7a531f76a6ea8b896c6eba0c7&signature=4f7a7f2b142f01573fed480d2d6853dd52ef20136d6258a6217af28052308409|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] 1st Test Day-4 : England vs New Zealand vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-4 : England vs New Zealand vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="20" tvg-id="Cricket.20" tvg-name="[Cricket] 1st Test Day-4 : England vs New Zealand vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-4 : England vs New Zealand vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=c59db3f3e20539a9f48e6f79bbc8aa7c1f2e88762544cbdabfbe048fdde635cc.1780829719.2f14d93f2641c5ae85a9a42aca7ebfe5.a2e72346b0cd04f33c7da8258aac2f41.f46625ff4d06b68661bd0318bcd9ba04&signature=d576cd6286bfe86c0e7bde426cddd99f331485a1018a4d7f4831602daefc2529|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=001bf5893cbb414d0c2988e698b6dba415d6f5f31770d6495527fa30ccbe8b32.1780834662.e13f54e13d1f5aae3ef1be5629d6f5be.61a3ea7a96f1e06f5fabecef2f220c62.256e700622753ccb6afb5f20a952a16c&signature=b608b4182b3cd662a7a1417dc744c9141e7bed09545e8a9fed1127d9c710fc7c|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] 1st Test Day-4 : England vs New Zealand vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-4 : England vs New Zealand vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="21" tvg-id="Cricket.21" tvg-name="[Cricket] 1st Test Day-4 : England vs New Zealand vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-4 : England vs New Zealand vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=82c705c88f0309d448be485d6a91b6859fa227ab9ef6e68ea8af563f355a0700.1780829720.45af0a78a9770b24ae4f07b9eaaf1e57.8268d00ab978bf3c8a906dabb67be94f.14b8769e2b5f273c3a400042d8fc7a4e&signature=e6b0516358f903167a94898795eba3789b0ce404389e12911d2fcac7b4f1ef7b|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=ae2dbcc765ce87bc7826941743adf99d163458bc9e4447022f576700a394d1d4.1780834663.24526277e8264a2af3df4b04cee5232e.4f23ae8337d5db25ce178a20857a720f.fe35d898faaa18d5f98f296c2aaed1dd&signature=82c6181d77ae5a8f2238d860908f99d18ff5d77606ffa0aa356f5f08c65fc27a|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] 1st Test Day-4 : England vs New Zealand vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-4 : England vs New Zealand vs  (Fox Cricket)
+#EXTINF:-1 tvg-chno="22" tvg-id="Cricket.22" tvg-name="[Cricket] 1st Test Day-4 : England vs New Zealand vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-4 : England vs New Zealand vs  (Fox Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=8d3005a9fdb50e98581feacec0c22c59004a976c9aa94fb18346e5cf13472e87.1780829721.daf91e7e49aad9e1aa596579f6402e0a.28ee9cd01b3d8bcf25badfb24110b0f5.a654e1ff1e55add16968f70c80e6d378&signature=a7f7f531ea15908e09b3c510ecdb992da15bfacce413c209b369ff9edb4d585f|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=d96a52723e1eb7116c584a7e9f1bf50b70ed47837cd2e643658749722c4381e0.1780834663.5c64b4331c2f9bbd8a3d9479e4a3c299.e5de1b776b60b45d882ea4a37e960107.9a56f875178b05d4a544b3d203b94edc&signature=a6acf2d9f847efd55ddb61bff836a8dee2654e8b1411c273287eab615d7e6b3d|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] 1st Test Day-4 : England vs New Zealand vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-4 : England vs New Zealand vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="23" tvg-id="Cricket.23" tvg-name="[Cricket] 1st Test Day-4 : England vs New Zealand vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-4 : England vs New Zealand vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=d358c52e5909f000dc6eaea7729188f650fa2bea4dd5de3bd7b9e6e1ce12faf7.1780829722.1560513b21840bb9a07aa8e3b978b0e3.fa3560ad04d2c37262ee2d89e70ea9eb.7c04d701311f79f524608619666b19e5&signature=119012dfe6c8ffc74562f8e8851a3f45cfc202de22baab7e43fd93ace405b25e|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=f0bf7d8bff793391815692a3eb72e625349d94255c3326f44997f736961615b6.1780834664.ae6594367080cac7e3c4adeea80e0514.cd27256b734b206a260d4fff9a5b3985.dbb51d9a0f67b929270b98a122b27d84&signature=b51dc08be5dd7f31c8c1c92d47207c9abc462534ffdc57b1fd0d79bfd46d016e|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] 1st Test Day-4 : England vs New Zealand vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-4 : England vs New Zealand vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="24" tvg-id="Cricket.24" tvg-name="[Cricket] 1st Test Day-4 : England vs New Zealand vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-4 : England vs New Zealand vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=cf8c07253375a451ef5412be7e9ae5e19017436515a7c82199e5d9fd11386340.1780829723.0a7c37924cdb1e9310eaa64b9fdbdb9a.0be1d55e98dcce1e98081745247151d8.d090a1c5d915d9699cead77b290efb4e&signature=ee37d9d8bf22b682ef51f13f74ea26562aa7e380c014876407b4dafbe27b54d3|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=8ffaa3a79a6ce52d16ecec1c3b0e2d2f63e3aef97fd80815a1189e8839c2e84c.1780834664.38b85bb80e9c4bdf601058e3eae51d91.e051ed70d5c015501baa4958d679d0b0.412fbe8f833015152160ad7a56098745&signature=c1f7202dac51eb3fc4b6f4a130a09299d91e1e4167d9d5653bf23e4f99b452e3|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] 1st Test Day-4 : England vs New Zealand vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-4 : England vs New Zealand vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="25" tvg-id="Cricket.25" tvg-name="[Cricket] 1st Test Day-4 : England vs New Zealand vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-4 : England vs New Zealand vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=0851ee6bbb51b2ff5d4f66195d4661e906fc73b93c70c67d2f830c25d5f64399.1780829724.e59ee8b4a3a32400f6764aacae663ed8.09a65a5a2d19248e35a896ac0c460dbf.5e2e350a527d0fbe8157dc2a09861eba&signature=b83fb38b91b16d6e0cd6f9d985e9c995ce7e4579bf686568aa8f65368e162ee9|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=ecb58e49cd96b9ad3c947e71431708fddc52566dfeccd30955f8d7072e1bfe1c.1780834665.22f067ebfb975ce43cca5c5d98cd84b7.334fb4f766dde05bd8851ccce7991c5a.9a91a00103650792b4c763d614a0cc99&signature=8d4ef418fa947fb324da85dba4d6d4fff781d058491d6725f2e6ed217213f4b1|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] EUT20 Belgium : JB Bruges vs. Ghent Gladiators vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : JB Bruges vs. Ghent Gladiators vs  (Viaplay Sports 2)
+#EXTINF:-1 tvg-chno="26" tvg-id="Cricket.26" tvg-name="[Cricket] EUT20 Belgium : JB Bruges vs. Ghent Gladiators vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : JB Bruges vs. Ghent Gladiators vs  (Viaplay Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=a5f4cb21fe11942f6126ad70f01ae2441008ba05b87538c440e894e86331477c.1780829725.12bdc4a8bd6906bd68c47fa4c1914b7d.5d723ff5aed57ffe1f0b9e0d2d8cd429.a0da91325bc632f5fa81f41f1ce82d9c&signature=e333f0dd631c092dfff11d7954b7f11fb5b9ac77b96022058049fcd157ad96da|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=8769cfa9ce90b19ec53612a6f0ed39cdf1ea5a00624092b67ca362296fad0c69.1780834666.3521ad391316eed353b2de9ab9c8a3e5.f8da90005402aa4a9a9e7968ca0f96c1.6c3a4cbec804c725ccf8cba77a7b4371&signature=cd40b26d637a11922e8d64f98f7ca6ab5abf1c76be64b330f3f3fb6567e50200|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] EUT20 Belgium : JB Bruges vs. Ghent Gladiators vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : JB Bruges vs. Ghent Gladiators vs  (Premier Sports 2)
+#EXTINF:-1 tvg-chno="27" tvg-id="Cricket.27" tvg-name="[Cricket] EUT20 Belgium : JB Bruges vs. Ghent Gladiators vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : JB Bruges vs. Ghent Gladiators vs  (Premier Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=038b1a48b8a670aac4eedd98ac8f55e59288632c16544e8601cea3bd8d667ccf.1780829726.6eb88b3246605fd7c14da81f6e6923af.1d718348640aab177fd0f3a040599363.06a1e02590ffd79eaed07132a572ccf5&signature=4706634b46cdf1103575bca1b471e8c8aa0872adb7841967bea3843076a9318f|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=5fd1bc6926e5f874a822c1cac354f1e6477839a2758ebb00a8deb7f2f7712ab8.1780834666.d43fea1ef9395f4553f299e8137e458c.bd2ab5bfbbf47d32c10850fc8f4360da.cc11a0335a304796c48ba5fb305214eb&signature=bfd58c4fa7bc89db571fb6a21312f695fa2a88b157a1afd7462d0eda71876aa3|x-forwarded-for:77.238.79.111
 
