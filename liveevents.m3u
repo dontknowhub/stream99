@@ -1,259 +1,43 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Netherlands vs Uzbekistan (FOX Soccer Plus)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Netherlands vs Uzbekistan (FOX Soccer Plus)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+soccer+plus&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+soccer+plus&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Atlético Nacional vs Junior (Win Futbol)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/6106.png" group-title="Soccer",[Soccer] Atlético Nacional vs Junior (Win Futbol)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-soccer-plus/playlist.m3u8?token=7e1e145e6ee54a01a280bf1c9df6e9502a634aafe18d554fb3f206bbe035b0a5.1780948147.c4c8eea40933463fb906f6fd858d653c.e71b7fd0168a81f8ea14fbeacec2f0cc.6ca0aa545bb53bc5965231ed05401cdf&signature=a4ec7b2d6ab38b1c06746ccff75f48e2945e99dc9db9c1eea5af91c6bf738543|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/co-win-futbol/playlist.m3u8?token=553b321e8861017b97fff6e95bd558c73252bc5664d73d7edbd72ddf061c0ac0.1780955171.26694f4b529c7455841f8488c8e3b4f6.1b0b936facbfb4c4a7af7cda60a9cacb.ec698550747d9a8ecce4b92e05814c5e&signature=9ab4ca531204db5e49216ed3d95b5a41f92b658ec997d7131bd2292af9204d26|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Netherlands vs Uzbekistan (beIN SPORTS MENA 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Netherlands vs Uzbekistan (beIN SPORTS MENA 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+2&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+2&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-mena-2/playlist.m3u8?token=d42bdf2962bd5e70265ad8d1889002299c1b9a82088443fd3ebd48b8bf4239d1.1780948148.c1280090918ad4fb721fa4230e3ee0f5.b394e375643cd45d39d53fd296e4f7bc.9c06efee0c78df5a9ee280258619319b&signature=24fe187e49bc5ca08cd0f8008a130cbe42d400763ad1bbb140ea950284d2d93f|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Netherlands vs Uzbekistan (TNT Sports 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Netherlands vs Uzbekistan (TNT Sports 7)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-7/playlist.m3u8?token=935a4b84342c1368063faca5c2666df1cb9ecb8d6c2878b6d8c7c023fa857f36.1780948148.afd46a6ee37d561782bd83cdb060c6ee.1ecbcb24b1db9467001b266b9c018b59.edfda8750a984e9e750a9f806e7fcad5&signature=9e1e812644e278b04026ba880cfa90424923e96529a73bf68dd03d85b050e031|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Netherlands vs Uzbekistan (Polsat Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Netherlands vs Uzbekistan (Polsat Sport 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport+3&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport+3&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pl-polsat-sport-3/playlist.m3u8?token=57e11223782b7e3521712a89ba92bf4475f95dde90e752c5f9c37dec4a8ed315.1780948149.042987e942bd8b1880dd7946dfb4c8dd.63ca6dfda46aa8234bbc3f578e426f1e.c0c84febef99f6ad88e1fd529e7cefab&signature=5c817b0460c42f85aaf389ee538ec1b4f7607377096d9d2ea2ba992b8f892b6c|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Netherlands vs Uzbekistan (Diema Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Netherlands vs Uzbekistan (Diema Sport 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+3&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+3&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/bg-diema-sport-3/playlist.m3u8?token=e366b81fd953a627860d418bd6b01337fd53e0f857ae00f326133cab2ea48c44.1780948149.3c4688030f841fcdcf0ed90a53c1dd40.aebedb5166ddb3580f449a3e398fccee.ac9903f5e4ad21baf3ec07a733fff8aa&signature=427ab92f23ca3b1e7dca1bdb72a6ed72aed43dfc53af95e212c04064793ce807|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Netherlands vs Uzbekistan (Cytavision Sports 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Netherlands vs Uzbekistan (Cytavision Sports 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+4&code=cy&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+4&code=cy&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/cy-cytavision-sports-4/playlist.m3u8?token=76eea047c430ad6a1b9ad86666295696d77a1378fa98f9ae3cc7c2d7b0412be3.1780948150.83dbfbd2770de8fcd1e27303e804d2d6.93e3255c61338584fe4b2fd545ce56df.2164a6f971952ea1d7f8da0d222b7f9e&signature=be9abbca82f0e2d71794fef41810b404e80aec8ed764ac29a7005c1a1208cf96|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Netherlands vs Uzbekistan (Sport Klub 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Netherlands vs Uzbekistan (Sport Klub 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+3&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+3&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-sport-klub-3/playlist.m3u8?token=37c755b1e7f3ceb028b43c2b4efad46c7e9462f5a1f8f5955b9a39a7772f20f4.1780948150.b5d041a362d45738842d8c03787fbfcf.9afe7f0a62b23d9c5dd3b0d76387cfd6.6b6ac988e4afd3b11a7d59637fb37928&signature=5762b10710797f79574ee69688506f9b829d3c10be31df4249b733de0626a5de|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Netherlands vs Uzbekistan (Arena 2 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Netherlands vs Uzbekistan (Arena 2 Premium)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-2-premium/playlist.m3u8?token=336be114546172c344f8eee404357144be53f8292226a74c08fd00f09b81efb5.1780948151.4dd6af7fc6a275e2edeb02cd25160ece.943969d83bee82f04163baa2daf68c64.cd287577b46cefa8801210025f59a953&signature=2d4903931cbd885d5eaaf430806326c889e9fbbc5dd9aab744aa189ca0b6a859|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Netherlands vs Uzbekistan (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Netherlands vs Uzbekistan (ESPN)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/br-espn/playlist.m3u8?token=5d761e8e5de0b95840ea537d66ca99a8ca6dbf948ebf86491524a5a1f966c691.1780948151.719904d893201e6ca888303a9568c331.f603fcdaf304b45dabd3fdb2788f1589.c0a6054fb73104d6369960d3307fe247&signature=002b3d9bc8e56b6e925de5cdef825cf2c06321372133f0470209c1113c770188|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Netherlands vs Uzbekistan (Digi Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Netherlands vs Uzbekistan (Digi Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+2&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+2&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-2/playlist.m3u8?token=e6838b61b9758fd82bdda5752af8955f827e22d2b810d0d642d8e111fea6fc6b.1780948151.fcf8afbb3e084606ce95b39dc1bf536c.cb848d1f8fe01a2f4fba361b23e6d686.ce26582b8bd624fc41e8712db3f5f824&signature=8ca0a30d95b451f6d46398c60ce8d18ac20d1d956bfa1df3b9257d28268aadb2|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Netherlands vs Uzbekistan (Prima Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Netherlands vs Uzbekistan (Prima Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+2&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+2&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-2/playlist.m3u8?token=2dd1947626e35a8f84565ca1cb42e03137e866705072474df17441adfdf8c204.1780948152.bfddca4f1f8d9fe78413e048f7de4b72.f67eba97731a991db3f8e9e4476b1ec4.77dc9cc96988347caae59bb77a4fd03c&signature=b8f1d455f815491a860d260e5c61b95d03d78f14bf2146a861c5b03ddf423336|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Netherlands vs Uzbekistan (Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Netherlands vs Uzbekistan (Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+2&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+2&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-2/playlist.m3u8?token=bf92fa3473dff862b8e1654da4eea0417a67f324a348954a6d7758828b7f5df4.1780948152.918ecc36d60dd35db1e1ee090bbe8d73.436f1c5f6b163225b48ded2c72ce362d.e714020ffaf965b6c0a45c686c3e50eb&signature=fed67eff794029245e461c70a8e1c6a65e86e0a1b780bfa7ead7e80e055723b5|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Netherlands vs Uzbekistan (beIN SPORTS 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Netherlands vs Uzbekistan (beIN SPORTS 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-3/playlist.m3u8?token=2a932448f3d112d303cee88461636112f659472d5d41b0aa6640f52c7dfc6a13.1780948153.a9d6f3731757daa307bd897e64bd5f5b.eb530c218df2b47009b7872bc9d8e8f1.27a544e7352f32f678049930eec23e02&signature=40ebf7d313722be94a3ae17205294f09807bcd2709b0a5c43169e6e0635449ba|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] France vs Northern Ireland (FOX Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] France vs Northern Ireland (FOX Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-sports-2/playlist.m3u8?token=44f6ca49b0767ca0c6a007614686aab00fd8c482db0e27fdf705913e3aea0c29.1780948153.c7d12cc59f0f9b602a232b49a2dbead8.857e4de92bd065de304f2db1128fa313.2ae191b977fdbd637c7144b1195f54cf&signature=037cc60ee5253789987aabb8781ff4bde858280dc20252707a61fedef8d705f7|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] France vs Northern Ireland (beIN SPORTS MENA 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] France vs Northern Ireland (beIN SPORTS MENA 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-mena-1/playlist.m3u8?token=ae0bee941a85c769270afebad2442821edb26512a51c7314641ec2f333b9bf6d.1780948153.881020d75a86fc3fa4721fd9a8967f41.0fb1199689d07354dd4e5653349f8f22.50af15c8e4bb005534fd6f98309dd090&signature=d6962f8eb3795b75c59d5d4be22aaa1da6f380cda9057c8cdbba42324c98ef28|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.16" tvg-name="[Soccer] France vs Northern Ireland (BBC Three)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] France vs Northern Ireland (BBC Three)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bbc+three&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bbc+three&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-bbc-three/playlist.m3u8?token=a3409e6f1e85c81af7e5e258645133c896ee1f88f05e73ec3c114a3da9a267b2.1780948154.c886dec2a8536dc0633853e37b4bf213.431602d99ddf9e5088c97095cf1e56e2.44064523a76226e359e7b448a62f9365&signature=b126b92e873333532eac9e771c189b6c7d24b7e4475f7f97abc1c9933d70cf6f|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="17" tvg-id="Soccer.17" tvg-name="[Soccer] France vs Northern Ireland (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] France vs Northern Ireland (Sky Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=91b88ac3a304083049241b8b3d519295d22729ee732e46f4d3a70c9fc3cff5d2.1780948154.2ae5e792410cbfbcc6d6ce5d6373b33c.e668c01b1f85fabccbfdc11fb8b6773f.b5b344194c79d7b23afa5e1144c2c6b3&signature=6ebe01ee7bf0d31b218faf7fffacb69fc82021991b8fafa5de6fe930e0379f17|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="18" tvg-id="Soccer.18" tvg-name="[Soccer] France vs Northern Ireland (SuperSport Maximo 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] France vs Northern Ireland (SuperSport Maximo 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+maximo+1&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+maximo+1&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-maximo-1/playlist.m3u8?token=52f4b01482644ca5b2e17d076b84f5ccd3d88ce90338e8f3a32659df4d2ad7a7.1780948155.d5651e64cef6980de0110eaecff64f3e.e3c6e8906cb819059bcd34f0505f1574.e467217240b221656f2a51c6a2e0cc96&signature=b502f6b181e59feb0f7ae4dc349c1aa5fc2f91eb56ce8c0d772bcd9a5c1b6475|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="19" tvg-id="Soccer.19" tvg-name="[Soccer] France vs Northern Ireland (SuperSport PSL)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] France vs Northern Ireland (SuperSport PSL)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+psl&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+psl&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-psl/playlist.m3u8?token=3de1699af52b17d0a7f0ec9fc6ceb197b911b70641f71bd02ad573fafc8c1afd.1780948155.9e9b8d60b951ef91ee63b5153ababb08.ff1c2c8ea9f8121e7cc88e97fe7af273.75ca302c2b139f9fdc7a344f816353fe&signature=1d6c7899b701643f40e23f223bd8382258495cdf5ded53ba4e5673edad9bc872|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="20" tvg-id="Soccer.20" tvg-name="[Soccer] France vs Northern Ireland (Sky Sport Calcio)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] France vs Northern Ireland (Sky Sport Calcio)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+calcio&code=it&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+calcio&code=it&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/it-sky-sport-calcio/playlist.m3u8?token=f12554b30dc7c03342a1b71f92efe711da3d462bc443008447d2f82c171f8c01.1780948156.f858750d777af9fc34052a58aaf01b27.ce7a4303811acf29a7ab7c6698f8044c.da23df8b617005d6831eca40e066f3d3&signature=68c2d2f62f42064776fb1975e57c01356bbd73c2e76f659823beebe3b27c38b1|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="21" tvg-id="Soccer.21" tvg-name="[Soccer] France vs Northern Ireland (Sky Sport Uno)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] France vs Northern Ireland (Sky Sport Uno)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+uno&code=it&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+uno&code=it&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/it-sky-sport-uno/playlist.m3u8?token=b4d8819e09210a6b88f1e2343cc29efaa1c57d5511f176fee6cd468223294e70.1780948156.da06b5ee4736f81b21ab3b6c6fcb4be2.6d510a43e54fa9cf8153c9b6ebbcae99.7794b7df25e8c8c1f649c9a26fdcdd33&signature=a57ccb794d9bc5550a0eaab41bd3e7b0d60138b8961ecc91d51f913baf214a9d|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="22" tvg-id="Soccer.22" tvg-name="[Soccer] France vs Northern Ireland (Sport TV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] France vs Northern Ireland (Sport TV 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=b2c3e15a713dba0f39c35823c9c5baa2c99be53598bef7b97b349a1bbdf0069c.1780948156.8370c8cd77f7609e2b2188c38af332e9.7ccd59f4be58354a2dd998b46eb93847.efb9f16b753b3eb6d04f2a6df24b71fb&signature=af4b4ed4c9171f3c42b5c19d89062c0865eb696dbf725adab619c9c84fea54c2|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="23" tvg-id="Soccer.23" tvg-name="[Soccer] France vs Northern Ireland (Ziggo Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] France vs Northern Ireland (Ziggo Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+2&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+2&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nl-ziggo-sport-2/playlist.m3u8?token=554c28865b538b8624ef697d408bca6dbf6066885880adebb13bca5ceb366376.1780948157.91b3d68499518ca67ccf010d3d00e856.3d90c85c4a8956af2abc1eab6d5653e6.55f5f84584d17497b05f53ab226251b8&signature=918892cd42f35d9fe20329ffd4a90f8ba962213670a83a4e06bd5e79f7523642|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="24" tvg-id="Soccer.24" tvg-name="[Soccer] France vs Northern Ireland (Nova Sports Start)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] France vs Northern Ireland (Nova Sports Start)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+start&code=gr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+start&code=gr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gr-nova-sports-start/playlist.m3u8?token=6a235d7e838ff36dbaec69d891ac5622ec4eaca5deae3fbcc0a9f2ec72014ea3.1780948157.cb4b5ec3f8cd3cb08a158eb9f9ecd00e.0414aa55fdf2130d988623964e523d78.4de87065f2928c62c7b1ea38290a1ee6&signature=b32cc86a46d54db0eb2b42afba4a7efd8a2d1a4682808cc259573417298f590b|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="25" tvg-id="Soccer.25" tvg-name="[Soccer] France vs Northern Ireland (TV2 Sport X)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] France vs Northern Ireland (TV2 Sport X)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tv2+sport+x&code=dk&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tv2+sport+x&code=dk&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/dk-tv2-sport-x/playlist.m3u8?token=9f44218efa76ae4a4f6d12383840c7b14ab373059df8df34923aa71b0866a809.1780948158.ba853bf01a65aa627ff875b4e8b5ef15.2138c17ce077eb5bf0aca8d57a118861.739dd7fa948cb46e475ab05e35e94a6e&signature=aadae94916e6632e1b719ba4dce38fcf1bc41b4fc7866192193e408173535201|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="26" tvg-id="Soccer.26" tvg-name="[Soccer] France vs Northern Ireland (Polsat Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] France vs Northern Ireland (Polsat Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport+2&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport+2&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pl-polsat-sport-2/playlist.m3u8?token=cc72f784ec188d4cbc50032c1f448436c71b72bbce36b2f7ba19cad3f5bcbc65.1780948158.eaa0478590c344fdee103889b7aac6a3.b5d13ca6bc87a7900f09007a64de43a2.6842e7e8dc4b6a9cbe788396006dfe7d&signature=a21aecf1be63562a4350a363fe27aa4d39b01bf8cb2ffe764bcd11f695c0315f|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="27" tvg-id="Soccer.27" tvg-name="[Soccer] France vs Northern Ireland (Euro Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] France vs Northern Ireland (Euro Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/bg-euro-sport-1/playlist.m3u8?token=1cac97003bcf8920238a35a739b3e5cb9fb28bcac02c77d2a21d4d2180ba7f2a.1780948158.10c28d7bf5b07e31e6455ff648962ebd.a2db115e690613f28f1a836bb2f77e2b.57f143a254fd3c2720d440a8f8bdf662&signature=e826563e5f589dba9327d79cd94cd4a78caedc4aa11f00b7643fc56046487a55|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="28" tvg-id="Soccer.28" tvg-name="[Soccer] France vs Northern Ireland (Diema Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] France vs Northern Ireland (Diema Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+2&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+2&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/bg-diema-sport-2/playlist.m3u8?token=a969024074ca9adad937e29bb0b5a67e0203c261c708b8f8d4a9f8a29b863f1e.1780948159.2aa762f70c55ba4b606e09f70bd09659.d81aad309c3b44d4d32a6bdcf31749fa.e7b5f7e06fd90f4401f8dda19e8605b9&signature=53ecea8e163fa389d6a24a9b01704b3d4796401a02c88941912ab52a775bd846|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="29" tvg-id="Soccer.29" tvg-name="[Soccer] France vs Northern Ireland (Cytavision Sports 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] France vs Northern Ireland (Cytavision Sports 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+3&code=cy&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+3&code=cy&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/cy-cytavision-sports-3/playlist.m3u8?token=6b42c5e6cf1d036b07e911af6ce4f6e7dec5255ed297bfffc92104decf5934f7.1780948159.24a767d30a74bd5c6b6709454dc2a3ab.060e3f0e413605965bf50e2652bae62f.e3e64280f52c861e616d81b63b6dffcd&signature=9cda4e412713d81c19927218c02d11e15a0cdd66a5ddd5a3321f614e55911a98|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="30" tvg-id="Soccer.30" tvg-name="[Soccer] France vs Northern Ireland (Arena 3 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] France vs Northern Ireland (Arena 3 Premium)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+3+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+3+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-3-premium/playlist.m3u8?token=d227325857a851be9c7c0795012ed94245a353ca6763e99d469d8fdf488406c4.1780948160.ff3f81a03bca8cc744e9b2b769837e52.50ac89251e402dc6ab9aa334166af892.50872b5688f32f57c9dbff9fc53c6adc&signature=c026e6dff97b6df31676cf9af5a2f685efedb08c2628d31a6e7ae67000789d7e|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="31" tvg-id="Soccer.31" tvg-name="[Soccer] France vs Northern Ireland (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] France vs Northern Ireland (ESPN)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-espn/playlist.m3u8?token=955ac134f71b3945eeda93d7665f8fedf5ac1f1cb9336ec1c58cb89256253908.1780948160.2eb42d4270af3fa65aea227b3613c337.3c23e4540d769e3cc2c85765e7b81b19.9aac482201d4d2fe2ba184896d9a2d89&signature=f21c7ee993a32507d3c9107a4c0d0ce4892bed7800ce42627ccfd44899f315b2|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="32" tvg-id="Soccer.32" tvg-name="[Soccer] France vs Northern Ireland (Digi Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] France vs Northern Ireland (Digi Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-1/playlist.m3u8?token=52a476c22a4472e6dceae932de737d69eee70beff747f3a593eafc1bc72515be.1780948161.6d7da6c65afe4deed2da4ba772f0ec15.be544f10e83eb4bc07d43ef107b62d90.f6d585894c81651d0f2ec313b3f575a1&signature=f653fb2fc04d75ac6eedfbfbe9eefadbdf39af1fd724b03cdeb48b9ec5f748fa|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="33" tvg-id="Soccer.33" tvg-name="[Soccer] France vs Northern Ireland (Prima Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] France vs Northern Ireland (Prima Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-1/playlist.m3u8?token=d0bc411de4503cf75676e7d836bf5af1c301c5124d32a7c23c9677d7a0cb65bc.1780948161.d16a3905044fdcedf075fec26fb44bb7.402336dc48453e3baf34fc8deddc45cb.5836de850b435d7aa56bdce38cb43067&signature=9085a9fb8884ae383807d34256913f7ecd0ab1e6bf1894d25f66f52b5e82a80b|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="34" tvg-id="Soccer.34" tvg-name="[Soccer] France vs Northern Ireland (Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] France vs Northern Ireland (Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-1/playlist.m3u8?token=9c669ce8c87acab9bc8d8271dfd232be90fe085e8822f925f34e09706bca9bab.1780948161.5083b38d5ba363df0ad969f9ccabcd18.1a4393a6530888047c49ac254fbff982.20ea4ed4ca03e0424b836f2f5bd7807f&signature=c57c60378e430251c69e39c9a4c19de98d6de49e1b62215bfe04dd73829878f6|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="35" tvg-id="Soccer.35" tvg-name="[Soccer] France vs Northern Ireland (beIN SPORTS 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] France vs Northern Ireland (beIN SPORTS 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-1/playlist.m3u8?token=45c7af0708cf9156c139b25b0ca6234313d3d6f7f73ae59404190b92b5fd7f6d.1780948162.2fe702a02ad017da831d36dd343021ff.3aa4975abf9e12cd3d2ff36023168e27.eb20e7bbc670b5283c02e7433600c4c8&signature=6eb213a254863507a007b2efd2d1b06edc4188648aa6847e1c8727f88efe3692|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="36" tvg-id="Cricket.36" tvg-name="[Cricket] Queens Club Championships vs  (BBC Two)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Queens Club Championships vs  (BBC Two)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bbc+two&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bbc+two&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-bbc-two/playlist.m3u8?token=359826f540566f6f9cae123dfc89ce12fa4664ca32a03662ab69614cf02a28b8.1780948162.af73e20a7809f10a115453544e58d223.26cb36cd2d329ad7dcedf1bd7ae64887.7f4d028ddebb9ea13a70ea430784bc35&signature=93552f3829a9b1d5072d0f711320db8d787f8dcf090348c7ee99841c47e3d837|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="37" tvg-id="Cricket.37" tvg-name="[Cricket] T20 World Cup Women : England W vs Australia W vs  (Sky Sports Mix)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : England W vs Australia W vs  (Sky Sports Mix)
+#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] T20 World Cup Women : England W vs Australia W vs  (Sky Sports Mix)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : England W vs Australia W vs  (Sky Sports Mix)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-mix/playlist.m3u8?token=a1ea743b3128e794b106674464ce6dc05b8f2849d6ea8af5dcbb1ba0902d5a61.1780948163.0e3f2f6a50e626890ff3524fb2bd59b5.e3a08d1f7b1551dc8501e861a015859d.06735320966d2ef8f95210f52d5a6f0a&signature=45b1bab4af493dbfda7a599bf42dd01185bd0ea2cf7f0a80b70d37aa87dc18c5|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-mix/playlist.m3u8?token=266db788bbb6a3a984a1fb0804c1bf97472ca8c4818e4adf737c634340f15202.1780955172.e22c008df9061a7e5cac50dcb63f72d0.6d2153e2513527dae096ed5306b3ae7e.19a97ebb7ef26c636623fdbe56a03f85&signature=e0c43106e536e6db9c78ccbf8c48bb327d127b256c20d2e7ffcd53ae07ccdaeb|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="38" tvg-id="Cricket.38" tvg-name="[Cricket] EUT20 Belgium : Antwerp Anchors vs Ghent Gladiators vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : Antwerp Anchors vs Ghent Gladiators vs  (Viaplay Sports 2)
+#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] EUT20 Belgium : Antwerp Anchors vs Ghent Gladiators vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : Antwerp Anchors vs Ghent Gladiators vs  (Viaplay Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=fdd053050a55030546446175038277061eb19b040fa027a9568927e3aa36b446.1780948163.455a52c35d23d271a62e3eae7606f0e7.8a8276de7f4befb7c7f210fefd4dfbb4.caa17c3f751205e94dd9deb6352dea5e&signature=70462e5e3e16b2adec71adb21bbd610a97d7e57fc85b4c08271bcfd6c2b0d203|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=d1fe45e201a520d1ce645cf83c7fd06bb5b40e2d1084cb43ba020d3957e3b2e6.1780955173.a8be49a5b7168bf31ca2cb96b49cc8ae.ad4b97fba3027d5a3715f76a8c3e7524.b457855f22ea5d6b1064f5b85897cfa2&signature=bbac02e80c80c94b0f02aa7e7168d9882e07c0cf302318b8587495cec348b625|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="39" tvg-id="Cricket.39" tvg-name="[Cricket] EUT20 Belgium : Antwerp Anchors vs Ghent Gladiators vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : Antwerp Anchors vs Ghent Gladiators vs  (Premier Sports 2)
+#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] EUT20 Belgium : Antwerp Anchors vs Ghent Gladiators vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : Antwerp Anchors vs Ghent Gladiators vs  (Premier Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=6bd457697593cc22419acb0618e436c4f3ded409e41f55f6f3ff8e49cd8912bf.1780948163.46d028d66ff9592f0a1a224adfd8a10e.f078ad63b17fb15a16646f7d7f941d66.f72cfa5ead1693256226c4146c92aba8&signature=243e23417a5187fea97d41d8f43114f044fabcc5fec8e9b5301588cfbc1eca8a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=22ef8faf922606071715c05ce62ace9d78afca86f2910e3b8dafec1c6e0cc610.1780955173.4f31aadd82c95869aad3152046f4322c.41bb539783a93184922611f8171d8122.385c30e2cc9d8e1d4397da8a4b9ac8af&signature=221724e08dada099a5b94fba63df2ee9abcfa2bb7372e4503204cb82752afb42|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="40" tvg-id="Cricket.40" tvg-name="[Cricket] Queens Club Championships vs  (BBC Two)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Queens Club Championships vs  (BBC Two)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bbc+two&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bbc+two&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-bbc-two/playlist.m3u8?token=c128423c05672d605e8cff95670e7aa06559b7fa34851b94c4ee7d772ed1ab99.1780948164.19231001b1956b64563b00cdb91914ef.eae3077d600511a2a83e1575532a5d38.144a0d26a5e9109ce755985952e440f2&signature=084f0a65129d37a305831743928bdfb16ff231cd9407425dd1f596fef9c803a2|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="41" tvg-id="Cricket.41" tvg-name="[Cricket] T20 World Cup Women : England W vs Australia W vs  (Sky Sports Mix)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : England W vs Australia W vs  (Sky Sports Mix)
+#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] T20 World Cup Women : England W vs Australia W vs  (Sky Sports Mix)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : England W vs Australia W vs  (Sky Sports Mix)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-mix/playlist.m3u8?token=0ea52a88e0227a08aeae47e0530b08fc2452d390748013f3ace289720490cd69.1780948164.08c3397288c035bd18e048eb733a6405.37d5de4fa8074c68604d414f997a99a8.691032462758830f7f27204846ac0285&signature=4e3217a5d2e37f4537f7b69014ce9abc4c0512f8525759c4b3969c26cf5c36dc|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-mix/playlist.m3u8?token=3dda1f35edf87a5aa6327c55a280550ade70fca17d7f0b98c572e3242c5f3b52.1780955174.57b96186a60ef74840d3df4d8ec9d34e.61213561f2142c96435ab4fad3753cd2.d1802c12fefaaf4e013bb906521db556&signature=de907859ae9f38dd415a3aba904200aba4a6018ab052cb7b71647ca2a390bd81|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="42" tvg-id="Cricket.42" tvg-name="[Cricket] EUT20 Belgium : Antwerp Anchors vs Ghent Gladiators vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : Antwerp Anchors vs Ghent Gladiators vs  (Viaplay Sports 2)
+#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] EUT20 Belgium : Antwerp Anchors vs Ghent Gladiators vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : Antwerp Anchors vs Ghent Gladiators vs  (Viaplay Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=f1dd7c32f0dda991303c7c220a0cbca3bae4c31efa6ff14f87413ad2fa739f89.1780948165.ca94618a2959961a0dacf59f3b3a76ea.faffb725667b4a1c5e8a2f5576bcdaf0.53fcd7bd47a17129612f13907d0182a6&signature=43a9ba0b8fab3216bf7cc223e5eb760e70423f864548a88652aba3501b7a212b|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=745e57efa1e3c0895aadf392911d16736bf00285543c396bdc854edd78e0c795.1780955174.9237109f314830ed8affbf4e7dc9bb04.33b284a300ab64a126262d06e2e23ee7.bedef05a31df42a4cbe2d7057892314a&signature=d0942b35380c682945c5c59cfc00f0895c1a2c190b24b36ba188d9ee768549c5|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="43" tvg-id="Cricket.43" tvg-name="[Cricket] EUT20 Belgium : Antwerp Anchors vs Ghent Gladiators vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : Antwerp Anchors vs Ghent Gladiators vs  (Premier Sports 2)
+#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] EUT20 Belgium : Antwerp Anchors vs Ghent Gladiators vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : Antwerp Anchors vs Ghent Gladiators vs  (Premier Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=50f860aded1f2c90bcfbb31813ff55c98d13cf4686a5c714aa28545387535025.1780948165.c929a38d4540139e3c2ed6547c0e95d0.c652bee64f65e9c22502caca68517aa3.caa4c6cc9fd9a36d508413771ea6c25d&signature=a81800e1e912314ac8e755c5f217f8e6a293572d38f9903bac2a4d3cfd8602ab|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=d12e1a5c2677baf1cba8f6d42a932009943e214d9d89a3db99063a94a93ef409.1780955175.27c706d0f8d908c791b99d5090f2886b.85d520ed716ecfa90df7e48b8e217f84.1c9d2346a6b3ef8a38bd9c58044d81f5&signature=35081cd1f93d2e83d301ae844ad5f905aa261ea3f43c59a0fb62a3d80a2b2b62|x-forwarded-for:77.238.79.111
 
