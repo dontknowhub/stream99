@@ -1,19 +1,61 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Colombia vs Jordan (ESPN Deportes)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Colombia vs Jordan (ESPN Deportes)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+deportes&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+deportes&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="1" tvg-id="Cricket.1" tvg-name="[Cricket] Test | Day 2 : India vs Afghanistan vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test | Day 2 : India vs Afghanistan vs  (Fox Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-espn-deportes/playlist.m3u8?token=a833cafa48fe5fa688ee92b280220a9d8688aa86b9855240ab37fcf58bc09d73.1780876876.7d97c39682f2ebb2c15cb807b35ab877.5bcc67bd45cb76c2715c6c60b241f1d7.93d1d7b9da366c4698e0eafe93592bfb&signature=d5b08decbd8a495f0652bffd6f263bce12f059cab0fe72aaf498907df6ed9f27|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=7eaa57bf9eea283216542fa219b0edaa2003513e2d96cf42fc4b441d030756a7.1780894988.339d70179366f1420cb7ee83f103f73e.399626e1e5b2c286472bafabc20f41a2.9ccede1d83a13565d28c68f43f8f3183&signature=f2c4ab60b47d188774aae23888e3355d4d798b3755cc6b4f3595f23fd77416fb|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Colombia vs Jordan (M Liga de Campeones 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Colombia vs Jordan (M Liga de Campeones 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] Test | Day 2 : India vs Afghanistan vs  (TNT Sports 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test | Day 2 : India vs Afghanistan vs  (TNT Sports 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+3&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+3&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/es-m-liga-de-campeones-1/playlist.m3u8?token=5e554994369b76dcef3247d1f113b70568c77376171a9b3903095c9124689f57.1780876878.984fb430c835c64777dada72d07ecbca.c8356eab487047283adbe2872e66a421.f0f957f43d4e1d67887811846dd9fe38&signature=8f58db74d77c2806d5a8f3f6aedeb19b6f3cbc2ad320ec3d4581657bec15aa32|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-3/playlist.m3u8?token=dbea9c3facc23ec5519921b6647fbcaabae0a300872d24adf0cb8cb71b6b1f96.1780894989.d4ae390815ad0959a4759fe98e3d577b.714c1978e0662fd8c63ba197f4e1d550.1e1ff583fc534356a33771c5a6ee8146&signature=42f9b2ee6998aff26ded43782e1634a4a089fcf3574eafa1dcb1ca6d5399882a|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Colombia vs Jordan (Sport TV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Colombia vs Jordan (Sport TV 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] Test | Day 2 : India vs Afghanistan vs  (TNT Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test | Day 2 : India vs Afghanistan vs  (TNT Sports 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=c4c2e8c7a32cd3bfa086f509d24c1d4873a688ae4b5f69321fb01958fa6c8244.1780876879.95d6ad0e438596de51c1ffe204673668.5756cd7dc4d2a008ee4268fd26b6bc3d.c609234575f23d081f8ec3c3b91fe80c&signature=e290d5c759c315309e102e32c442684ced46a803bff8d652807f28a9daea23f1|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-1/playlist.m3u8?token=8cfb000ee92f2043858cbd0a98bd37a7c6a3758a70a6b8fb2cd0e4721e788de1.1780894990.5727e87cade5114acf5bff5724ccbeb8.f5b09796c032218ef12bd21d2c74f808.d39c0437a99dfda9d3ededbb0b2f1651&signature=43eb023bea1cb29f39bb2594b83abd1ddab8e57333e02c7d9689258966f785b0|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] Test | Day 2 : India vs Afghanistan vs  (Sky Sport 6)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test | Day 2 : India vs Afghanistan vs  (Sky Sport 6)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+6&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+6&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-6/playlist.m3u8?token=fb8d8aea049a0d93c6b91beda94bf42ecf93b5184877edb56f0b215bd5a6c556.1780894990.b1758c905ea12f19a5924e39acb0dd56.e4ed302de5014bf460095d832efecf7c.e675795ef4c7976af6d39c87a692bebe&signature=1786061c46f69fcfa0dad7c798461ba17820f42d86789bda680707af3037f449|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] Test | Day 2 : India vs Afghanistan vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test | Day 2 : India vs Afghanistan vs  (SuperSport Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=9efe74c4ea77e42141542e455560496744c0db5ba7e43dba21d4d88a36294baa.1780894991.892d1495a16388a2232ce9eab2723dac.b25a2114674ab5d7e1dcbb8cee062acc.89cd9513c2c31ee3730cdf976d4fcd7c&signature=d51d437dbe98e498846e0084e06e000aec3b62386130ff5295c0e6a710ea5146|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] Test | Day 2 : India vs Afghanistan vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test | Day 2 : India vs Afghanistan vs  (Fox Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=767ac2037c2f4046018c731169e37f63baedf47ff0441fe40529f39e88dc2b6b.1780894991.a95c26ffdc12e4482f5c83a51aba206d.32cc1aa498826256f0bdab94a0319e99.bf8c636a2dd0dc47fdb31c25c7c79639&signature=1f941193bf87d2e311ee3fc4a9f3cff59fb7a73494d55c4406df091ca699b7d4|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] Test | Day 2 : India vs Afghanistan vs  (TNT Sports 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test | Day 2 : India vs Afghanistan vs  (TNT Sports 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+3&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+3&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-3/playlist.m3u8?token=afbd82ad27fb8e4f53ebc0ffb83a9d54422188673250494d22715fa9dcb69659.1780894992.79ae9cda023daa8ac408aade8c973adb.d201107022e04bb9cf2b36a8934fe0c5.d22aec5dbb39ce7a2c70444a6f767a77&signature=ffa6ae5c4aedc515b7ee8c7b44e59b816d636a94d41e4f7670b3df23221a473a|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] Test | Day 2 : India vs Afghanistan vs  (TNT Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test | Day 2 : India vs Afghanistan vs  (TNT Sports 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-1/playlist.m3u8?token=37d6d062e6ecd76150877ee4eacb1541fa1d9b07a0732799d869b3e15aec84ac.1780894992.bc377af94f6c0eb79ffce0575d4a7d77.cddc1483b2937994692e4e18eb04d044.bc729dbd35bb9e350148d862de9ea3f2&signature=3bfb108f1a00471dd7b68719d17c37c8cb17edaaa01e88af5f491218c5d8b88c|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] Test | Day 2 : India vs Afghanistan vs  (Sky Sport 6)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test | Day 2 : India vs Afghanistan vs  (Sky Sport 6)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+6&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+6&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-6/playlist.m3u8?token=12d5f1b91ae20289931702721e6d69eb61efb1f11e5cbbf83fb4e49544f98812.1780894993.2e897790fa2fd69dc006200d3431762c.504d2e6f67d6e3097042261bbc1f2409.d37c7d1c019e78ad6d056613a869c734&signature=fcedd990eeb8d1c597ac15027ff01bfbddbe3eb44349dab3f85ce828da8a26eb|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] Test | Day 2 : India vs Afghanistan vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test | Day 2 : India vs Afghanistan vs  (SuperSport Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=845680d8b00890c8674cc88ff29c9e8e43c73864468e3dbc7e531a0d42e5c47d.1780894993.5593d9bd569a2dae129520fe1bac3a48.7c8ef653f38b51d311878d3c4bb6dad2.d6b721d1e3fa060d434eb7cca24324d7&signature=52e53f419475a93c9c0eb7590be3206fddf87dd646269c3c5ca810e65fea5b47|x-forwarded-for:77.238.79.111
 
