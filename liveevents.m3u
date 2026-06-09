@@ -1,205 +1,253 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Armenia vs Moldova (Sky Sport Select)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Armenia vs Moldova (Sky Sport Select)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+select&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+select&code=nz&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Azerbaijan vs San Marino (Sky Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Azerbaijan vs San Marino (Sky Sport 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+3&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+3&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-select/playlist.m3u8?token=1a66899ee670e9f2f9f3826b6e541d9dfe2b1b181e1a58eb111b488723ba3e92.1781023814.cfbb5458a56d182da0e4f43c8fd8a968.8d0f417a304a1c2041bd34f65a0c11a7.0baa86684ca97a9814facb1eacc35b7f&signature=31b1879168144fed78f416aa207fd228cda866121f20c9b562fa1911f6d04daa|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-3/playlist.m3u8?token=60dccbb9b98330fa6bd591e4e44bb66e172906f58a861a10ef061c1bbf8a0d8b.1781032156.003147835ad76b3b5c24c129b3f6806a.918e3e5065e968eaf9a291d3f5642f0a.2f549c603ea534895c99d6088779b5a7&signature=2fb374099db7a704d4ea81ec7ba68b67344906109ad783456baf4978766bf85b|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Armenia vs Moldova (Diema Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Armenia vs Moldova (Diema Sport 3)
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Azerbaijan vs San Marino (SuperSport Premier League)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Azerbaijan vs San Marino (SuperSport Premier League)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+premier+league&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+premier+league&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-premier-league/playlist.m3u8?token=6f2469110e0d75a724597b1a7b9653bf042d42719e35c7189090730ff41f197e.1781032157.ece24c2f6db71ac0e01dc76ad29e935b.d658a49d75ad004d01d7cbdaf8bd70b9.9f425e8d7c6fb127260206733f8e41e7&signature=b8c16e4ba5796542063fef2412944d71807a1468c517ab94354c12b8e95dae8b|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Azerbaijan vs San Marino (Diema Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Azerbaijan vs San Marino (Diema Sport 3)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+3&code=bg&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+3&code=bg&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/bg-diema-sport-3/playlist.m3u8?token=632af7d7919579b1464ce1fc498f69ce33dfc77faaf7c1de19cef2d613ae5872.1781023816.c53045e368550052ee3a09fda1d3d5d0.8287c22592c4a8deb2f91a82f264da32.161fb7be2fe3bead0a1cff18303b6f9e&signature=9f043faa1868513ad39c2331a3ff54a714dc5a2e70abb321d93b9fb04b10cc11|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/bg-diema-sport-3/playlist.m3u8?token=a278edb0537d244fc584ae9cd3a644e1b783ddac8439fc2eb0564429a1780dcf.1781032158.05eae8bf6bdc04889fda857bfddf5eac.6b26050cd1a35c1b29508214eb6e6f5f.83e680604ca4c61e2e6c29d51187eb71&signature=3d78dfcc4873ad500efb9ac0ae503632784e98c0852ebb9955eb53fcd8d7f8b1|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Armenia vs Moldova (Prima Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Armenia vs Moldova (Prima Sport 1)
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Azerbaijan vs San Marino (Sport Klub 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Azerbaijan vs San Marino (Sport Klub 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+4&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+4&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/rs-sport-klub-4/playlist.m3u8?token=f6ffff8d82af6b82259992b16831cd4887f05be3c7c3955c7ab3559cb3a79e95.1781032158.f5ddf13b9fda28cdb23a978c90631530.62e516a7a9b1b6fdbfaab7c8cf98d82e.48ac2726fbe6cac871468a7187f9d7f9&signature=9b6889b135a65e9dd8f8fa1ddf14fe74306ba832adaa94e65c81c6c006293382|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Azerbaijan vs San Marino (SporTV 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Azerbaijan vs San Marino (SporTV 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+2&code=br&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+2&code=br&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/br-sportv-2/playlist.m3u8?token=64b018665c7345c012d38868eb9c6221ee24df61251bebbdda789ba3c6ad70ba.1781032158.8fff554f34f6f922cd17e28e0b663dae.7f66870fdb4f7f626338240cfadfab64.df1f4a3aae6fee37dfcebab1bd5a0603&signature=9dd15339587902d51616a0d5dc5ca8d636585b698d92556c9e8212207ef50ee2|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Azerbaijan vs San Marino (Prima Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Azerbaijan vs San Marino (Prima Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-1/playlist.m3u8?token=5da24de4ba871aafeaac4102ed8ab3c043cbf1980c94371300fe0bbf9923c69a.1781023817.2f243813e44a308d1083510c587cb05a.5ce3889ee1d2eadcebcac00a807263be.035e1b9afec8f3568110c69c6b55bef8&signature=e5259595579564045413bcb7e748e5b6b2cc98ca3b286057cb2593f56870aa93|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-1/playlist.m3u8?token=946dd046f8c3d7995c56e8cfa87ffcb4d38bc3b334c810ec87b54963cfbd87b8.1781032159.ffc31475a21371b793e466b15a4470fe.14568340d8367edae4da3134eede1486.3007bd26092657fc1f716505cb0c0f19&signature=d5679112b75e6c254c057d7bb7fc030bcc79793789eb29ab0663a815558815db|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Armenia vs Moldova (Digi Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Armenia vs Moldova (Digi Sport 4)
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Azerbaijan vs San Marino (Digi Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Azerbaijan vs San Marino (Digi Sport 4)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+4&code=ro&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+4&code=ro&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-4/playlist.m3u8?token=f90ec4a5ba1f54423cf7959b4556bfb4f15ce0789e9c21cdc5ccd9bc2ee5c002.1781023817.0b3f8ecfbd239d05504d9bbe7871e9e1.be5e2713609fab89e483733f66046a48.326befed6e3830f0b15f9b688ca223bf&signature=ee30a8bebecda4e07b7017b544e63a258639b7b919e038703ae2f7790a25f6d3|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-4/playlist.m3u8?token=6f8de7b3455e75974839d319dbf97746923b2fb9669a0d7dfbec28b694be7149.1781032159.854544945d8f60d43ccfd8651c816cf6.d9a90e21503ee8be398613d003179c86.55984fccfa3bac066d26854b2558b559&signature=9748be338e8d64d76a3cd28faa494e2a21c8b87d66bee6d86214839da6d08379|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Armenia vs Moldova (beIN SPORTS 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Armenia vs Moldova (beIN SPORTS 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Azerbaijan vs San Marino (beIN SPORTS 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Azerbaijan vs San Marino (beIN SPORTS 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=sa&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=sa&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-2/playlist.m3u8?token=c56f54d20b1ccb27d24a60e9f7336e0761f2413db4253477103844b8dd469f41.1781023818.5b2738269a5cdd3203512ba9db39c543.a0f1fbfee00a29c68fd3fa0cf3a9aefb.f7baba88ebd4440d3d664ed6b03dd70d&signature=86c709c63093deeefcd2e34c063d9f099fe75d2078413c403170256b04299c79|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-3/playlist.m3u8?token=9001aa947a3583cdd5692751cb40a9c665ca88e6cc9a91ac2a7c2724c3f073ab.1781032159.eba9fab6c23176b0a359734d14c00026.dde245dbd3fa36166c179bb7b8747de1.50510d8c4964b8d08a0c5770b6d77440&signature=85711bc5fc6b006bbd1e251f92687291e65222f8a2562eca1c7f59f7928fce0c|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Congo DR vs Chile (Sky Sport Bundesliga 6)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Congo DR vs Chile (Sky Sport Bundesliga 6)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+6&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+6&code=de&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Almería vs CD Castellon (ESPN Deportes)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2858.png" group-title="Soccer",[Soccer] Almería vs CD Castellon (ESPN Deportes)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+deportes&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+deportes&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/de-sky-sport-bundesliga-6/playlist.m3u8?token=c31dc18445f13a13729b2f290062a575283c533604976dde548e15e58c2cd68a.1781023819.bdb136f1a560c16a0f8996c68e56f500.c6f10aec32872d32661d5c08d915f93c.375da71ed6ba30300b41b8a0cfc21eb1&signature=46efff2fd9393afe141c3c7369963c3144b8c7dd1123b11e07c8f048628abd16|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-espn-deportes/playlist.m3u8?token=dd66e7d4d7d53abfbb4e59a48625069409b1f893439417dd7fe50067c03eb900.1781032160.cc2ae2c852b8f36219e4c4d0e654597c.d52014f8061c378b867864e8bcfec15e.6947d03b942443f1d2773d9c4263eb0c&signature=8de334553a21528ddec9f5c6828d260a961894d6ea7c9c714c4e83a71c407707|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Belarus vs Burkina Faso (FOX Soccer Plus)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Belarus vs Burkina Faso (FOX Soccer Plus)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+soccer+plus&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+soccer+plus&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Almería vs CD Castellon (beIN SPORTS 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2858.png" group-title="Soccer",[Soccer] Almería vs CD Castellon (beIN SPORTS 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-soccer-plus/playlist.m3u8?token=8203c03121c9e763a4c6806d13da73913f3ebf189ac90dc5592018f769d9d87e.1781023820.fbc764c175be5f170a74fbb01d3cb59b.1f739ef073ef89d7aad2b68ac2d93fd9.b0b829755ff9c92ae15f1e4d07075ecd&signature=86726e7d222598f0b850054d3b91a1d45a06725f1074b59ea5b7528cc313bd10|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-1/playlist.m3u8?token=ac2c480476fff8c5e6c1e91d64e53748c648e8def0600d3c87ef66e90226afd7.1781032160.84d48080dd14456203b2a805e0e3fc5f.22892d58a10eb2ad0922f48d2e7e9abf.582f8637f5fc4656e84fa8dde481b4a2&signature=4953ca7eb734fd98a6d0281247fff65f13f97122de4c50637b60a4c0be267d97|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Belarus vs Burkina Faso (beIN SPORTS MENA 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Belarus vs Burkina Faso (beIN SPORTS MENA 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Almería vs CD Castellon (Viaplay Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2858.png" group-title="Soccer",[Soccer] Almería vs CD Castellon (Viaplay Sports 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-mena-1/playlist.m3u8?token=3014fc0db35cc96125bbedd67f054375f34fa93a6d02fd7673344a9926edcf1a.1781023821.62a5c357eb59ce6a0eac67a81da1ed8a.d3a4ef12c3979c61b2302993c869a5e2.983913abe4a58b5d9f51a58ac633e92b&signature=93c561a2ab67d0b1c01be737dda29caf86853960eaba8823b1305472975d0d6f|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-1/playlist.m3u8?token=add8c4d54c6148cdde1fd0bdec522eb4e40ecfb812563986ee8700ffa27d9ee2.1781032161.5994af54c6d4cc33476ad61506b53fa4.f8efc2dadae54feb004c08d449209c09.9e51e9e0520bc1f106ad13c1346ec8b4&signature=7992ade82c90dc0ecff590e9b6dae95047564d988bb59f1595c5d33a3f6c3aef|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Belarus vs Burkina Faso (Sky Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Belarus vs Burkina Faso (Sky Sport 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+4&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+4&code=nz&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Almería vs CD Castellon (Premier Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2858.png" group-title="Soccer",[Soccer] Almería vs CD Castellon (Premier Sports 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+1&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+1&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-4/playlist.m3u8?token=73678db7d2a63e2cab5d18df0bfe29278e6f24068610d7f4e3edce004439ef16.1781023822.da6d1e73711849c56572a36f0800bd97.1830cb4a3fdbcb89c2dc81fdb282cc9f.b4523a066231be1af9b0e844531e69d8&signature=bcde0f066229d934b83904a26f33afcb85ec266a8bd18aa2993529753bcfe517|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-1/playlist.m3u8?token=7a04cf92e638d5bf529092505f94fd298aae3835c01e2a3d269079f8d0eaf097.1781032161.22c9137e779dadaec09b189a4f20a170.7d0a0fc81c272471beae2105ab4869c0.629021350a379b82362b1fa2a8d6d688&signature=34cf7c00ff4f49038e03096b504883d548fac3d6ee655306639d74b81d4f6f44|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Belarus vs Burkina Faso (Digi Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Belarus vs Burkina Faso (Digi Sport 3)
+#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Almería vs CD Castellon (beIN SPORTS MAX 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2858.png" group-title="Soccer",[Soccer] Almería vs CD Castellon (beIN SPORTS MAX 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+4&code=fr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+4&code=fr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/fr-bein-sports-max-4/playlist.m3u8?token=a378c1e9528cb5feeed47de60d11377eea2b9188415dc0cc6562670b2b297006.1781032161.534a7b19b386828c6ccedd372801fce4.ddf02bbff74f96ceba8a8dd16f2a1fc2.22df9aaaba118789f1da31dadb0a62ba&signature=0c619756554b4189beb24b21a6b162ea9f94e349de24980aa3457a89de225f64|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] Almería vs CD Castellon (LaLiga TV Hypermotion 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2858.png" group-title="Soccer",[Soccer] Almería vs CD Castellon (LaLiga TV Hypermotion 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=laliga+tv+hypermotion+1&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=laliga+tv+hypermotion+1&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/es-laliga-tv-hypermotion-1/playlist.m3u8?token=6bd3c2109a41f33a2c373a86ce31d125a04fc3b87065c7d582321804ac68469c.1781032162.df9f4e8e2b4e7d4615326341b88356b9.83bc8f5a52e00d41672c1f8e2883d845.d2b50cd2c6e47666dfd6c7b0b625053f&signature=ceaf8927bb7ff86774cdc088869325516889b423240d92eb5d12dd2415a8bed0|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] Almería vs CD Castellon (DAZN 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2858.png" group-title="Soccer",[Soccer] Almería vs CD Castellon (DAZN 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/pt-dazn-1/playlist.m3u8?token=983410440b2e8b314ff38842fe701957530ac650a42b763c057d38ccd4396fbc.1781032162.71e19537cd054636ce9ffc9280584717.6924c1b1e57f4c2968a94cd205ddd276.45006fb0626f2de21562b6ff4aec3a77&signature=7db8c98324592df13f4905b937e1ada5d374489ca4fd6e7fa979124169759deb|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.16" tvg-name="[Soccer] Almería vs CD Castellon (Eleven Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2858.png" group-title="Soccer",[Soccer] Almería vs CD Castellon (Eleven Sports 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=eleven+sports+1&code=pl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=eleven+sports+1&code=pl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/pl-eleven-sports-1/playlist.m3u8?token=1f6e0e80dd807f6e96b88787cfd897a8d70ddde712aec331a0f86a207d7bcaaa.1781032162.de55cfa525a61eb01a45011804ca8299.26cabbda8308756371bd37f5b9717d81.f496063d4e91090bceabc23b7466f90a&signature=742e789bc1845c708ad4499e0666fb9e2a072302ada415fddb333754b57d0e79|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="17" tvg-id="Soccer.17" tvg-name="[Soccer] Almería vs CD Castellon (Max Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2858.png" group-title="Soccer",[Soccer] Almería vs CD Castellon (Max Sport 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/bg-max-sport-4/playlist.m3u8?token=c65bf95faf958b5ffddb1402ea829a532dd985b068e53ee27ed5d45d0b2e117e.1781032163.3efed62d96d94107cab6436168116467.c91c184a93a202e1418d74f51263b482.82b677bcb4c2107e18647108ad6743b6&signature=e70b79256e595e30ba5a3532a4d9c038f13d5de9063cccf677f4017e8a4ee308|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="18" tvg-id="Soccer.18" tvg-name="[Soccer] Almería vs CD Castellon (Cytavision Sports 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2858.png" group-title="Soccer",[Soccer] Almería vs CD Castellon (Cytavision Sports 7)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+7&code=cy&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+7&code=cy&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/cy-cytavision-sports-7/playlist.m3u8?token=fcd55d7dfbe6d8ecca85055cab3ec691af7849692c4f3edcceb95c13a08d3b10.1781032163.633c696754257d582bca864cbcd3b793.2106f9ca170cf8ed8d0ac4dff5c91e27.49e8dc10be4aeabf49f169772ea32fb0&signature=d2a83834bb877ad359e4d8c2f0ac9267362c3f6a11dbdc208fc893fa98af58fc|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="19" tvg-id="Soccer.19" tvg-name="[Soccer] Almería vs CD Castellon (Arena 3 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2858.png" group-title="Soccer",[Soccer] Almería vs CD Castellon (Arena 3 Premium)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+3+premium&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+3+premium&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-3-premium/playlist.m3u8?token=c3869d81924811fff9ddb1fa0c60de105c8ee71584b92163deaba93875af849a.1781032164.9d35bfc613e79e420176a003f3802e9b.5c7417b7a0a7080e5e52e8e51f9c7918.d715f54aed4d7645689d54d38443a0a9&signature=acb998ee35367f95207dbbdd7123485fc28c18077d3803e1ca392637958f4ab7|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="20" tvg-id="Soccer.20" tvg-name="[Soccer] Almería vs CD Castellon (Nova Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2858.png" group-title="Soccer",[Soccer] Almería vs CD Castellon (Nova Sport 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sport+3&code=cz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sport+3&code=cz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/cz-nova-sport-3/playlist.m3u8?token=1ebe834b5aa135f1f7bbf31d31d5e41af43ac5be94e16cfe098588605da3f70f.1781032164.b2c13e26986cc02c9a04c20447b236c6.217d43673d426398c6184b70a8982a32.54ea54c8f818fc8d71182ec8708c6fda&signature=f213639050affed1ee92db7f0a000146783ebc1278d4f4ea7789cf8bc7c86c9c|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="21" tvg-id="Soccer.21" tvg-name="[Soccer] Almería vs CD Castellon (Digi Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2858.png" group-title="Soccer",[Soccer] Almería vs CD Castellon (Digi Sport 3)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+3&code=ro&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+3&code=ro&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-3/playlist.m3u8?token=2d1d606352fca6fa43b7a963a8095516c7adc5453f1434d8d89f5859d56829e7.1781023822.74361751f13715f80162603a004e1f67.5a2d8ae511aa0ed6d813990fee9603e6.68e20b1fd6eb22b73d3bd9fe202acd90&signature=ccb276274041e541f9a37b994422cb57bde1fdbf02dfe10e37ef070d479153ea|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-3/playlist.m3u8?token=eae6778cc15baa4513525fe4c67d643a0824a3613de8f1a029e0145d14b69b72.1781032164.93f5fa1836a74809da6ba34230d0c427.746df7767a154c6945eb6ca0e7f5203a.3f188bb3f9b72b952804c03dd32c7bd7&signature=593b5ccaaddc2e1746843193ca039f259fb2e326060282cc2d191b9b5dd41ddc|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Belarus vs Burkina Faso (Prima Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Belarus vs Burkina Faso (Prima Sport 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+4&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+4&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-4/playlist.m3u8?token=4c24ef5e1b56037b87952650f8fbbec48915c83831dd6bb268856423aa5a7388.1781023823.8a9ab4ccb310ed33b31c87ec04b12306.13368de59e3bd3e51f1931e235e0fd6a.12fb749d56d062adde21c160a450f385&signature=f56689f4bcdf62ce1ce49bea12d2f5b28c88d29fbee62027b09a3967732ef668|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Hungary vs Kazakhstan (FOX Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Hungary vs Kazakhstan (FOX Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-sports-2/playlist.m3u8?token=6b8d4e216df0635636495b594d2d10c262ee38d5d1c6b136529c5061ccaf7181.1781023824.2d03eaf42df23a5550775eed2278de75.9dce256e7de8250e5ebca7b0dc69071a.cd96c0f5f6c65330f7b4fc9fc6e2dcbf&signature=6b45648715b2d79686fefe0ce4658cb8b78636374ff38b5f4ee630241234a030|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Hungary vs Kazakhstan (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Hungary vs Kazakhstan (Sky Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=9a62fb1c9311e3238faf8cf6f6ce0932444fc37bae653cfde65efe1dabf91325.1781023825.d206b3493243942a2b5ccda7ed8bf074.a2b6673754e036439531213d4fa7a7cb.3776cbfaeaedeafabc48669fa76936d7&signature=3db9c417c30d3d011476f652b51cecfac98af64f1d0db6e32e69d14b6df5e554|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] Hungary vs Kazakhstan (SuperSport PSL)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Hungary vs Kazakhstan (SuperSport PSL)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+psl&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+psl&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-psl/playlist.m3u8?token=1e7d6121126db6ecf2ff8ee7e1b3adbacc4346972607254d5a4caaa6e524fd44.1781023826.492cf4bfd48316997c455ba9b47b62c4.c433d99716d213e3bb9dac6de74054a5.0d25d241bd6a194219e78132bd90a82b&signature=6fb11810418d2492addb6e77e0cc7e832a6b0601c1bb4dab8d1dc8c6a8d53362|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] Hungary vs Kazakhstan (Sky Sport Calcio)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Hungary vs Kazakhstan (Sky Sport Calcio)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+calcio&code=it&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+calcio&code=it&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/it-sky-sport-calcio/playlist.m3u8?token=3b8270b177ecbbc4a4c607c73266e9f572e1a3b74898275f0e7a2f1e2f92a675.1781023827.f2d03e878ccd677d5cb86732b3deba77.c3800f558fe0ce0d94844ba83c3a2020.181030bf2f4a3d6d1ae4f87459fbb7a5&signature=5acdafa16d65af5a6789b5eb6e57d2999da0d5d8c35813c86fb84dec9c24b962|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.16" tvg-name="[Soccer] Hungary vs Kazakhstan (Polsat Sport)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Hungary vs Kazakhstan (Polsat Sport)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pl-polsat-sport/playlist.m3u8?token=c9006b7b0c28323a8ccd735822a49ac836fb57a155c17abcfd8915a87beda3e1.1781023827.593ac67e787b798e2d0f25a14bfd48a6.49aef00d947bb26f6c7cd951ce77d008.3afaceda5946f69aa365f90770e5feb9&signature=7dfa1c62f87945dc59a06c50f641bc22b1bfeaac652095c73f7f1648a73c4a39|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="17" tvg-id="Soccer.17" tvg-name="[Soccer] Hungary vs Kazakhstan (Diema Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Hungary vs Kazakhstan (Diema Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/bg-diema-sport-1/playlist.m3u8?token=0cebd990e6f971305cead5e5bfc66d17d0c495022f5ffb09c1e5cd65a941de44.1781023828.854cdc1fc2a36cc6fcc74ca36d1ff5c0.e131d7391f0dd4dc365f94788cffe522.bef81561a66dae824a6da84b7529e845&signature=970cda475350330fe96182cca950ea3c42092f861230b6b66c168b8ab781f927|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="18" tvg-id="Soccer.18" tvg-name="[Soccer] Hungary vs Kazakhstan (Cytavision Sports 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Hungary vs Kazakhstan (Cytavision Sports 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+3&code=cy&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+3&code=cy&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/cy-cytavision-sports-3/playlist.m3u8?token=d0ae200733f729d9bd6afbefbf414022c05b466ba4a9a799882313c08a7020ef.1781023829.c61e50f8d87fc46ce2d01f7fc790379d.cb2997ae0445e7c91b441dd3477b2f95.5ab7290a5c4b74a1886be0f7aca0c7f2&signature=4c4c82311a2041477006619f070de34556ea39c6526fc4b948ecf2582571e32e|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="19" tvg-id="Soccer.19" tvg-name="[Soccer] Hungary vs Kazakhstan (Digi Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Hungary vs Kazakhstan (Digi Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-1/playlist.m3u8?token=8b08dc558a4450619869409761a6f83a2e5d457598ebcfbddee9d4dd06115aff.1781023830.a8dd1396e01517572ab77d3704f1fb3f.2ff5c4d63ea3631355cc7299b5223c60.ae03ab48535ef15141b1cab3202a5ac3&signature=b156453245725cc8f0b9d1699b4a46153fe28a0df9ea80837f3fd15ba72e9d64|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="20" tvg-id="Soccer.20" tvg-name="[Soccer] Hungary vs Kazakhstan (Prima Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Hungary vs Kazakhstan (Prima Sport 2)
+#EXTINF:-1 tvg-chno="22" tvg-id="Soccer.22" tvg-name="[Soccer] Almería vs CD Castellon (Prima Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2858.png" group-title="Soccer",[Soccer] Almería vs CD Castellon (Prima Sport 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+2&code=ro&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+2&code=ro&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-2/playlist.m3u8?token=940b56783f9856701f19656945fd270ba70c8b8012b1bbd2728c722546e1a120.1781023831.726db33496edc3b11ef1a4311689d6be.9efa312b2eb16f345a32ed8489a271db.1f4dba1328bea27d8d667373ab7b97a6&signature=9c70a9262c8202a268bdda487597e408e97095295ba5c8fc55aac5da7637be24|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-2/playlist.m3u8?token=3afd97cb347870cfe832a9d44f588d0bca506023be8c8c303667c2e280ce8a05.1781032165.d9d857449fa952da9cc0fe85561aa27f.87bd4280975b11798be707b5ca23cd26.9679bf6ff8faff30d1e2593a9c8661eb&signature=b2b51568d8996841fcf91508cff30f608a549260f43f31ddb7ddc6192f48aeeb|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="21" tvg-id="Soccer.21" tvg-name="[Soccer] Hungary vs Kazakhstan (beIN SPORTS 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Hungary vs Kazakhstan (beIN SPORTS 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-1/playlist.m3u8?token=342cd46ef404be22f2df8d6d2fb07e13de96c9746f19b9f3d578e9339d5d538d.1781023831.5752185c2a91eb8af7cbdbdb82b9d2e6.43f6f6d20f037d2f71d790477993d096.7c92e01c3ff16638c5797846c3bc34ce&signature=c93761c2ffef02fcd4ce9cf5eb896a9281d0bc6510f3996a39481be86a15f709|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="22" tvg-id="Soccer.22" tvg-name="[Soccer] Hungary vs Kazakhstan (M4 Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Hungary vs Kazakhstan (M4 Sports)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=m4+sports&code=hu&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=m4+sports&code=hu&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/hu-m4-sports/playlist.m3u8?token=ec68aca0396170d8fdfcbb338ba7f5b94850816c6a86c634ad7f5b62545925fd.1781023832.2b27bbd9fe872dcbfde4429d49159932.a3f746f1611f96687de2268d7da9f543.40df4dd951c1efef2f99f004501cc866&signature=84d5433c764cdffac1ab9dbd01973c3921f75d6a15158cd16083ed4cacf0f39c|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="23" tvg-id="Soccer.23" tvg-name="[Soccer] Oddevold vs Norrköping (TV4 Football)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1860.png" group-title="Soccer",[Soccer] Oddevold vs Norrköping (TV4 Football)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+football&code=se&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+football&code=se&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/se-tv4-football/playlist.m3u8?token=45e097bec9cef5b9f94c8733aef0b6b02686ba6d87a3109eefbad8910ea25d85.1781023833.9b8e327af8eadd7702a8370e975abb0f.4cb928f9230d61dfb30e7eab20949304.6591d3e8f7bf62790fed120d2c68f1b7&signature=0c209c31d5df386c2fb6eca8da805d32efd3020eb78e5f1ea58adaec7df997c4|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="24" tvg-id="Soccer.24" tvg-name="[Soccer] Öster vs Värnamo (TV4 Sportkanalen)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Öster vs Värnamo (TV4 Sportkanalen)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+sportkanalen&code=se&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+sportkanalen&code=se&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/se-tv4-sportkanalen/playlist.m3u8?token=6b0054d54452917e3ccad3570aa5d63ed8f6c8e6a1a25aa108be90003e7ebbf8.1781023834.bcd1470c4824f02c7c0893f051c26345.ada154a599fe13982f989b9afe101248.bee81dc3403f4984d8f03e3cbe4ceb24&signature=4b03bc84b868a6573947aeac2698c11dd196598b04b791c0db9ea41665d500ea|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="25" tvg-id="Cricket.25" tvg-name="[Cricket] EUT20 Belgium : Liege Red Lions vs Akcel United Brussels vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : Liege Red Lions vs Akcel United Brussels vs  (Viaplay Sports 2)
+#EXTINF:-1 tvg-chno="23" tvg-id="Cricket.23" tvg-name="[Cricket] EUT20 Belgium : Liege Red Lions vs Akcel United Brussels vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : Liege Red Lions vs Akcel United Brussels vs  (Viaplay Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=9ad7abe81e6db1f1e9c6653e4a5e4e21facbf9c2bc73454564f551343f9bfbf4.1781023835.98bc8ff4e5c3c8d552fbdd4335780834.b681f892136256fa986205bfb025bd10.0fbece3d32e6d8d03051b8e7c6b876f9&signature=84e5d8eefcce9a06d80ae0947cb57155a75990bfb7ca88803b9688202d7cac8c|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=d18e513839ae2a67045c23c3cb4582786c71babe796f901f937f8f1c6b1e22c9.1781032165.7da8d2991d2263ee3ab834674056d4cd.0418ae61cc8f8926480a6fd4cd5d9cf0.013b5dc1ed4d9b0a98ea8124c50ed260&signature=20b06260056b83f705ef320679b3b4fcd95b6a56d44c0b16e0245cb1e98492f4|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="26" tvg-id="Cricket.26" tvg-name="[Cricket] EUT20 Belgium : Liege Red Lions vs Akcel United Brussels vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : Liege Red Lions vs Akcel United Brussels vs  (Premier Sports 2)
+#EXTINF:-1 tvg-chno="24" tvg-id="Cricket.24" tvg-name="[Cricket] EUT20 Belgium : Liege Red Lions vs Akcel United Brussels vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : Liege Red Lions vs Akcel United Brussels vs  (Premier Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=467abae73e7bac5ead3b14d4b6a97cd6479067e8667c3c13ebce490a78969b58.1781023836.1f6dfc5b87a498a281976c0a1a6c0b63.4b5243db75cee32d09f892e3dfcc78a5.e277ed49dd274ca2b1e5afd03d6a629a&signature=bda684a1e8d9409000ed6f50484d108607eefe970b4eb5b3528b58e079b26880|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=2ff58bca946c97d900ef14b6ae22c33020a6a2fc5a51e80fbc249553e36b513b.1781032165.479e05cd98fdae952f64d4ddad4fec21.95955d53ea904f310d3b3936243cdf4b.ac7591b69883f479500a93cad2d90d6c&signature=da0c21280241df518797ead069bbe1c3580ad49df217dec5261d36e5a120d703|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="27" tvg-id="Cricket.27" tvg-name="[Cricket] 2026 ICC Women's T20 World Cup Warm-up: Netherlands vs Sri Lanka vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 2026 ICC Women's T20 World Cup Warm-up: Netherlands vs Sri Lanka vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="25" tvg-id="Cricket.25" tvg-name="[Cricket] 2026 ICC Women's T20 World Cup Warm-up: Netherlands vs Sri Lanka vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 2026 ICC Women's T20 World Cup Warm-up: Netherlands vs Sri Lanka vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=309a91d2defd4b920762ed26714f6668a269a75f8b8b608f73d979427623492b.1781023837.96e39205638a738ef6733bcc8700d0a2.761e30722ae43affb6696e553372583e.d99f44948206c8293b9731eb6e782316&signature=29d0f2f5446eec98a45b215c9b29804f4d0dac5cbd17556085879e2d4d4f0062|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=bed1081635f3f438778c4b1fd488f3679363aefd933f516ce1004a4809462519.1781032166.1cf241c7fcc5ff24a28d0b2e33880960.821557e5fcce210029184c48317cda34.90d5ff1c8626c2f896adc7f25d50f552&signature=ddad300b7872c9045cafa0c418688246edffff744fdc79ae31fc5a584d858603|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="28" tvg-id="Cricket.28" tvg-name="[Cricket] EUT20 Belgium : JB Bruges vs Antwerp Anchors vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : JB Bruges vs Antwerp Anchors vs  (Viaplay Sports 2)
+#EXTINF:-1 tvg-chno="26" tvg-id="Cricket.26" tvg-name="[Cricket] EUT20 Belgium : JB Bruges vs Antwerp Anchors vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : JB Bruges vs Antwerp Anchors vs  (Viaplay Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=c557813ddec2441f996943b9bb65a10ffeea18593423a41965d7e4d26e1559ec.1781023837.e992422356d8b1432769c9c1990655dd.e6a253e5b545d2e76e6fa3164a10f25b.a6a0864ffb6f0855f77841049c583d6e&signature=3058a4512d82cb471fc065bc1fa1d0e26fb566bf0d37c32bb718b91bb75196c1|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=bedfcc540b848060589c95449b1e522797796970e103f47455168451f99438d4.1781032166.fa28e4ee9409eb678afd6a0edc3555d9.34e5a3082cc0d231bc0f7bf1c1cd2754.49ff94b9e301bcf39f2ee0813d072f56&signature=1a3e9eb256cb313b0e179173ef321ad0e5e08d68bedfffa86931bad068df1587|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="29" tvg-id="Cricket.29" tvg-name="[Cricket] EUT20 Belgium : JB Bruges vs Antwerp Anchors vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : JB Bruges vs Antwerp Anchors vs  (Premier Sports 2)
+#EXTINF:-1 tvg-chno="27" tvg-id="Cricket.27" tvg-name="[Cricket] EUT20 Belgium : JB Bruges vs Antwerp Anchors vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : JB Bruges vs Antwerp Anchors vs  (Premier Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=5930b84d4ddb04d0f3b75a9844c531162e9542cc5af469e21694fbe05a659ba9.1781023838.e77a527c9a4a5bf44a84c0a43698133c.9ac1342a258e7cbced93cad85114fc81.a176855a3da540a0a78393d919ce7659&signature=2934e9fa9d0a9dd70f9b22f1bdf2e90d617b04d24f0fcab40d73e18ddc7613b9|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=204960d3adb65724a0a9de875666a8ade8681619dcb5c5597968ce35f3c7dfcb.1781032167.0a252f115585d7d7e973df27d925e767.867613c70b0352cbb4469dd42c203b34.f6b28437efdf777bdd8dc1d63e1361e6&signature=b1fdb7392daf2d58921b751e3954279ea1c3c4c802d829f1647c059475f2cc16|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="30" tvg-id="Cricket.30" tvg-name="[Cricket] EUT20 Belgium : Liege Red Lions vs Akcel United Brussels vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : Liege Red Lions vs Akcel United Brussels vs  (Viaplay Sports 2)
+#EXTINF:-1 tvg-chno="28" tvg-id="Cricket.28" tvg-name="[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Willow Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=f247124590127cb784c3682dde863e594d07cbe76e1ba1283da6ebce702a9290.1781032167.0921184cbffa9e0e8b95153546539d66.1d69e03b8d8ec60551599c42d3313372.1ec85400af6085ab9f79d25580835723&signature=295e1df2c1276349a1df7d8639e0d0a33bf4caf2ad4e4f7f711780dd119088bc|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="29" tvg-id="Cricket.29" tvg-name="[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Sky Sports Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=19a4e6ee80c87b93959b0560d4db65df250ac30c33c7beb83e1343be7f5747de.1781032167.9267bcfb57a31ef470797f8d4fed0e7d.234c693439533a783e788ccd76488db3.bb2b283a82348258265e05be58a22adf&signature=16687555176e4d964fd91b3f3b39deb66d94fb1f11dcef9f20a3fbb9315bd8c7|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="30" tvg-id="Cricket.30" tvg-name="[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Sky Sports Main Event)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=9b5f4b9eada71e8b61f28808efe181f3ac8250faeb10cf12899a1759ba2c7a8e.1781032168.f91254907f92db41b5c6ef6771434334.193e192ad77c5c40045e7abc7408fbfa.b1430dbc17f4b372c2798069dca06a9a&signature=9600bcd441f5bb4ec36150cf0585c62824bb9de7e851016096aa09263e82b0f9|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="31" tvg-id="Cricket.31" tvg-name="[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Sky Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=a8cb227a5eca74cc823f3da1dabbcd90ab2ee0a270a4ad98b8b71f3d1042f485.1781032168.cb3c8af2cce38027dfd4397d0417de6e.8345d8730d709c487088a672490c773b.d77a19ee50e675ebff327e2d87cc3d6f&signature=08bb5f7dea278805a52b9420f79c252bc34098ebeaac6642613b23605f9c9d4f|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="32" tvg-id="Cricket.32" tvg-name="[Cricket] NatWest T20 Blast : Essex vs Kent vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Essex vs Kent vs  (SuperSport Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=e537f0a4b1534ddc8a355f67680a1745dbfc33690eb1e153815040600c8aacb0.1781032168.6196f8c2e1997a38a353218f519e3f0f.3a9252ac7c914fa41d4f5d8c4b674482.8ec3a4ebf859bb3353ee0043e85fae05&signature=afe0a5c1187b30e8ca477cad69ef78a3af1431f711b5ad64e4d07912dde12144|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="33" tvg-id="Cricket.33" tvg-name="[Cricket] EUT20 Belgium : Liege Red Lions vs Akcel United Brussels vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : Liege Red Lions vs Akcel United Brussels vs  (Viaplay Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=4a46dd1b30d0216c9b3a0e240cead3e6eb6c9abfec5f0084744f5dfd5f41811c.1781023839.9447d48f362d5511addff0d1c097c90a.4f62d1c264b463333a023826a217f663.2b220680619e5295148b94482ee6f87d&signature=8449ddd5008dc37d8e72b0a93fddb20589f98562aabe09792d0c0b6dd170747a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=bd0d1e923b8a35f045e969f6fc112b9b0638068eb618d5000f7ba7fd3474d652.1781032169.8d276123a71bc932a553bf31e9cc1b1d.7094781b4e6a6c70db4ff0d32b08cce4.500367f69dea2e0e4cb8629d24bef83c&signature=a81610bca5e27420dc95b05be4b28de6f8fafb27a530b71d7aa1709c575a685e|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="31" tvg-id="Cricket.31" tvg-name="[Cricket] EUT20 Belgium : Liege Red Lions vs Akcel United Brussels vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : Liege Red Lions vs Akcel United Brussels vs  (Premier Sports 2)
+#EXTINF:-1 tvg-chno="34" tvg-id="Cricket.34" tvg-name="[Cricket] EUT20 Belgium : Liege Red Lions vs Akcel United Brussels vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : Liege Red Lions vs Akcel United Brussels vs  (Premier Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=7914375c194e3280bc3b20dd80ee8f7691860693a0c92aea74b96ccb976ea29d.1781023840.afdb84bcccb5d8e5b3733e6a12ccb1c9.db588aa102ecd53c4ec2f8714a7cd27b.14780caf1c0a8fa7cc135d844bcbc971&signature=ac48f777818b18b7c28c635098a3945dffeeb3630009d736bce4b41833688ac2|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=707b658c87e4bd05468578681398d23515d041d2b59dc78b5f3a2849a27e6399.1781032169.919a4896db5229af2350331cd49d02d3.29b770ee4416e2a5457b2e7c67e632b5.cd71f09158ca4e6ca088f90ace8a0de8&signature=f4f77ac9eb404979859b1183f92da515638c299fc3565556775f963e7c30cbe4|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="32" tvg-id="Cricket.32" tvg-name="[Cricket] 2026 ICC Women's T20 World Cup Warm-up: Netherlands vs Sri Lanka vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 2026 ICC Women's T20 World Cup Warm-up: Netherlands vs Sri Lanka vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="35" tvg-id="Cricket.35" tvg-name="[Cricket] 2026 ICC Women's T20 World Cup Warm-up: Netherlands vs Sri Lanka vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 2026 ICC Women's T20 World Cup Warm-up: Netherlands vs Sri Lanka vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=5464d89d0bcccdf4c6f14e4b5b7e63d81e7d3e423e98a5896e039e46537eb8bf.1781023841.e682fde5938ddadb2e36070048e05408.c15e39c52f8a8e9237d30cef583aac58.3ec0a6dcd559d3eb31dd2a2e95479b3f&signature=513b49afef6360bf29ab6f8d97e3b205e08383eba7789b6cf623cec5e4ffb1d1|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=fe5cbf16bb0220d45e87d870d069711ac986720160dadc6c22e3ce0da0389b38.1781032169.59234f99a4c7e58c5bc1052a64b18bfa.4b7b01752098ded1b9f8c9eafb3a65a1.0846efe5895a8f6d552212d8041cfe13&signature=edfb98be689f8bf921a0a2a83aa271aea82df683f47f1255469cdbab7e00f3e5|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="33" tvg-id="Cricket.33" tvg-name="[Cricket] EUT20 Belgium : JB Bruges vs Antwerp Anchors vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : JB Bruges vs Antwerp Anchors vs  (Viaplay Sports 2)
+#EXTINF:-1 tvg-chno="36" tvg-id="Cricket.36" tvg-name="[Cricket] EUT20 Belgium : JB Bruges vs Antwerp Anchors vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : JB Bruges vs Antwerp Anchors vs  (Viaplay Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=46d9a452904cfa0f48635cd080ada9633fc7e2521d0c9abee46e7474540fa42a.1781023841.ea6796878d5c114f24765a900d40d14c.c39bb0e578465506d459f226ea4b539b.b235727de46fc847caa96df76e0d63e6&signature=c581639394e71ef334fa0cd5bd54470bc7fb9e878814a6921fc0168c2698b4fb|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=4ec6d484adee23cb5eac6735a08d23e54143be549c33cb488aee331040b6989e.1781032170.3e46ffb1a4df6d08bc7cae90c1d0304d.06bd59f68a82a20acbd79af1a693aeaa.36845885e44a4b82632e971242b27eb0&signature=cd52c45cb435e421461b57cfcaae2c1be7b47742048798bc27963822e1f1f46a|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="34" tvg-id="Cricket.34" tvg-name="[Cricket] EUT20 Belgium : JB Bruges vs Antwerp Anchors vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : JB Bruges vs Antwerp Anchors vs  (Premier Sports 2)
+#EXTINF:-1 tvg-chno="37" tvg-id="Cricket.37" tvg-name="[Cricket] EUT20 Belgium : JB Bruges vs Antwerp Anchors vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : JB Bruges vs Antwerp Anchors vs  (Premier Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=bbde12f0a7206b2de71b14a0a52f2f65b1c45de7a1ea7d428db30d4fff9b6890.1781023842.7e76d465a68ddc117966e0ba69dd87cd.e8b87373a1b5bc9fe7be6b179a5d7892.6ebc3c4691482d68dce8f1717275a92c&signature=b5fef246a0b75124f3009881b801882c6a4b2c8c512ea3bed2944802e92c5a69|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=06af63ed86e0b8a4f5babc105b714d9934c80115699394c2dfc20058a54765cc.1781032170.5b740e9842e4dc8a6d923687df42a75d.e1e8f7ceeee57d9f8802de6e941ba290.81203cd00458c93809ce46007f27f21b&signature=c15c7ed765efae85456e90e488471d9dc9c83035dd155a73b6e65f0edf041d78|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="38" tvg-id="Cricket.38" tvg-name="[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Willow Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=8c9b139d3b02ef70c8a7fa516a41cbaf533f12fa7fc8598da346f7ef75aed44f.1781032171.63a794e460dd9abdbfa4e9ff6bd284b3.49da6cebd378215021bcbc7b2e8d1e4b.28ca0e7c4b8ff728e504f9cbb02db46f&signature=526b3463b6b1cc4db7b33d87345a55c421db8d3d44fd2792d3e55444409e1e5d|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="39" tvg-id="Cricket.39" tvg-name="[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Sky Sports Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=9ce7ba94ea1bbdb8c8cb0e46019e34a5806561ecfa917ecb125c54edc5322b14.1781032171.60f06dab5b64eff8711e65c181777ebd.38a2efc54a19ef8f082a46897329d760.bf32be3955b4ac011b2912d439290149&signature=148c323060d09e352f1c7a01906328724356ae9ca5e2de946e1237fe6dd53a31|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="40" tvg-id="Cricket.40" tvg-name="[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Sky Sports Main Event)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=84499d243f82be761bb73b75343cbb5c6b653774888d8c9cd553baacbd137cc7.1781032171.49a157be1695c248aef50cf8461a8fd5.cb4e34921dca40e1c521fa9d1d244100.53e87b76fe1c2b1fb0f2fbcb9d4a36d8&signature=1933a010380d8457535132b82f593091f8c71ffe2ddedf93dd735be24725b80e|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="41" tvg-id="Cricket.41" tvg-name="[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Sky Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=3070c1e0605fd309c5310b14362f9d82686c61aba79ddb3c1d1b0fdea9666d2f.1781032172.db33be73d66b1a8587c62c81113b4092.f06cc5b948aface9a5ba51450103e28d.4663f993fccda7b00600c874f12655ee&signature=e3dd1f8cceda9c554202e270bebc245ef9a29550e0a9a3125184336a319d9d8a|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="42" tvg-id="Cricket.42" tvg-name="[Cricket] NatWest T20 Blast : Essex vs Kent vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Essex vs Kent vs  (SuperSport Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=573dd148ae2d7f2aef96b96c8c9d9e42dce646b940ea7a755e0e13789d8d3053.1781032172.f463820c2eb1859a024b55e9467d103b.f2f8d2d6ef9a75db17fb9498424e8221.18a4e1c12de71792f92874765f09443a&signature=19b74665d818de4f1557434b1953c001769b88ef25db1d63c2b4adfdc132e97c|x-forwarded-for:77.238.79.111
 
