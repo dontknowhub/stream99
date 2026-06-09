@@ -1,31 +1,103 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Oman vs Kuwait (TNT Sports 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Oman vs Kuwait (TNT Sports 7)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Kyrgyzstan vs Palestine (Sky Sport Bundesliga 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Kyrgyzstan vs Palestine (Sky Sport Bundesliga 7)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+7&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+7&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-7/playlist.m3u8?token=d7072545fa31e8be91e33cd80dff814ce1187b6621e150e5d0cc8fa5b059d740.1781004804.9b42a40d8f5e4dc07ac28b6f1806098b.c3851026acb9c420536f6dd0904eae78.9d364b060cad16d8b10ed51fbfb0a549&signature=0f875c83ecbd14f2512eda72b698d06a7567e9c7e2432fd71b930f33104ce026|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/de-sky-sport-bundesliga-7/playlist.m3u8?token=99fcd9531cb37c67e6292bb673e8c9a461244e27c96a9a4261dabc347f954f0d.1781013769.41a3a23e2af94302cd7b2e892dfa6343.263ab88bf5846383c4d09f436c0e2ec3.b3258882dd3a5261824d0d969a596da3&signature=aaa0e7cb625ce2681104bb33a2639efed7dbdb2e46ba681b48e071a1cf98fe11|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] EUT20 Belgium : Liege Red Lions vs Akcel United Brussels vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : Liege Red Lions vs Akcel United Brussels vs  (Viaplay Sports 2)
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Armenia vs Moldova (Sky Sport Select)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Armenia vs Moldova (Sky Sport Select)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+select&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+select&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-select/playlist.m3u8?token=9953d4cc7630ba76e87c5c1b5cd4de06db4995cc2e568c0d4507c828ec6ce2fa.1781013772.18019d15d31cfaf47bae8311a66954b1.c7fd568dd63f335a6f76e84178a7d0e6.6656e49863e0b526e10c1c976042171a&signature=a09d07afb5b16ee07f116e75f4461f3d15d207ca26633cfcd5de5b3905a2423d|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Armenia vs Moldova (Diema Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Armenia vs Moldova (Diema Sport 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+3&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+3&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/bg-diema-sport-3/playlist.m3u8?token=8e4a4baf84a1db39bbb9bc3e911f70197bac3b2382dd16fdad288881712a08b4.1781013773.006eef2557c1042f8092a44fbe27423b.c03279b0129fdd58f3d449551c16bb0c.f1963fc1c7df90594d91c894a2ffedfc&signature=251eab2bd46c1267a637ddb1087c6cf9df861b61062d10d8dea03ad900ebf738|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Armenia vs Moldova (Prima Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Armenia vs Moldova (Prima Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-1/playlist.m3u8?token=aef41af64e74ceedde51882ee6acd81e9e8024f4f18d97a52502999b61239ef6.1781013774.cf8cfa84abf7a34a2ad6062ff7a9a08f.be8878fc676832690fbaaefd41c64fea.f8a392a5a2ebbdb56070c31275eb3d73&signature=086ff5897ad2f91599b6d3e388011a0706e7358160eea52ac0b7ab2f2cd33f05|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Armenia vs Moldova (Digi Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Armenia vs Moldova (Digi Sport 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+4&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+4&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-4/playlist.m3u8?token=797882732d44fa0ef5a4d5feb60ce9a6feb45439600ed05729c1be5acaf97dca.1781013775.50f52c6e69c3f67e5f8ca4d61da097f3.af31639495542137dbe49ad560242d28.c39b9cb8d3e62a8078fe210c7bbfaace&signature=3fdb274b61f1627d09ea58a4764d514a70f46d9535e0b8f89e685175c0268e17|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Armenia vs Moldova (beIN SPORTS 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Armenia vs Moldova (beIN SPORTS 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-2/playlist.m3u8?token=861844cf77e946a71f83370e508b55e40f53b2f3838a9f071ad9451b7e99e5a0.1781013776.76ee95d023c39fa8aac8a8bc5735dba7.6ef31ffda105638461505f38f946d95d.ef203974f808ce8cda0c4713bf98f90b&signature=68164cd4aabf96694fb74ea63f12df7a63a4f8e58e181c080082a40114b9ecb9|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Congo DR vs Chile (Sky Sport Bundesliga 6)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Congo DR vs Chile (Sky Sport Bundesliga 6)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+6&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+6&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/de-sky-sport-bundesliga-6/playlist.m3u8?token=e7f605e433efb62c4a0c8cbb6394ef78f8bce64af36ae154f37c82901d1c9723.1781013777.d4d9b1964a77d2e968101390536e9051.abd7c20bf7608ec59820bdad263a071b.d4bcd70937ebafd6a131c38bd23b5222&signature=cb930140794cf2abe103e88f09dc630e83bea0672cc6f734c6a5bc074956b0d6|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] EUT20 Belgium : Liege Red Lions vs Akcel United Brussels vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : Liege Red Lions vs Akcel United Brussels vs  (Viaplay Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=c4b477ede08ca7855ef13e56753adec08ec9c630c3cc60b280084e2a9b315869.1781004805.81ccd7ec2217fc2c0ec9d219cc47ec68.841e8b911640e32609875afea1248595.dc6b3c433be6db507aaedba8ed906435&signature=2e0974170b8144a80a762e1509b87847fabbf860d6d7fcb7ad53433990b562dc|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=ac9d64850e918c8fac44506211aa65d3d0b73b4648146c0dc70588a34e57fa65.1781013778.8329f52e9bafd7262d8a3d833297ce6b.f4ee528e00ea4a8441acedc94643ee07.9aa42877354a71e443c1dd94604bd57e&signature=163a126eb19599f60be7b62bb99d2e3b156bee67f1c4efe15e08f1690c60c483|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] EUT20 Belgium : Liege Red Lions vs Akcel United Brussels vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : Liege Red Lions vs Akcel United Brussels vs  (Premier Sports 2)
+#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] EUT20 Belgium : Liege Red Lions vs Akcel United Brussels vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : Liege Red Lions vs Akcel United Brussels vs  (Premier Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=9c61d8461a4929883ccf3a9fe13ea03753aef3a3e51f595521f18e250b785940.1781004805.c4b321dfed49ceea56921760e1e2e336.c0645baecac484f7660dd67e5c5349f0.7dc723baf1f7a0d12c0262a4b53232de&signature=6b75d92584a1b8bff0b84a17ab229548f53be939c9ad33caf86ddba6dc6f281a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=819d908f6119f2e9a205d00e14e6e2cb597003bd6c63d193c8f227dc7702913b.1781013779.8047cf3b3fa31d6615131fb592adb19a.19d0695eb8ccd352bd7eb2414ba1aa9d.0ab5564060874c5af7a7c3cc4d037fa0&signature=68a9f2d68ae1a01ee8cc0ff1191ebe6e5339c14d12c585e82a13e4afec405d19|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] EUT20 Belgium : Liege Red Lions vs Akcel United Brussels vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : Liege Red Lions vs Akcel United Brussels vs  (Viaplay Sports 2)
+#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] 2026 ICC Women's T20 World Cup Warm-up: Netherlands vs Sri Lanka vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 2026 ICC Women's T20 World Cup Warm-up: Netherlands vs Sri Lanka vs  (Willow 2 Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=b44895012a0e40d996df665057720d576b37b8576b2e82de3019aa0599fe59d4.1781013780.709e3d42c1eff34a8cd7afbc6fa3c4e8.f0825c556dd224082bb2b067478201d5.935c5764916feb721d657e7c5faceabe&signature=1274de72ddf02c3f17ccd8ff5d16131fb7ca72680fe74f817def59bf7933c2f2|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] EUT20 Belgium : JB Bruges vs Antwerp Anchors vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : JB Bruges vs Antwerp Anchors vs  (Viaplay Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=347fc68845179944b0382d6e62231cf52fddaf63bb419ac25f9798371116060b.1781004806.90dddec96ed284bb7ce517b188240099.7411d7c6c69ec7ed4e1cac62359b8ace.0253462b735338512a2a42a66a01d099&signature=a892c17b15c4156dc4ef5a9d8a3e979b0d6cd26b2433fff4550a3d61dc5064cd|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=214bf451dff785af85b4f8a05a089b090b2d33ad8f2488903fb3a356b6f5197c.1781013782.e4a2239e3daa03a768d4a0a24674dd05.81610d7103b341ffba77103d1acd4b2e.665410a5620da8a3bb1fae4a434dfb5f&signature=818c69b82fb083ff8986453147bbcc236ef690af7180c4811e5b4325d379dcdc|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] EUT20 Belgium : Liege Red Lions vs Akcel United Brussels vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : Liege Red Lions vs Akcel United Brussels vs  (Premier Sports 2)
+#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] EUT20 Belgium : JB Bruges vs Antwerp Anchors vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : JB Bruges vs Antwerp Anchors vs  (Premier Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=215208945519abaca574e68e56227c6966fcb02adc5f2fbf4171878143e3a19d.1781004807.f9dff2d8443f329b990d13c07b010f2e.c09505d033762ce2931079874469d63d.7a124a251886e728f2ee77688b003a12&signature=c3348aab2e6da25e705797f86c9b552d929de8ba484d078e1c85d2c52a92863d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=5effddab8a385b50f27f179f1188822ebc894f067075981ae233e238612dc683.1781013783.86448a4bf9e7effd5aac21431312590b.f02fa5851eccce151c44e3459152fef6.285d138826ac80f665629ee2660fa5d7&signature=b328226a799cd0fec063c0be5651b99526a35a96a208338ffcac00be6088a87a|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] EUT20 Belgium : Liege Red Lions vs Akcel United Brussels vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : Liege Red Lions vs Akcel United Brussels vs  (Viaplay Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=cd530987887b000e0802db8163b1acfe40654c52bed5cf4052c2ed935dda6b74.1781013784.178da0b3136ef08930a129709532d52d.0614cbd78b5870ac16b1fabd179a54bf.2073d01d197d873d826b030f0b78d0eb&signature=cff5ec1255ca3231ac3aa515015bca9122c776fba63fb8052929adb31b1dc1e7|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] EUT20 Belgium : Liege Red Lions vs Akcel United Brussels vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : Liege Red Lions vs Akcel United Brussels vs  (Premier Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=3537f0eed80fcef0134e8ee515da50dcfc83807ceb1e38f71455cea40720d83e.1781013785.5d0cf1ab1a0034a66e69c6f00878d508.6cd6abadf34f59c9c8a006db27788d04.87a555d52fe5cf044ca849bceaf0e0fa&signature=3c579415efeaed1becdd7f329c5d9f5b0bdb5326c1e813264d2bb2ccdeb2af70|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] 2026 ICC Women's T20 World Cup Warm-up: Netherlands vs Sri Lanka vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 2026 ICC Women's T20 World Cup Warm-up: Netherlands vs Sri Lanka vs  (Willow 2 Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=d2b691b887a472e39ef74fb2247642af2ef0de1fbb45f0f8b370110c88edf682.1781013786.3b911ac592af09d403914084d812f6e0.8902f9c470a07201214b2e2ae1939ae7.0283886160e1833929cbb3b7f0f48d6e&signature=3c79d77bc01ab1150513ee4b09570c65c526a43b1276a2bb42810b752208ba09|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] EUT20 Belgium : JB Bruges vs Antwerp Anchors vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : JB Bruges vs Antwerp Anchors vs  (Viaplay Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=b47434ab336eaa0a5df54576c7d8b3a467e9edfeaf9f906bbff32df3e10717d0.1781013787.3ad001b5e4bd6fa36e9574b08d6e0eab.7ff186a4c09a8a91bbe33ee9f6457f14.87c05065c0aa4dec83c24465e7cff879&signature=af70dc3cb132179a83c78639c6d88fd17c9cca9a02f2fc4d96a9abfa74d3d695|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] EUT20 Belgium : JB Bruges vs Antwerp Anchors vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : JB Bruges vs Antwerp Anchors vs  (Premier Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=bc7b44d5db96647a3a976eeaa7ba9825ba7d779c5bc94b7d786ffba51304b17a.1781013788.f7508022787ae16d78948847bdb9da74.d0e4b6afecc8f27d6717e5a22e55e6d3.11f8d068d85630cc1a1da7c77383b9d7&signature=4de7315f3b994fef3c5e4c6be7b03d2e49fc3d59d494fcd36da8c630ee610f34|x-forwarded-for:77.238.79.111
 
