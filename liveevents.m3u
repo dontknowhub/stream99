@@ -1,79 +1,115 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Cricket.1" tvg-name="[Cricket] Cricket : EUT20 Belgium : Ghent Gladiators vs Akcel United Brussels vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : EUT20 Belgium : Ghent Gladiators vs Akcel United Brussels vs  (Premier Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=c1c7668b9e5df6cc8a9335462076ca2a76548eb8af7e87d72b753f87b2b0d1dd.1781093713.2eb997d519bec05e9fc58247cdb406a9.fa51dc6ed594bd7d0520eef7713e0a0b.8c5bb9449e05750f687ee47172310efa&signature=df9e0bd71557cd52a5ba1e54c27fd14c9020e150e3074a69d38e22289f2c453b|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] T20 World Cup Women : England W vs India W vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : England W vs India W vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="1" tvg-id="Cricket.1" tvg-name="[Cricket] T20 World Cup Women : England W vs India W vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : England W vs India W vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=3659806ae9701a8d2429f07574ddbb0d9e0c071cca21620196214b8a71fdc18a.1781093714.0e9b6b59b753452c345bd45345160f2c.90d5dffa8f3a827b086cacb11d4116eb.df82336f00abd05283b13dfedff48930&signature=381a12304f1a37c29c4e61069f9c200fec9eee9048d58b0bb5a274e858c7030d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=9b43f3abde20c3a842976b3518d7a586b3cd473a035936bdd19db49f2bd533b1.1781107813.8ad7b56839156820568cc6012ad8513a.4b48ae8c21fb2c0962110ce57615d4a7.28be234e0eb66fcaca2ee74ed137b532&signature=89e662126ca1d50e8ca5be18a9867c234c8da1f6604b0d2c0ee8e1c3c5de9383|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] T20 World Cup Women : England W vs India W vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : England W vs India W vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] T20 World Cup Women : England W vs India W vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : England W vs India W vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=2f66df14389efb19dbec663a8f013857da1ea238c860942fd2fc75c3657f3043.1781093715.de983e67349f7408ba826ed009de676a.bedfa970712c5f4b69123db2b684cbb3.3db79782bef17d98821f79bd5449ff7c&signature=1cf0071d21f8c0964efb465ce14cdbbd839bc6b6d68a532349f8d5de4baa536d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=65b3eca4664d3bd2a81c78d80d8a43821bb6ca7dccbd04c6f2e7db4a27dae562.1781107814.542877e5e42545612841385278554ade.c443acc2ed4c8b2426a4b6ac24d0be5e.e90af51eb7d8c7231f687b8f23367b91&signature=e25e222677640d0920c127d73b878a822add2bd66d9a9e73db08d72a11cb8b6a|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] T20 World Cup Women : England W vs India W vs  (Sky Sports Mix)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : England W vs India W vs  (Sky Sports Mix)
+#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] T20 World Cup Women : England W vs India W vs  (Sky Sports Mix)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : England W vs India W vs  (Sky Sports Mix)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-mix/playlist.m3u8?token=95b0e472311eab959c02ad254920ef55f9e4716c94b0c4f060abed2f356c9d0d.1781093716.a05167f283b5900e232ac350e5483739.a641c1be2cfeb419f6ba39ba1bf0afed.465abc07560cbdddf2ec37fbe320df8b&signature=3a8121c693f9a0cf37db1abbe5dc18355d698a0add5edd5ba570401c8bb6520c|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-mix/playlist.m3u8?token=43ba765cbbecfab871bf0608e225d1464367918b4875a83cb609a52cd3ddcc91.1781107816.7dbe3380e696ff034346beb86cd48dda.97d967fca05bc359750fe8e81eec1b7e.49a4ffe6d096597227ddeb90126a24b3&signature=dd0a17c01e00fcebf45a80c36d3aaf30bb5787b067a64bc99d2773a4800ecc3f|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] Cricket : EUT20 Belgium : Antwerp Anchors v Liege Red Lions vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : EUT20 Belgium : Antwerp Anchors v Liege Red Lions vs  (Viaplay Sports 2)
+#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] T20 World Cup Women : Australia W vs West Indies W vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : Australia W vs West Indies W vs  (Willow Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=b9e8901c3d733253d264f6d77e51a2e4ced41096639f3b1946bb0b7eb4327763.1781107828.ffc886ae0abf1fb3fd81bfc50631024c.0cf27950f1f73cdf588d14c053e74898.09e52d0febe9b7c609ffd7f77bc0c145&signature=5f39c256ebe06f9f7ec538a8b960cd1c6fcd55aa711e3c0f2eb265a58db0c370|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] T20 World Cup Women : Australia W vs West Indies W vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : Australia W vs West Indies W vs  (Sky Sports Main Event)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=26e8da925fb70da0f0209d404ad40f74dbfe36bc8daa787785b5a2ee5f2fe0d2.1781107835.baa0f818fe180f96bd7409d263030c01.dec12952314075aaa2559b575d14c0b4.e9c34d9ed3a884c72001b43dc6a7eda7&signature=5b941a0c4a7aedb567490116a7f40d9dcb64c179100d49ceea4486258fca5556|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] T20 World Cup Women : Australia W vs West Indies W vs  (Sky Sports Mix)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : Australia W vs West Indies W vs  (Sky Sports Mix)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-mix/playlist.m3u8?token=66d91d9d0be0dbd4a706089c81937e91517904da51d4c3e1846f37a7918dd34f.1781107836.f670512341403f1359f9f1cadde5d5a1.f4dbf80eedf1eef68e3121237b74339e.34a081bea706fd1c84e58b37ca704a6a&signature=ade6c6a17dc084f1d513943d9cdfab0da86e72692217d308624099c3c5f3f8f2|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] Cricket : EUT20 Belgium Qualifier : TBC vs TBC vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : EUT20 Belgium Qualifier : TBC vs TBC vs  (Viaplay Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=a77f3d94a1c440bf21761cd6ee2346f6a246395ffc9f7d577422e6aef6c1a13b.1781093717.3da349ae1cd50bbec4db2a37a8c2e852.d071cc60ff6ca9a24f07f97b757431bc.a677bedb573c72e8a757a788051e09ab&signature=34a03dfd4c3ba637d5947658c6f75792685b672e8ab1fd67750081552eb7ae06|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=bf4b9d27fcd80eaf76af53f7aada400d56fe8716bbe8b7e70baf7ae813235e93.1781107836.e574c58f05650590be9dc5ba0e0728e9.f6745608af8bdde524e0bb5a8da693ae.babb0b48d4ca6093723cc364a705c840&signature=b24a1cad2945439c41cab00a389bd0b6c8d50d8947dbd12030cf523c97982ba0|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] Cricket : EUT20 Belgium : Antwerp Anchors v Liege Red Lions vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : EUT20 Belgium : Antwerp Anchors v Liege Red Lions vs  (Premier Sports 2)
+#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] Cricket : EUT20 Belgium Qualifier : TBC vs TBC vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : EUT20 Belgium Qualifier : TBC vs TBC vs  (Premier Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=2e1412cd262f3fccc14e5b391938bf5bf485ddbb4ab440c0ae15b5aaa1fa6695.1781093719.4730532df260a3ac45d38c44e6ada1cd.f0361e6e862e11fb98c0ccd192c0e003.50aab6d999dbe69d8636e5af1e62a26f&signature=6707bd2d868161732607898b269559f03692da60748bb02e8d72085311d5c7f8|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] Cricket : EUT20 Belgium : Ghent Gladiators vs Akcel United Brussels vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : EUT20 Belgium : Ghent Gladiators vs Akcel United Brussels vs  (Viaplay Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=11f9bc6c03a9c8c115a72f7b54f93c362c4c81bc71ccf7f87f6253badd15c048.1781093720.46b468c922710104b4aec39139f15d2c.ef1f6bfbede9ad0dd9a95b44a0fdd9b3.6491989e6d4ffd494032f533e2b65393&signature=afa6d7564114e0a1c8801584d8d6bf7bd253dbf8aa6162a1fb2e14b381d7700f|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] Cricket : EUT20 Belgium : Ghent Gladiators vs Akcel United Brussels vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : EUT20 Belgium : Ghent Gladiators vs Akcel United Brussels vs  (Premier Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=7f53e91e7626f0a2e7bf761d65172a38363b58e2d7a793ee32c1460d3a63a6aa.1781093721.accdd06b64d43b1e252198b6dc09ce18.845de430968fee9ff2194c0cfdaa7f1f.c793d7ba87d70fa384f96c3849e8d307&signature=4372da61946bab8501f993ba784082139ee06a144730c4d14e94a8217422a3f5|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=45282f40ad79d886e48c07ddaba401e05b6b586005eec1594d286d2c8628210d.1781107837.27b9166728e9b6f529f7f6f1720d2157.7f4c469a6a9122d173ac848e9d203014.132bebddce347adaa3a806cd14c08ac5&signature=9d54e6d52bcd5721dc3f7bed7951520b991913d8a8ef050d74de57398cd551a1|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] T20 World Cup Women : England W vs India W vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : England W vs India W vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=f62b32ee1af09e1a05ef0217209b6777d17e3b4811c227fb6e986d903a517691.1781093722.ee85f76669d1b9684029b41962b9834c.58162d755b1f43f310543cf4dc94b146.0d11d98f40c2305c1b580b346ca45b08&signature=a2b875b2384f2f4dc004ca073411342704a5180c8893e823c6aedeb260c74119|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=da21d1b2c8d50b5111205931eebe464ffd933409ed2672d670adbbce864f80d9.1781107837.1a4b8d9c06f600698192ccf312ce1612.2ab3c32cb12aebbf8cf64fcb806d9e1a.fe70d0a58647e7674c22b5b3e52822b3&signature=c853b60c13b9ea2aebd084037c0002478348ecc81e10180a31acbfd83e094980|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] T20 World Cup Women : England W vs India W vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : England W vs India W vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=3ca5f0aed0504d375bcd17d86e612918c1dddafca4b57cc9afdd7d3d2c049620.1781093723.8435450ba1a34cc2b5ee199c79d7ee15.d8b42bd142d2c876708de73e70cf639d.e96e94c6e10ca20f278d77373a564cb4&signature=9c43af6940a79537b0e5c5a15bf683acb6a45e02daa52c99b3669f74d9a3f08e|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=b2fde890adf906550bc1a99269e7bb0155379ce0d92c3c8626eb8b06fed3e95d.1781107838.7a9c9fa805c55b2beea472851e139094.e3c43b4c925d0227c5a559a7bd8ba4f4.cdb631e8948e85a3d399b0d7c88c10dc&signature=3f18aeb6a696cae72f9790ca86048410fa35a70b166f26bf52d453bbd5b8f96f|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] T20 World Cup Women : England W vs India W vs  (Sky Sports Mix)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : England W vs India W vs  (Sky Sports Mix)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-mix/playlist.m3u8?token=fdfd462e507bd04c4c08f60befa2ede3d84723e9765d402adf3f6fb5890c0814.1781093724.b35336689f806fb665489827237ab80e.1ead39eb61fb0d87c37a4c4ef6209d00.cdbfab814ed28b608415b42d6b6f6c9a&signature=eb147612effacf45ce7cc5b63c71fddab49e727ec31e9e07c6970c0f60f8c1c1|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-mix/playlist.m3u8?token=c5ec99068cc4c5c56b1c41ca512f068038972c6034f2da41b4960ce01e0b986d.1781107838.f86fa68edf2ab929c8b34d42adcb1ecf.7a9b0e0454874470975fb07681db9f38.53df63e24352adbe87d4e3ba7e3c8fd6&signature=9fc9fe6d61abbefb63f17470351ca0971c6bfe2370eb08006dfa3602c46d9ca7|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] Cricket : EUT20 Belgium : Antwerp Anchors v Liege Red Lions vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : EUT20 Belgium : Antwerp Anchors v Liege Red Lions vs  (Viaplay Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=1f66d7d93769f3c17e9665d408dcf7120e2924a4c29cb5d220ce7336e03df38a.1781093725.f28bb1a47ff128c4b18694a804242dc5.5d708c003455d5ed71306137e4fe4d11.5db92f1214847691fe4f399f7403e311&signature=19b70e57186b750e9da92124143b10e4c3e41c274ea2082fc646948f6194e15c|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=c5d9de4775a5acddefdf1e64b22361be2fb58e3e8655eed41e167d4a28704405.1781107839.72ad5061a687a36183879b3bc6dba49f.29433f58789db87260f11037b01e3b0c.1fa959a524b2d3228110795519bfa873&signature=a323ff791b84393c0f405c25f3613ffc24eacf2c5d30e708329488e6b4192b49|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] Cricket : EUT20 Belgium : Antwerp Anchors v Liege Red Lions vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : EUT20 Belgium : Antwerp Anchors v Liege Red Lions vs  (Premier Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=313c2174d0205cd6c5211373603f632e189199142b2c043377a128ce781ace31.1781093727.8aad08b7306d48bff40b08734bbaf1bc.174e21726f08e197f5176ca101b465f5.8a7601ea57a30c0b6d6e37f8fd498e3d&signature=8c273d4a9177257743575c979660ff667e7a65069b28dc7b845b79529d0da1d7|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=842d1b0f36254b8b3a797b0ff5ec7d88ee5475540e5487d048ef25be771a973f.1781107839.0302724c3a1e16e8ef620178f43ef48c.6cae6bc70086fd484d7c2e08a6010190.0e5526d4e58062e29d12675148fc695c&signature=d1bb0f0a7043390e4c91e0f0a7caa9064bb0cb84c7505f3e39bf8e61d07ca4fa|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] T20 World Cup Women : Australia W vs West Indies W vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : Australia W vs West Indies W vs  (Willow Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=792245b0b1b11578c0b5f2e59a2d670cca42c885375cf186822f28515b6c5bc0.1781107840.e39edcd57b21b64ab89f930a1e96d99f.58ff95c3f80a412dc1b41934013f942d.fde0cdce88e7dbb516153b6dc2c7f8e9&signature=52299dc3c8b412ddfbdfa4afa58ecea205303f23b1126cd8c9fae601c1f6540a|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] T20 World Cup Women : Australia W vs West Indies W vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : Australia W vs West Indies W vs  (Sky Sports Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=aec8f2e412bcd09f726efe06d9004b27775cf8ee39f21537ebc74f2a40b30633.1781107840.9812c9fd88c03c114d9b41fcab66189a.c6ca38ff487414cf512521d454e52d60.8fee38bf221b0a88593988cb5e64dfa8&signature=064c1d521749b93d47cab6b4756a2099cfc63f832d88c0316abcefca100bef07|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] T20 World Cup Women : Australia W vs West Indies W vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : Australia W vs West Indies W vs  (Sky Sports Main Event)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=e43f9fb40dfe5aa461ec7d9e0ee73569671252c4425ca38db418d4b1498b9cb2.1781107841.105e52c17ad31b7f6fb3c69b2e425bb3.61901daf06f43294a75acf8a8a38754d.d5118c9a35ac1641b74471b07fc620d3&signature=3f876b8f34af81de9f59f734b1dc9921a754a614697e613d04c03570820ec306|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] T20 World Cup Women : Australia W vs West Indies W vs  (Sky Sports Mix)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : Australia W vs West Indies W vs  (Sky Sports Mix)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-mix/playlist.m3u8?token=9728240fbb3b583686ac1ab37aed07ae34c685c3fb10c1bba00197b2ac107a01.1781107842.b347ac3b494246c106bcbb458f3aac63.ca1c69e00c49e1132ff381fb7483b8e0.722be3832221a8b885642da594531ce5&signature=a604eebb96fd51663cb07b7fde37b950c795159fdec12ebcea0280fa3a518e7e|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="18" tvg-id="Cricket.18" tvg-name="[Cricket] Cricket : EUT20 Belgium Qualifier : TBC vs TBC vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : EUT20 Belgium Qualifier : TBC vs TBC vs  (Viaplay Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=c32e7d8d0821c57167118a646c3cfb8ae1f046fef3bf90c327e82b0129fb7344.1781107842.1dc58e9107edf5ddc185928df52ab2d8.beb496de656ade01c91363ac0cbca775.86ae42bae3d3e42bb8613abceba9aabb&signature=827ef86944e93b8e415de8d619f47b8875e0657958ef63d34c7bc4da3f2cbb10|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="19" tvg-id="Cricket.19" tvg-name="[Cricket] Cricket : EUT20 Belgium Qualifier : TBC vs TBC vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : EUT20 Belgium Qualifier : TBC vs TBC vs  (Premier Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=7679c25bafe5e0d50748c811cf82194b74a6312760266d67c690b9e84b228aa0.1781107843.95f4acafe593bbf6851aad90dbd6422b.0a63e0a0c81a71ed3e26cc11cc057973.4771536c489f0505c45b3a9e921a2631&signature=5fce338a40614afd618db338858abf2de842f381a25ea32bdb719b3012eb3e4c|x-forwarded-for:77.238.79.111
 
