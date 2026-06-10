@@ -1,115 +1,223 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Cricket.1" tvg-name="[Cricket] T20 World Cup Women : England W vs India W vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : England W vs India W vs  (Sky Sports Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Örebro vs GIF Sundsvall (TV4 Football)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Örebro vs GIF Sundsvall (TV4 Football)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+football&code=se&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+football&code=se&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=9b43f3abde20c3a842976b3518d7a586b3cd473a035936bdd19db49f2bd533b1.1781107813.8ad7b56839156820568cc6012ad8513a.4b48ae8c21fb2c0962110ce57615d4a7.28be234e0eb66fcaca2ee74ed137b532&signature=89e662126ca1d50e8ca5be18a9867c234c8da1f6604b0d2c0ee8e1c3c5de9383|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/se-tv4-football/playlist.m3u8?token=ba8261171b8b3fa80a239edab175c1eefc3c76c062dd117bbb9e1cb633440242.1781117039.a7117abc2606090dbb8ee8ff6b490742.8210657d90d0c872a4e162d32eb3ac2a.5cbe6c89563187faa9ce16bd53e32dd9&signature=f2855fcd7c01284e64a2ac12acc2ee6c374f4038ba9b94c92e5e2e7b3cbc868b|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] T20 World Cup Women : England W vs India W vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : England W vs India W vs  (Sky Sports Main Event)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Málaga vs Las Palmas (ESPN Deportes)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2830.png" group-title="Soccer",[Soccer] Málaga vs Las Palmas (ESPN Deportes)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+deportes&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+deportes&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=65b3eca4664d3bd2a81c78d80d8a43821bb6ca7dccbd04c6f2e7db4a27dae562.1781107814.542877e5e42545612841385278554ade.c443acc2ed4c8b2426a4b6ac24d0be5e.e90af51eb7d8c7231f687b8f23367b91&signature=e25e222677640d0920c127d73b878a822add2bd66d9a9e73db08d72a11cb8b6a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-espn-deportes/playlist.m3u8?token=04334623576590a0fe32f73e02dc663bbcce775a0eb5a62207458cb9daf4d839.1781117040.5fbdcfd8eabde7f4f7f7401c15cc63af.cc57380e83248eec1f41e33e8bfe7d14.8c047e08260296460f3c917619c9b3fc&signature=60e8ca54f44db90fd3b6bb961ae7b30063d66018511d876d314fc6efe0a057fa|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] T20 World Cup Women : England W vs India W vs  (Sky Sports Mix)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : England W vs India W vs  (Sky Sports Mix)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Málaga vs Las Palmas (beIN SPORTS 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2830.png" group-title="Soccer",[Soccer] Málaga vs Las Palmas (beIN SPORTS 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-mix/playlist.m3u8?token=43ba765cbbecfab871bf0608e225d1464367918b4875a83cb609a52cd3ddcc91.1781107816.7dbe3380e696ff034346beb86cd48dda.97d967fca05bc359750fe8e81eec1b7e.49a4ffe6d096597227ddeb90126a24b3&signature=dd0a17c01e00fcebf45a80c36d3aaf30bb5787b067a64bc99d2773a4800ecc3f|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-1/playlist.m3u8?token=dec1f7aed6c6b4f85d6276befa69fa5a125561a13441c5e51c10cf364e060bb9.1781117041.b0e74c644165e043e456b53e55aa4e70.90222c0fbf5a03a99e20830b582130b0.debb10be3d5d0fce537820ad58a9ec50&signature=d730cd28c050cc7fd37550dcf6bbb1459dc345087d39fe08fd247f207602f1ee|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] T20 World Cup Women : Australia W vs West Indies W vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : Australia W vs West Indies W vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Málaga vs Las Palmas (beIN SPORTS MENA 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2830.png" group-title="Soccer",[Soccer] Málaga vs Las Palmas (beIN SPORTS MENA 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-mena-1/playlist.m3u8?token=f06f220775666023abe9b1d289aba23bab85c1e46b5e5b1175d7cfada74a755c.1781117041.28f050e83ae2f6b0a90e7c799a5c4509.8009c8062e6e2bce58f43ebed591fd67.646891878ddc88a978f08400b668bf58&signature=92887fd312cfcaba4c353865c039fb1a2a60b009120f71df7bba250bfb367f6c|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Málaga vs Las Palmas (Viaplay Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2830.png" group-title="Soccer",[Soccer] Málaga vs Las Palmas (Viaplay Sports 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-1/playlist.m3u8?token=dcfff898231f0b1565f595572b1598c41dd07b859e0023741488dfb48654647b.1781117042.205fd7ff19392815b1714ec5165f9fb0.e33c46675d836cc02116e1b03109726f.faeec1e213edff2f129586e84f2937da&signature=bb91106396dde4a6a14fa9dbb09d373242c531bf9a0afce81107eab64b7bba34|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Málaga vs Las Palmas (Premier Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2830.png" group-title="Soccer",[Soccer] Málaga vs Las Palmas (Premier Sports 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+1&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+1&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-1/playlist.m3u8?token=d4aec9d7584bbd594e07ef777852990ac89ead024e6f204d42e51bd899ca42a9.1781117042.aaae831e4e87f8d3bec7540fd42be531.3266045adf5bdb8863a0be9ffbea9a10.7255e07934224a4e72ed72a187f92977&signature=acaf016fb4ca20bd58c3b16e30b5b2b6a59eb775982614e8b22fa566cd4c0b89|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Málaga vs Las Palmas (beIN SPORTS MAX 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2830.png" group-title="Soccer",[Soccer] Málaga vs Las Palmas (beIN SPORTS MAX 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+4&code=fr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+4&code=fr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/fr-bein-sports-max-4/playlist.m3u8?token=f625082fd117b3711dc9ac5bea9a0464e558a3962154946dad1790425add72e7.1781117043.81fb2b298a670cb445f20b05f2ade5b9.4646cd0f748aa560a044b40794461ccd.e2bfd2c8990397fae774c7c72f4ddd45&signature=ee1732b452c7a40e4f9f9945aa0aae183a9f1d43f47b3087b35416556039de44|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Málaga vs Las Palmas (LaLiga TV Hypermotion 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2830.png" group-title="Soccer",[Soccer] Málaga vs Las Palmas (LaLiga TV Hypermotion 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=laliga+tv+hypermotion+1&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=laliga+tv+hypermotion+1&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/es-laliga-tv-hypermotion-1/playlist.m3u8?token=fac1a3e3bdada64d189f3b28537e6151e59b974fc8794a0ef31cee8465c11931.1781117043.a5816f4bcb6ef6aca35ea8af0c705a73.321d1dfcfab4d8c07141561212143b86.8a052f6e947eed525da13e50aef0172c&signature=f89d14c64170050536c9e82d74ca493f81b8bab27c27e8874aa17aabb4126117|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Málaga vs Las Palmas (DAZN 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2830.png" group-title="Soccer",[Soccer] Málaga vs Las Palmas (DAZN 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/pt-dazn-1/playlist.m3u8?token=48302fa10eb013cdc84edea60044f317c2c53d078c0158a77849fb8a93edf757.1781117044.f6ec2b4978ede5882739de2653f24f24.4ccc6b3a71e249d9eba11b7851340174.1a903f8c5b560e4934cbeecd01a646e9&signature=dca2e8b662526c15635aefb29ad6399971bc4f8d05a228c0e1ec20a7b0a3e4ac|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Málaga vs Las Palmas (Nova Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2830.png" group-title="Soccer",[Soccer] Málaga vs Las Palmas (Nova Sports 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+1&code=gr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+1&code=gr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gr-nova-sports-1/playlist.m3u8?token=60721c19666443ef0fdb8a22a1019300d855147810b48007a7169a0e1f3099e5.1781117044.ede25bb0586f217b48546c8b70bf339f.bf461dc61c5e70db3a1a91f83320edaf.cb405e98e9e36df687273b892e59c539&signature=fa5ee603f4bf2d26ed85cab538a3b819923febe317f20d0821bec786a8844b39|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Málaga vs Las Palmas (Canal Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2830.png" group-title="Soccer",[Soccer] Málaga vs Las Palmas (Canal Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+1&code=pl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+1&code=pl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/pl-canal-sport-1/playlist.m3u8?token=7423add86075d57bcc962d38820d6df543e6fde3bf6beec6241c51e92f9be6a8.1781117045.c8cb4d356ceaaf355c54b7084fb11734.3f731a3e0ebf0c3d7c690a1269708024.67174b6dde9cd5d4e7119c4f3f878125&signature=96e0ef25c7aea19ed04f13c88515bff9c60036c6c59f9e86cd57c95722168c07|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Málaga vs Las Palmas (Diema Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2830.png" group-title="Soccer",[Soccer] Málaga vs Las Palmas (Diema Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+2&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+2&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/bg-diema-sport-2/playlist.m3u8?token=f5a035aa90166aea1b357ee9a9007c49f7a155ceb5c37acb11df27580a00b5ec.1781117045.75a5707d3e2f7b75110e1af1c6f4d899.62d64c46d9a03c9dbe3a836c80bbd78f.0e27d73e5341c2ad17dd8b948ce1b60e&signature=7b40893bfeff49163afd4693b52f58c5565345555478ca2df401015a303db613|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Málaga vs Las Palmas (Cytavision Sports 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2830.png" group-title="Soccer",[Soccer] Málaga vs Las Palmas (Cytavision Sports 7)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+7&code=cy&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+7&code=cy&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/cy-cytavision-sports-7/playlist.m3u8?token=1cff9a4edec05559dc74d4c1f2cfa48910e7c94082e6713987b3045ca0893783.1781117046.2ec339327c37d80e0b54136b9742d462.64b6288084ad3aa29279e6c1bbf77e34.c1a2020feac85e56fca5bf994b6b8698&signature=caede077b9292571a126f8d0f6b947d186883028d469d250228df1485ee02e66|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] Málaga vs Las Palmas (Arena Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2830.png" group-title="Soccer",[Soccer] Málaga vs Las Palmas (Arena Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+2&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+2&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-sport-2/playlist.m3u8?token=76839bcb38cdee0220bdbb89398668e38c6ecdcc26315ecdd18b2d2c8e3bea74.1781117046.55286c7e4dda4a3a6a1a2824f627e58b.d8cffc5fe49b014259333b7abbbc19cc.45ea8aafcd68c6d18c8ce4204622b2ba&signature=23ed7fc1af9de01e5afe5f8f834c170d4c79f904113f94cb96648428493e0179|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] Málaga vs Las Palmas (Arena Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2830.png" group-title="Soccer",[Soccer] Málaga vs Las Palmas (Arena Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/hr-arena-sport-1/playlist.m3u8?token=4fcb4ae9500a69c7fc55849268f74ca16cfa13049bda41620a0899eeed313885.1781117047.dc6aaa7c5ebd274e56e99b3209f24325.4e571970f312491fd4eb4ab294b98029.3b518a247c93ed9c88dfcb2f3db0d041&signature=ef076e299c41ba106fa1cb451074abedce2c88388582532704a5a93ffc82c5d7|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.16" tvg-name="[Soccer] Málaga vs Las Palmas (Nova Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2830.png" group-title="Soccer",[Soccer] Málaga vs Las Palmas (Nova Sport 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sport+3&code=cz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sport+3&code=cz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/cz-nova-sport-3/playlist.m3u8?token=1d9e91602e6f0dda7a20b063fe1b1fb556aa3aa670e88cc9eeb79b804a391db4.1781117047.dcc5c011dc7dbaaddd804809fe0b2b1d.cbfb25b7c090186d5b386b7e1a1df189.cb2c5a9e3459ef027356739292a2a65d&signature=0a28b67108f41e31f6382c775fac115695d53bdc7841a6275ae4980aad87f565|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="17" tvg-id="Soccer.17" tvg-name="[Soccer] Málaga vs Las Palmas (TV4 Sportkanalen)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2830.png" group-title="Soccer",[Soccer] Málaga vs Las Palmas (TV4 Sportkanalen)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+sportkanalen&code=se&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+sportkanalen&code=se&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/se-tv4-sportkanalen/playlist.m3u8?token=5e88d21065bcb5bbad5a7396686e1cb8d5bfbfd8df747e5670d995356a6e651b.1781117048.f18218008a7535404bc6c11198d91179.b922d86677ae40c2854c229f95052db3.211b561e1e515c3f5c53b2490663f8cf&signature=48ad00c777d1dae8dfcaac4e339a1725c3d5461ca4393d51062a66f5f50291f5|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="18" tvg-id="Soccer.18" tvg-name="[Soccer] Málaga vs Las Palmas (ESPN 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2830.png" group-title="Soccer",[Soccer] Málaga vs Las Palmas (ESPN 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ar-espn-2/playlist.m3u8?token=7a2748896b6340a169e6faf62b2ed301152aaa512c4747caf6c41b5c3c4d406e.1781117048.06db35a81635614e70cebdc15fb889f1.c5d80d0c4aab81069194883fa7292f4f.3b8540e91c7728ceeca441ffadbb7b16&signature=2aa3afb9d75226bb3c7e7f36af842d942fc32e159b8d1d66021671462d143b66|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="19" tvg-id="Soccer.19" tvg-name="[Soccer] Málaga vs Las Palmas (Digi Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2830.png" group-title="Soccer",[Soccer] Málaga vs Las Palmas (Digi Sport 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+4&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+4&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-4/playlist.m3u8?token=5e7c0005fb3fcdc6264cfd3412e6569d606596cfabdfa71aee8f25dbc19c1369.1781117049.8d40ca9769252595fb16e6b02c09d2ed.9d57b61fb269f59b03f81f80fb8452f5.8d6cc31b9524fbaee64ab75d8d398dab&signature=5ebb3baf71811db62c289ceb4fc5df27c939b2f32bc0b73efee875809094e6e1|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="20" tvg-id="Soccer.20" tvg-name="[Soccer] Málaga vs Las Palmas (Prima Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2830.png" group-title="Soccer",[Soccer] Málaga vs Las Palmas (Prima Sport 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+3&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+3&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-3/playlist.m3u8?token=b9621d2398242bf2c1099d945b26b848cf06649a662bfa6a70b102ea1f1bcf3e.1781117049.fe101e7a03a9cd811b98d21c38bf7f87.3ebdfa37a7ecc6f592dd1edc79ac8027.b8b474419e359f90b260fe162c90f2a1&signature=f57ce7047674729775433e932be992a319c1d2fc1315b9220ca6403aa64d30c5|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="21" tvg-id="Soccer.21" tvg-name="[Soccer] Málaga vs Las Palmas (beIN SPORTS 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2830.png" group-title="Soccer",[Soccer] Málaga vs Las Palmas (beIN SPORTS 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=sa&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=sa&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-3/playlist.m3u8?token=0c9d4502678d2dc4885d28bcbbf53e22d461fa8c6d35a41e1c895c91018d04f6.1781117049.645bfda9b146f8dbdbc30482b84f0754.afeca93036b0b374c1483474a36b67f8.fc6096296ec02cd8dea42a4f0af13294&signature=c86724a32e1db001cf8e2075e3508c23465823a9549b8b60d9bffb260ad7157c|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="22" tvg-id="Cricket.22" tvg-name="[Cricket] Cricket : EUT20 Belgium : Antwerp Anchors v Liege Red Lions vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : EUT20 Belgium : Antwerp Anchors v Liege Red Lions vs  (Viaplay Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=32f3563269eacb1e4735a3729977edc09a4857b10350bb4f32521e720909d21b.1781117050.32c1b467cc0f223a8a88b46a4203d6ac.94c4e304b9f7b9f9598021ca603a5f69.9a1422fe8d02bb1c4743b8de0f330e1f&signature=9b810e80528f807cb5af58e8de93cd4b35ee5d9329521a31903a53a65d18fbe9|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="23" tvg-id="Cricket.23" tvg-name="[Cricket] Cricket : EUT20 Belgium : Antwerp Anchors v Liege Red Lions vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : EUT20 Belgium : Antwerp Anchors v Liege Red Lions vs  (Premier Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=1d6791db367382ef605c5369062b1e1dfcab2d0669924919fa5986e3cdadd243.1781117051.9ca0587697bf44ffda5e4d6ab848ba72.216dc5cb1ac64556c5290b4002f53f98.9edb85bdd51ccfb3aca3e48d90d6984d&signature=5b3f550137262c0e0afeffafd1220c41e7ba5a326a9354070f6032f5d03981fc|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="24" tvg-id="Cricket.24" tvg-name="[Cricket] T20 World Cup Women : Australia W vs West Indies W vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : Australia W vs West Indies W vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=b9e8901c3d733253d264f6d77e51a2e4ced41096639f3b1946bb0b7eb4327763.1781107828.ffc886ae0abf1fb3fd81bfc50631024c.0cf27950f1f73cdf588d14c053e74898.09e52d0febe9b7c609ffd7f77bc0c145&signature=5f39c256ebe06f9f7ec538a8b960cd1c6fcd55aa711e3c0f2eb265a58db0c370|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=2f11e87969f0dc3fbe7660ed42f60f1b0a988c63ec087ae5088dd75fd79f5abb.1781117051.0aaee8d5a1082c337a951965bd71aa58.4f1b57b49ec210e07a1d5a569bfc7cb6.0dd5781060d93ca39dba89bb24b5f2d9&signature=584ed31955c88ca989e68a3c1c80371eb9d8c1c64bc94eddb0af72ca9f55c7c0|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] T20 World Cup Women : Australia W vs West Indies W vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : Australia W vs West Indies W vs  (Sky Sports Main Event)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=26e8da925fb70da0f0209d404ad40f74dbfe36bc8daa787785b5a2ee5f2fe0d2.1781107835.baa0f818fe180f96bd7409d263030c01.dec12952314075aaa2559b575d14c0b4.e9c34d9ed3a884c72001b43dc6a7eda7&signature=5b941a0c4a7aedb567490116a7f40d9dcb64c179100d49ceea4486258fca5556|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] T20 World Cup Women : Australia W vs West Indies W vs  (Sky Sports Mix)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : Australia W vs West Indies W vs  (Sky Sports Mix)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-mix/playlist.m3u8?token=66d91d9d0be0dbd4a706089c81937e91517904da51d4c3e1846f37a7918dd34f.1781107836.f670512341403f1359f9f1cadde5d5a1.f4dbf80eedf1eef68e3121237b74339e.34a081bea706fd1c84e58b37ca704a6a&signature=ade6c6a17dc084f1d513943d9cdfab0da86e72692217d308624099c3c5f3f8f2|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] Cricket : EUT20 Belgium Qualifier : TBC vs TBC vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : EUT20 Belgium Qualifier : TBC vs TBC vs  (Viaplay Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=bf4b9d27fcd80eaf76af53f7aada400d56fe8716bbe8b7e70baf7ae813235e93.1781107836.e574c58f05650590be9dc5ba0e0728e9.f6745608af8bdde524e0bb5a8da693ae.babb0b48d4ca6093723cc364a705c840&signature=b24a1cad2945439c41cab00a389bd0b6c8d50d8947dbd12030cf523c97982ba0|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] Cricket : EUT20 Belgium Qualifier : TBC vs TBC vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : EUT20 Belgium Qualifier : TBC vs TBC vs  (Premier Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=45282f40ad79d886e48c07ddaba401e05b6b586005eec1594d286d2c8628210d.1781107837.27b9166728e9b6f529f7f6f1720d2157.7f4c469a6a9122d173ac848e9d203014.132bebddce347adaa3a806cd14c08ac5&signature=9d54e6d52bcd5721dc3f7bed7951520b991913d8a8ef050d74de57398cd551a1|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] T20 World Cup Women : England W vs India W vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : England W vs India W vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="25" tvg-id="Cricket.25" tvg-name="[Cricket] T20 World Cup Women : Australia W vs West Indies W vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : Australia W vs West Indies W vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=da21d1b2c8d50b5111205931eebe464ffd933409ed2672d670adbbce864f80d9.1781107837.1a4b8d9c06f600698192ccf312ce1612.2ab3c32cb12aebbf8cf64fcb806d9e1a.fe70d0a58647e7674c22b5b3e52822b3&signature=c853b60c13b9ea2aebd084037c0002478348ecc81e10180a31acbfd83e094980|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=49f3ac85e08670becd683a52c98c82ebc63ac31a83d1f892efe21c5b5d6707be.1781117052.f123866eded956bec272a69196439cd4.f9bf807b543beb527193f381ba4c6cb8.af2151d3052bec26287dcc36ae3efef9&signature=d4790bef3aad739100e9231b07aae4a73bdc855d929df364b843f05ec5bdbc0a|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] T20 World Cup Women : England W vs India W vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : England W vs India W vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="26" tvg-id="Cricket.26" tvg-name="[Cricket] T20 World Cup Women : Australia W vs West Indies W vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : Australia W vs West Indies W vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=b2fde890adf906550bc1a99269e7bb0155379ce0d92c3c8626eb8b06fed3e95d.1781107838.7a9c9fa805c55b2beea472851e139094.e3c43b4c925d0227c5a559a7bd8ba4f4.cdb631e8948e85a3d399b0d7c88c10dc&signature=3f18aeb6a696cae72f9790ca86048410fa35a70b166f26bf52d453bbd5b8f96f|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=0aede39a38d09105c2d8ff078cb6270f105f7be7f694f83e86740fc06714ca40.1781117052.2904a3fb2692044d718ed09cc7dbee68.cc8dfd412bf8daffebf887721c2e239f.92d7b7f1390415fd593d3460aae53373&signature=a511f4b1e5eec990b276696c9bb91999cfec4316b65acdfff7a5c32ed3e6a4a9|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] T20 World Cup Women : England W vs India W vs  (Sky Sports Mix)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : England W vs India W vs  (Sky Sports Mix)
+#EXTINF:-1 tvg-chno="27" tvg-id="Cricket.27" tvg-name="[Cricket] T20 World Cup Women : Australia W vs West Indies W vs  (Sky Sports Mix)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : Australia W vs West Indies W vs  (Sky Sports Mix)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-mix/playlist.m3u8?token=c5ec99068cc4c5c56b1c41ca512f068038972c6034f2da41b4960ce01e0b986d.1781107838.f86fa68edf2ab929c8b34d42adcb1ecf.7a9b0e0454874470975fb07681db9f38.53df63e24352adbe87d4e3ba7e3c8fd6&signature=9fc9fe6d61abbefb63f17470351ca0971c6bfe2370eb08006dfa3602c46d9ca7|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-mix/playlist.m3u8?token=df3f350e7e82a12dda1dc3ccfec4b5391efde7a591b79ff8e7ea286c217f0e7a.1781117052.a8f35231cc129dc514a06c6604dfe113.63d1235d8eda694697e23632c5df9a1f.c20740f56ab26a1c633bc05e9a256224&signature=3bec4bfad8380443fdc770f4a183553a42c53681a9f3e66746e4f15d4329ce4e|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] Cricket : EUT20 Belgium : Antwerp Anchors v Liege Red Lions vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : EUT20 Belgium : Antwerp Anchors v Liege Red Lions vs  (Viaplay Sports 2)
+#EXTINF:-1 tvg-chno="28" tvg-id="Cricket.28" tvg-name="[Cricket] Cricket : EUT20 Belgium Qualifier : TBC vs TBC vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : EUT20 Belgium Qualifier : TBC vs TBC vs  (Viaplay Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=c5d9de4775a5acddefdf1e64b22361be2fb58e3e8655eed41e167d4a28704405.1781107839.72ad5061a687a36183879b3bc6dba49f.29433f58789db87260f11037b01e3b0c.1fa959a524b2d3228110795519bfa873&signature=a323ff791b84393c0f405c25f3613ffc24eacf2c5d30e708329488e6b4192b49|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=fdb1aa7fd9e38cd12cf44b284e3d72e896a74c7ae28a2edcc73a4c988ebe0adb.1781117053.382a5db7cadcd2c7bc4a23bd7fe71d8f.f0d3232fc75c99aae27d25e523efbdff.9fdd6191f8e510eb0da75b54c2d069a1&signature=76b614db3eebc5920ade26810821108fb5d84d7340c30c9e8a7f45e8ed544e62|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] Cricket : EUT20 Belgium : Antwerp Anchors v Liege Red Lions vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : EUT20 Belgium : Antwerp Anchors v Liege Red Lions vs  (Premier Sports 2)
+#EXTINF:-1 tvg-chno="29" tvg-id="Cricket.29" tvg-name="[Cricket] Cricket : EUT20 Belgium Qualifier : TBC vs TBC vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : EUT20 Belgium Qualifier : TBC vs TBC vs  (Premier Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=842d1b0f36254b8b3a797b0ff5ec7d88ee5475540e5487d048ef25be771a973f.1781107839.0302724c3a1e16e8ef620178f43ef48c.6cae6bc70086fd484d7c2e08a6010190.0e5526d4e58062e29d12675148fc695c&signature=d1bb0f0a7043390e4c91e0f0a7caa9064bb0cb84c7505f3e39bf8e61d07ca4fa|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=207a8dc74b89901f0453bc28383bc3e2bd9c91669b94d9da539af5170877406a.1781117053.9c86f0a642780092923c5a48d7709be7.5684a1dd3c35176414b25282d109f427.b8676e54dcfd31571896059d416cbeee&signature=0ee34ab47203bbdbaab89ce25eb7cb1dc8d3773a7d837b94e874e51b7023c917|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] T20 World Cup Women : Australia W vs West Indies W vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : Australia W vs West Indies W vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="30" tvg-id="Cricket.30" tvg-name="[Cricket] Cricket : EUT20 Belgium : Antwerp Anchors v Liege Red Lions vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : EUT20 Belgium : Antwerp Anchors v Liege Red Lions vs  (Viaplay Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=20bb3fafc1cdb6a7371e15cf0509762c264a0d7966b75a668b365128fa5ffbbf.1781117054.82b07c1a493a58ea02bfe7221fcd12d4.edf7c05122ae7a3d35a9e061408cca1e.173cbc99033d8ab327445f46356c6c4b&signature=ac412bc60bc153b76feb51805e59495f9e4a7eaace1654706aeae1eaa4511705|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="31" tvg-id="Cricket.31" tvg-name="[Cricket] Cricket : EUT20 Belgium : Antwerp Anchors v Liege Red Lions vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : EUT20 Belgium : Antwerp Anchors v Liege Red Lions vs  (Premier Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=12fcda3a5bcb6707ee933db0ceb133658dee728261ed1d1497a1da3f8bd5fba5.1781117054.88afdc16933425f78a7db39f47294942.4837ca860c3b52eaa0e7b127b2661789.77d9e645f475e0d4a4989977d9572b02&signature=65b3d1bce2036962ef7c1bb6f0fc3b385b5610824b32bde32da391294fbdcffe|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="32" tvg-id="Cricket.32" tvg-name="[Cricket] T20 World Cup Women : Australia W vs West Indies W vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : Australia W vs West Indies W vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=792245b0b1b11578c0b5f2e59a2d670cca42c885375cf186822f28515b6c5bc0.1781107840.e39edcd57b21b64ab89f930a1e96d99f.58ff95c3f80a412dc1b41934013f942d.fde0cdce88e7dbb516153b6dc2c7f8e9&signature=52299dc3c8b412ddfbdfa4afa58ecea205303f23b1126cd8c9fae601c1f6540a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=90b75c227d7ad51e32cccf42ed1e832ed200000f1a308da6dcd4a0b1ca0af4c1.1781117055.73b74526e33503bdc005f73a6384c2b4.c4b2285e329050bfefef0b4c0e07154f.9f91e481da6eb20e00eac4eeec46dad4&signature=420910e24a25c12f0f91a86bfc6bc30d05d4a8bf88fe3657923cc099d6ea8f4a|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] T20 World Cup Women : Australia W vs West Indies W vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : Australia W vs West Indies W vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="33" tvg-id="Cricket.33" tvg-name="[Cricket] T20 World Cup Women : Australia W vs West Indies W vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : Australia W vs West Indies W vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=aec8f2e412bcd09f726efe06d9004b27775cf8ee39f21537ebc74f2a40b30633.1781107840.9812c9fd88c03c114d9b41fcab66189a.c6ca38ff487414cf512521d454e52d60.8fee38bf221b0a88593988cb5e64dfa8&signature=064c1d521749b93d47cab6b4756a2099cfc63f832d88c0316abcefca100bef07|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=387dd626ad2c5b3e49fa8b1d07ec3490648600a92ccc9bca4302523c998e8567.1781117055.1583462435225a341ea6cc6363669a64.0dfc330d3da992e27e283f6957a256e2.8143aa75d72455285543f38ff0556d07&signature=9b3a9f60036209879f72cc8f05de9c55a5a4080c0c815ae91a3c74be87dac62c|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] T20 World Cup Women : Australia W vs West Indies W vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : Australia W vs West Indies W vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="34" tvg-id="Cricket.34" tvg-name="[Cricket] T20 World Cup Women : Australia W vs West Indies W vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : Australia W vs West Indies W vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=e43f9fb40dfe5aa461ec7d9e0ee73569671252c4425ca38db418d4b1498b9cb2.1781107841.105e52c17ad31b7f6fb3c69b2e425bb3.61901daf06f43294a75acf8a8a38754d.d5118c9a35ac1641b74471b07fc620d3&signature=3f876b8f34af81de9f59f734b1dc9921a754a614697e613d04c03570820ec306|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=21f0102f1eb5be9e32046ba2c1ba13d89b5ce198fc7aa61316f62fd39c85c2f5.1781117056.d036e67dfb98a819872d6809d308768d.3dedd3274d2570cfb0a9f5e48b91f084.363046bfb0c56a60197447dffab90e40&signature=98ad4751fe533fcb71199c9daa45db55988e735471356dcef3b42c1d5ec25407|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] T20 World Cup Women : Australia W vs West Indies W vs  (Sky Sports Mix)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : Australia W vs West Indies W vs  (Sky Sports Mix)
+#EXTINF:-1 tvg-chno="35" tvg-id="Cricket.35" tvg-name="[Cricket] T20 World Cup Women : Australia W vs West Indies W vs  (Sky Sports Mix)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : Australia W vs West Indies W vs  (Sky Sports Mix)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-mix/playlist.m3u8?token=9728240fbb3b583686ac1ab37aed07ae34c685c3fb10c1bba00197b2ac107a01.1781107842.b347ac3b494246c106bcbb458f3aac63.ca1c69e00c49e1132ff381fb7483b8e0.722be3832221a8b885642da594531ce5&signature=a604eebb96fd51663cb07b7fde37b950c795159fdec12ebcea0280fa3a518e7e|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-mix/playlist.m3u8?token=bd49b4f8b3639f0906545d0e89cf3466a8e78a85fb99a59430d2866dc58623d3.1781117056.9e2f067378e21c25cac42d12e004b674.729ac3d7db4776636d68e795152d9053.fb95d96d8e1baf2491dbd0fbd9977f89&signature=83f275b8a6804a8afcc687f116c4981ae4219c716391dbecfd685885515315a3|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="18" tvg-id="Cricket.18" tvg-name="[Cricket] Cricket : EUT20 Belgium Qualifier : TBC vs TBC vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : EUT20 Belgium Qualifier : TBC vs TBC vs  (Viaplay Sports 2)
+#EXTINF:-1 tvg-chno="36" tvg-id="Cricket.36" tvg-name="[Cricket] Cricket : EUT20 Belgium Qualifier : TBC vs TBC vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : EUT20 Belgium Qualifier : TBC vs TBC vs  (Viaplay Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=c32e7d8d0821c57167118a646c3cfb8ae1f046fef3bf90c327e82b0129fb7344.1781107842.1dc58e9107edf5ddc185928df52ab2d8.beb496de656ade01c91363ac0cbca775.86ae42bae3d3e42bb8613abceba9aabb&signature=827ef86944e93b8e415de8d619f47b8875e0657958ef63d34c7bc4da3f2cbb10|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=6e25d4f7de3252205d462ea3070d364a11098ebf3c6b5438e4dd92689156d608.1781117057.9191ff65eb1d1bc8c36c62c7acdea4c2.12d1617eb39cdfb16c0e1e9248d243c2.55c01eca2e334d122fa9584bd4f06b6f&signature=3217ea9d355ab94e789d0df74fea61db5a6e2b617dc469c13b2d537a896e5804|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="19" tvg-id="Cricket.19" tvg-name="[Cricket] Cricket : EUT20 Belgium Qualifier : TBC vs TBC vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : EUT20 Belgium Qualifier : TBC vs TBC vs  (Premier Sports 2)
+#EXTINF:-1 tvg-chno="37" tvg-id="Cricket.37" tvg-name="[Cricket] Cricket : EUT20 Belgium Qualifier : TBC vs TBC vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : EUT20 Belgium Qualifier : TBC vs TBC vs  (Premier Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=7679c25bafe5e0d50748c811cf82194b74a6312760266d67c690b9e84b228aa0.1781107843.95f4acafe593bbf6851aad90dbd6422b.0a63e0a0c81a71ed3e26cc11cc057973.4771536c489f0505c45b3a9e921a2631&signature=5fce338a40614afd618db338858abf2de842f381a25ea32bdb719b3012eb3e4c|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=c365382f51a5e787a306b61c7c5a71aa0784a421602e85a6548870acf887cf0a.1781117057.cf2700addd3c919926d8750b10e8b3cc.a48305581d86d10d3b645287544f65e6.36e2a801ba86e733d463d7790f2d4d31&signature=5102599211be3996922d2baa7ddfb2d37636f3fccb2331c2bf4d311d4505aabb|x-forwarded-for:77.238.79.111
 
