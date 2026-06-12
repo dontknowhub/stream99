@@ -1,97 +1,97 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Cricket.1" tvg-name="[Cricket] Cricket : TBC vs TBC vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : TBC vs TBC vs  (Viaplay Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Audax Italiano vs La Serena (TNT Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3162.png" group-title="Soccer",[Soccer] Audax Italiano vs La Serena (TNT Sports)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=cl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=cl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=272550fa7b9cc11bd206abfbe7d3b0a526972fa001eb13fa729c9a41a0fdbd7b.1781302311.78ba90c41a96808c70d0b15a837c6c2f.1e6540924d256348359e48f1c5e9960e.cea6a47cdebddc38f64241fd2d76d364&signature=e276ab4bdf11045fd66d7f2cb51e6dad00385b287a966c0e6c1643d34a728ba5|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/cl-tnt-sports/playlist.m3u8?token=1d679dc4779a88fe829f019dfe7c6f9c985d55b4f8379a7cdeba56ab6fd3afb3.1781308427.4f35a9cffe68c1efb71f3350788687ab.5af2298ad2f9587243cfd712bbfcd63b.4f6fdb1f0b1cfcf53047546f2591237c&signature=96fef303f0d6ac33dd3056a514f75c1384fac5edae490fb6ff33379132f911df|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] Cricket : TBC vs TBC vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : TBC vs TBC vs  (Premier Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=83a079166da1f5b48132175b333b72c1f0e436080c5da4fddcc2c7279f0631ad.1781302312.a9f3ec63036624549aeaa3220d92df67.782745a30f08edcca0f1837399f7f290.e415ac24ab869e0aa10a732e293c92cc&signature=dde589cee02b5d395fb7f716bfe90035302a44b06a43820821ca926805d97172|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=661647c0f9a422dc84cac0034bda16efd1ae04029058e7138f0157e85f0ab215.1781302312.02dc7292ee9ba58390ae9e7dd7910d3a.4fec513481439147611379b9c5fe6242.09d1b45b302ab4f8ce8b64211e6cd10d&signature=0071b135918f9b5a1a90f6cdb797fb63dbcb10ce1d89e7f8891f3561246453d6|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=746437f2f004aed2e814d48a00d3fd95486b31ba8ab59fc0d80f514c5ea1062f.1781308428.1c77d004eff5e988ca89dc95c29cd089.6f82dce7b797a45fb5408615feb9e5a1.7e0066bd6a7ad941ca3807ec78bc03f7&signature=5cb2094a6be954068467df2babf77dbf5175a947e5ee015202388549e1bcc60b|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=cd37165e29036fafbffedd8f27ca6deac400ce32cfcefdbcda3323b21da40011.1781302312.708fcd5455aa275b839e1634003b47b1.3f34a1a9da9bfa2f7e60d9a79dd6854e.b8c23b04c2a1ec4bc608880fd38a2a27&signature=edfeafa53cfaf68cb3288a5911beb49387a49188584881ded69928bbe9ecb7c4|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=f551755384b4c61ad3d9746a0f1896e30a77ecf76cad48282f27e6f52876f0ab.1781308429.b3b910a78a2ac71b791b6acd21a49baf.ba0967718ff905f36d09f9db90b8d90c.9522e1df2e46e658406299294cdc36b0&signature=a6ade40bb0a8597afbd335ae395d44812327bfc61da2d9a3d4cc069366c7cd42|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=a1f5d96e62c33eb99ac4913f4570ecbc70dab55be9bd0067dbd14011b5f7024d.1781302313.69c903d42a7bac01b1182c86faa18431.fd2f3a9e63ef29858d2d5791265b44d9.03e5ed9f56659785afc385626f523a5d&signature=7d6485a19c69ae3910520b026e47d964fa675712ddf2e983bc0c7a1213489866|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=3b4dd19bc096ac95d7db0f98b1517539396d8dd9f8be954df182a6e577beb6a9.1781308429.96197c399fe06cdff1ee146d74e9aabb.565880062bdd97691b63f2a4e69686ac.759defba44f3e15ceae7c238d59aca08&signature=cf5c4ff9e6fd85d42609b8b83832c9faf7fe5f19ea78722a311513010c6697c8|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (Sky Sports Mix)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (Sky Sports Mix)
+#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (Sky Sports Mix)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (Sky Sports Mix)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-mix/playlist.m3u8?token=9f1e9274aed883d18535c4277f114e780a9f759d8ec67e6bee6f2465ae91edad.1781302313.87a07af959253d0a0ac097b016b0751d.b8c2900c5e50325655f999eee3eb8145.7c52e3523dbb5ff01f6ee3441520fad9&signature=974e979fa0baab2766d10c7f5e98e723c69f0f0481aa12e94df611d92c4d7318|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-mix/playlist.m3u8?token=5cb87d9d382071ba906577e715f26f08493d14effa1a8af67c8f06672c06a00c.1781308430.8b2567d3b01eed07855c5d88b122648a.43430eddd138c1a0a33f00f227f714ed.b088e2eb2d51e836fe0e16148da26d9d&signature=19b97a8a82e61c7fffa839bdcb41e088f8220b33b727c60edb1b4d933452a9fc|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (Sky Sport 2)
+#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (Sky Sport 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=bd6967d4cceb813ca2091ec70f5382b5d56697e8896213af79467762730667f2.1781302314.47c248cad66dec8fedcef88b7482c7eb.379db645b76fe257833a8ff331ae084d.d88f2f0013c4b297903218de68188eca&signature=3264f41e909659542a39399e6e23e461fcfffda218ff9c2564ff5cd4e8065403|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=4c85e370ed1d67486a56992277878e6769d467d43e69eae8b410a379b4e011f6.1781308430.a1e64c19b3f5d12191f39219eab620e6.a9d314f78c719b6d12e30afb2553b8a6.22bff457f7ff6e5f8fc9671571ba6f5e&signature=3ccfc4320a7f9468c0f323b19aab0070d51783564cb0cface4485c01e57cb5cb|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=2767966dd55cca343f3e954ec9ce7808c6292ed64d0f5dd887934eaf81397e88.1781302314.8a069c1616196b738f974f6cf24921ce.c636c2371a86f4df61cdb9506d40f065.6123e1b4c25dfbde020a9f9892c83644&signature=cabfc5c265d494d253a667cbf5e7f2658d29660bbf1e5a4235a87684368bae3f|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=6b45c9b39f8348bf0344e39ec3c8a78be225f4767fd824a0d568060670486da3.1781308431.76d35b5267205597341285c70cb4ac34.7aecb28ba6fb157dc5a0611ed96935a8.f1e4606c899994e3e92fe3cca4992a9a&signature=3332fa8dfa4f05157c1b92e48f081943541c6ebeec3c8d2c44dee9a6c7be53a2|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] Cricket : TBC vs TBC vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : TBC vs TBC vs  (Viaplay Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=9bd86a9315c0132683ede27b11f747264f24bb6e8f6c4c99559a8dbc7be072a0.1781302314.4d1af67fff67aa229ad5aa091add075e.3606a902263883692f647b14ac3337e2.8840231383841d3f4b38b404b7f2c96a&signature=41822939631f58edd31dfacfc3f96bf3a9034cf6c1c87b8ee3d433039739a249|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] Cricket : TBC vs TBC vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : TBC vs TBC vs  (Premier Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=490513daa12b0765ddff99f232155c8a8e158c909824096a30b78a1ad2e22ba2.1781302315.c961c006b1a73b132eca2126eeb25141.29938d5186f404b2c013545ac8a2120a.f4f5eb61d7dcbb165ccbb4c610216be2&signature=11ec6c20fa899e72161c1c4afcd8d9483e21364e050a849460c7b98b2229cbe5|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=c3a39d2ba838d06a5c322cba92caab8084a4c515f68b24a91c9a29cdaea608fd.1781302315.499e100495c51a1f07023e7c7411010a.048befad614d02ea0c957176b7e5daec.6ca8e1a16f59f52b2e4d6008d9b959dc&signature=3562c2055aca347c1ff8077a3ae530a233d1c1f9c49a2022ad38ae44e85a1d5e|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=9bd86c3a2cefd430b9a3ac4302b920426a2b16de08a69e1c01c0375bb0888540.1781308431.4511cf8f15f4d4d33a3c089a623102ac.2553eac32470e2eced3ccbd7d85881de.78fe7d2dce85263d5dd4cd8045a4b98e&signature=ab55fee45c1de10b378e039614e38da84fa0fa53c11106e2573c225774d2f4ce|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=60adc4d3ea770451fdd70c3ee1efe7d2b7a8ae999236509749c14f1d2018095d.1781302316.23268f6ca765733d67b1861f6a6d7332.1b1c616d5d45abdc6f7418d7362bb41e.ecdd410d5a3bad47bfb15d63ee6e6f3f&signature=338a2fb26947b99f975888eed2d5876009c840f317dbe3e49054d81521a37365|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=11cf70dd1dae2c93ae4898acc6d966ef0cfa3d52b2f12a8248b634d37ae90e3a.1781308431.ef865e7d30119fbf0a64bc35dabf7d56.ce0f79aa655ba9ae1cef0e120388d66a.0a92500a282f44d6b5d7eb4f9cd7058c&signature=c0acdf74da49fab12fdfbeb39b53cba118e8026954c19a3691fdc44925d72424|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=8c0965dba29cc11b01064befc0bdc2fcb684b46f01b973c63662508eeaab7b3b.1781302316.3d38b088c64975538b5169f35b57de1f.df93bb0e20019073aa9598449d0b62d1.e819eeb52573573094b8638147a3b525&signature=d8822e60eb83bb17dbc33f3c7a00aa64d53211a9ea8f84696d12dc912110ccb4|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=c072394b27f654a588d190759134128b664601d81361312f425bedc7f195a905.1781308432.95f25013f5eb225305640b0ae2a48745.4260b487313b9a989c1f9eaed4bf85a2.327c6d88c9f9ce6b456f2218faaf64da&signature=ede55c978d635ccac9937efdcee30216ac3c9331c66e878eb9b6ca02ab8dcf73|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (Sky Sports Mix)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (Sky Sports Mix)
+#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (Sky Sports Mix)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (Sky Sports Mix)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-mix/playlist.m3u8?token=7c84130e259a3b7cc8a802c537a66866618e404125072d70aa44168b49db26a6.1781302316.facdd7796b266cbb80d6283bb7b224a5.28e387abc24450e9089020d74b8b75dc.45222266cd414cc9d0caa4daeb6ee7c2&signature=d9823b206d2103c82daa60ddea4c9bef8f5b78e0d08fd6a79e1ecf6903021bea|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-mix/playlist.m3u8?token=eda173f238b886729941dac631f5be0a2eb64a8e10c977590bf2986367fcc937.1781308432.4a7dd7f63d1210fda27ed453bac3ba00.797a561ed644db6a5a221d730713921b.834b3197e08791461ac78fd68e76ab68&signature=5d46e6b64a8f2ee1d6b98c04956285440050048e17defba8ae5ce54c236e56e0|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (Sky Sport 2)
+#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (Sky Sport 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=ff3d0b6c53409abd7b581848c3c6d18ce41ffe07a535212ce56268833881619c.1781302317.35e849a82690a8976b82f527d98e276c.9fac4875991ee1c352332e879cca99eb.8abe65b8ab63bc049130b1d1cbf8daa1&signature=7d1483abd694741e7cbe3d24529059bb3ded5dbe4c8986287ce348235bd90dd9|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=00b927789700f018af030d52881a8598d0f188848cf0d5f8fa51c04e90c402b3.1781308433.c3aba29ca2223b6d11a8de30ad1cca2d.15206b281bc0518b7e47b460f1846549.4ac0a6fe90519e9d761daf2b271dc934&signature=9f10db6f4d29a89d919a466f9a2b12a1fdb762400c6439414dae5acbaf45092c|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : England vs Sri Lanka vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=26ec83bc4c756003ec6520874a2225cc51b0b2dbe01405003e46dda140a7cf53.1781302317.5710c8a1f92641d76113b1f29a4af513.7f0d3bda401ec0359cb24f61b80de1d9.387a01e6e8d369be0f7ee5504c7f252f&signature=9e67274dd6d131f8c61e38755c085da725ca784beba2aaea4a80810eda4cc1c3|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=a4c8c7f20280934a3408c05d7a93e46f0f1877b26c0d31192555ae4132f71859.1781308433.5a819a2cbbe63270988f1abf8074f4c2.18c8b10e4b118f86478fbf303fbbdc58.2674691841546519b86e2fb7df69b28d&signature=f0285ba6395d4f4fd5de98033a8d5e60aaf80e3f543a18b51d9da450069e9d53|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="14" tvg-id="WWE.14" tvg-name="[WWE] WWE Friday Night SmackDown vs  (USA Network)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="WWE",[WWE] WWE Friday Night SmackDown vs  (USA Network)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=usa+network&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=usa+network&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-usa-network/playlist.m3u8?token=e1613bb92e842cf1053bb4eb68f7188e7b84f3a6e61484c8998ee1fff480f6c9.1781308433.a694a1c683dbbab662adbf98dfeac702.d4241e8440dc63944d9da3431665f1e8.d5ce6a01d7d73f6224138462772910a3&signature=f50f4855848e4f3dda8ac88ff4cdf1c0a7aee153978d1c20dfe5f34c256c90c5|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="15" tvg-id="WWE.15" tvg-name="[WWE] WWE Friday Night SmackDown vs  (Hub Premier 6)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="WWE",[WWE] WWE Friday Night SmackDown vs  (Hub Premier 6)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+6&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+6&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-6/playlist.m3u8?token=8a2be5e1bf9ef96724f1ec235a1b793be966d2d50e304412fc944b7abdb60d5a.1781308434.9320fdc941b3ca289b110282883c8253.78244c999e15bb65ba8d536dbe56696f.16ba11b56c607931e146a4c0bec0879d&signature=01b830ed217e955f157e3eca9ecfd937502b318e7b5dd5bef117187ffbfd43ff|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="16" tvg-id="WWE.16" tvg-name="[WWE] WWE Friday Night SmackDown vs  (Sport 5 Plus)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="WWE",[WWE] WWE Friday Night SmackDown vs  (Sport 5 Plus)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+plus&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+plus&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5-plus/playlist.m3u8?token=dcc3bd6420d800e304c99bc3f54db855b37fbdbc477f3048397affffc8932140.1781308434.08e7c1d3dd07c55010ff79cdf8bd2008.56fdeeb401b53017b9e5371ac15ca194.6220cd79d168372d1225b321ac6f908f&signature=d6ed634b00066468878b4536073e867e92cde1998b0de0ba2dbc18a255c493c2|x-forwarded-for:77.238.79.111
 
