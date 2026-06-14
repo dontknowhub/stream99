@@ -1,91 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Ñublense vs Huachipato (TNT Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/7029.png" group-title="Soccer",[Soccer] Ñublense vs Huachipato (TNT Sports)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=cl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=cl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/cl-tnt-sports/playlist.m3u8?token=df113aab618f0e5dd9e208a8aa45e051452d5477dc770927746e5745e17d2e05.1781402311.d688e5b114455e8c9c96da62a8a26e3e.89e225d4d0962b928cda2df7aa16854d.02ad42d638c0c56641149e406faee7cd&signature=bdf9e632eeb0e3c0c2c51bceb3bb2854458a2105446140958a04bf1e3156b08c|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (Sky Sports Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=8c8414a226109399faaf7103e75bf731d7d7c2e760239602b510edb66500ab64.1781402312.080a334c477ef9728fcfe7054132e5f2.53b062b944b5125a43684034416af270.f545a7362df92ddb1118e26aa0848d72&signature=93a5daa830255733ff0bce9958560887707f8969f5c9f21e50686f1f83e5983e|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (Sky Sports Main Event)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=fedb59308a791d5d4abee8f8e108aa92b1759794a5678f5f438a56746bca6d00.1781402313.9d575eca3ff66830f5c5f1e876823664.3ec9cc3ca6e81a11a3a8571135504ff5.3e2fd0bdc696688088eeece967006325&signature=2c5751c71e241c7c8cebfe42448617c84b97cd16e5e6c7938593596870f23fa6|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (Sky Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=5f0bbab8d1204da5b3b802de108a522f21602b0199130acce756ed280c0da0b2.1781402313.6f67c0055ed233ccb80a327398cc5691.6cfa62e8aed5d5ed3cd9f4f565c32297.98d34448c321934244aa8e2b4a2c3ac2&signature=3ecbb9b35bc860b6679750dfcd7a887f166b3ef72623aea3ee701f8d57cc6320|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (SuperSport Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=e5a06c892033bc2cdc28b45f2df83fb4b341da0b46e2ad5f53169fbd2cb83fe6.1781402314.5934cc53ec9136044eac985cd5c597bc.28c03d7625a51f40e90389ef46802efc.992c93292d6e25597424cc140c4b802d&signature=8a46786b6ad503249d5018d83763a3a264616da27956b102c49c85f9ce434ab6|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] 2nd T20 : West Indies vs Sri Lanka vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 2nd T20 : West Indies vs Sri Lanka vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="1" tvg-id="Cricket.1" tvg-name="[Cricket] 2nd T20 : West Indies vs Sri Lanka vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 2nd T20 : West Indies vs Sri Lanka vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=262ea847bc2880d7112b989d43189b64fdb296ce81e769131b84e30aa8ad8af5.1781402314.24bb60627ab2e8084962c9e67fd8e103.8d1f67c8cd75da7e993e7b2b80f7910d.a1a1d0eeb69ee4fcec78169241a42ed2&signature=cd4aad9c7af72776154cbc35d84e5cb43b8f095406bec3db8447d6c8c645d711|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=4b1ca617838e7ba2d3af6634516b7a3b76fa19d76b0cb928d47e066b7c693f7a.1781419245.68661400a2e5fb5ec043916b7d9d9c1e.cbf6a35ae35cc2a4b5e6fc332aad13bc.1cb36402592e6e6eb8cdff7bdbfe2541&signature=a2dfeffca199a98b8a299e67bce39accaaa0b1874c2adfdc3d0e49a1f654e03e|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] 2nd T20 : West Indies vs Sri Lanka vs  (TNT Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 2nd T20 : West Indies vs Sri Lanka vs  (TNT Sports 1)
+#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] 2nd T20 : West Indies vs Sri Lanka vs  (TNT Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 2nd T20 : West Indies vs Sri Lanka vs  (TNT Sports 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-1/playlist.m3u8?token=81676efe906094287b8e5c058134f0c2238f61e59fb40e5e763ed035901774dd.1781402315.6d17bbc44e9a7246f590c2c45b7026c2.1ea8975806677b92a23b961a12b89834.0c4d614c7b48c837a978034e052eeea5&signature=7c1ae244c5a91d4371a5b55d8c31e41093caa7a73150b808df7f1882851776ad|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-1/playlist.m3u8?token=686c5bad7cf6f17e793126e8e440dd4e8a43496dd09bc6b1829211ef1e7bf625.1781419246.8f551082e97847fd54c21cf027e0ee41.19bd2cb9a18fe81e24f7ad6c12adb244.6fedf33c27b774f960e0e69e72cd9524&signature=17389991c18b67c81db9f1805f066bbebaa94908b10a6d2ffcb76b46523df994|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] 2nd T20 : West Indies vs Sri Lanka vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 2nd T20 : West Indies vs Sri Lanka vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] 2nd T20 : West Indies vs Sri Lanka vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 2nd T20 : West Indies vs Sri Lanka vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=525d5a26c269904b362e8f8a487d31c4bda59c1a1bd3ba4bac602603b7a33fa0.1781402315.cd39db94b9611821cfb92fc238fe7bbe.eac459f9667cc738b7f64741e3d06767.5de21cfcca4c037ff6cfd0e170c18f64&signature=f465bd0561c2237d88aa06f7137ad6ad231fb2dae895622c8347ba74f7b09452|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=56741bd0ab212d2a9ddce157cdaadcacc2f308757500d6b171700bd76445dd3a.1781419246.1fc54ec9ab170eac743755169fcf58a1.f939aeb602cd82232562e748ab4488b3.1b66b815903a821cb6dcaa43a98cb627&signature=9798a16efab5cf2c6bb119711c285c70ddce46b8b341a718463499c0c3930e0b|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (Sky Sports Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=5ac9767cf2086c514e1599b2c7577a06dacec6a9dcf916cd0d2a1b3ab11976d5.1781402315.01d2b0b1c584acb0a763ef82daf059df.a63d664d46cbf94c862829e9344218b0.e9ba791192c20d900d9709e312453bea&signature=9012d3e12599a8e846183ab656e1d594b32e28bf9909c788c7e78c4474c863a9|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (Sky Sports Main Event)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=74499a1cf11cd8521cfc9e4b692274cb08c108a1b4d229fd342710c92e8ab303.1781402316.c507a5f4f34bb4f5a39105a63b68bfea.61015d682edf0a3656ee4116b29dfadf.f5feb1544d37e8615803ed83cd2e43d5&signature=8dab7d52c258872bef3f3029fb801c0e59a7489399459d9c6a9beb773753304e|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (Sky Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=3a7911e50fba096fc61e07b7d987401027663af775e02557e9d06a66380b9b49.1781402316.d81861a44253d941f95d7c6cc4169f76.d2cc787e5693897c3e6d6e30a09e5c20.6ea1383dea35250e5b4214d09389bea2&signature=df7c4bdf8776046444f5a9e863109061a3649a5b0ab7ac5371b449efec2892e7|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (SuperSport Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=185cce839cef237d235f6cd43d155e282917675e9d4adee4f664a7da0e98fb4d.1781402317.b99dd990fb5d3f712bf05d5118c609aa.e1c641adfbb652c09150046307396d19.07abc2d5817f7f17ed0559ee48aabd8b&signature=7c2ebebd44dc4484f0e73370d8e0b4752b7ec7e37d0c11aa5f6fd55e715b73e8|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] 2nd T20 : West Indies vs Sri Lanka vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 2nd T20 : West Indies vs Sri Lanka vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] 2nd T20 : West Indies vs Sri Lanka vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 2nd T20 : West Indies vs Sri Lanka vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=881ce3200239fdf456498ca8429085071d7d876f4d931e0a2e41c37032f37fd9.1781402317.666060e54cbfc4344522bb78209f6b1c.99134209f1a7e7f085999bf88d55ee28.68c66fc4622ac2347958f42e162f059b&signature=1c95e319d5bca8d04800eabec570953c1a156b96d13034089048682b9ee3a299|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=fafc6a93ecdd104d76a5b6869aef80a9c5c523220ccf2b82a3db0943f3f84e03.1781419247.04c613c4c5a4cbdd1212835418c469df.4b24dcec68e5536def72c3c649c89a63.b11f8b76f1206c2528887957efe34549&signature=a0f1cbc10b14e3afb4e066d2423d635cad2fce0d8758e99bb0c96790debbf41c|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] 2nd T20 : West Indies vs Sri Lanka vs  (TNT Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 2nd T20 : West Indies vs Sri Lanka vs  (TNT Sports 1)
+#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] 2nd T20 : West Indies vs Sri Lanka vs  (TNT Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 2nd T20 : West Indies vs Sri Lanka vs  (TNT Sports 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-1/playlist.m3u8?token=2d3190d6478b6cebf2c492320581ece5795c3228192d32b8ce180702942f359a.1781402318.dcff3458bde988d1534887287e6bca9a.cfb528a18309a80fc5ddf2a4bcb14f38.7c5a45630954f987157d165314214f92&signature=7e6fe2aff9aa62fe001df7b49c048aaac72eebc9ba0777eceaa04645eb78daff|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-1/playlist.m3u8?token=7c0307e33ab89138b409f97a0975a2828f1bc2e94f0e6d6e251ffbcc3178737e.1781419247.d19b3985c9fc6e2b190a03c58dd03346.43a669e695377912a589b9cda6f61532.21b4192c8bd7c86563656b0ae45ce11c&signature=ae41eb47e3678e72e1c6c6897b197766ca9e892a9732b46fbb51c8e66df2b8e1|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] 2nd T20 : West Indies vs Sri Lanka vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 2nd T20 : West Indies vs Sri Lanka vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] 2nd T20 : West Indies vs Sri Lanka vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 2nd T20 : West Indies vs Sri Lanka vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=090027392b2e2c58705be1f81b2b348a5b06512b1b08c02bdecbbaad6ca848df.1781402318.7d5c7685a029123fe2e6e879aeb762f7.d35ae774a755e7cba0713f0f79ec3795.56c060ab3ee83d1a544aa752ee34f7f7&signature=aa86c409ddefab7d9c3275ff2cff2d6d35f4a3cf71abba7c6c7dbdda90bc3329|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=f6e4976df8dd01a491ba74a359aaa4395e93551a6522db7cc80042f9094b7e58.1781419248.1126177e1f46f1938a93e08e2d05b19f.d531420f18ea317612252750d414d508.c4d01e5d661799ab1a3bd8d6ab31313b&signature=343961c51d9ebbd470449d7c1355395fed99e7638f50a7ed9958753586319f3a|x-forwarded-for:77.238.79.111
 
