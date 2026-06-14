@@ -1,37 +1,49 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Cricket.1" tvg-name="[Cricket] 2nd T20 : West Indies vs Sri Lanka vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 2nd T20 : West Indies vs Sri Lanka vs  (Willow Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="1" tvg-id="Cricket.1" tvg-name="[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Willow 2 Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=4b1ca617838e7ba2d3af6634516b7a3b76fa19d76b0cb928d47e066b7c693f7a.1781419245.68661400a2e5fb5ec043916b7d9d9c1e.cbf6a35ae35cc2a4b5e6fc332aad13bc.1cb36402592e6e6eb8cdff7bdbfe2541&signature=a2dfeffca199a98b8a299e67bce39accaaa0b1874c2adfdc3d0e49a1f654e03e|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=fa2926703d8324c97dd25267038a54e8ebeea7b5ca6006de8ca730508b77de83.1781432431.c8da9fc7af494a0a52868d07752151e8.36b2c314cd1f496000d8e5b41de5a4f1.6d97787c60db0bac98666896f34271fb&signature=963c70b607418ab01ea1c7ea6354ec379d4edda48eb3fc38c22dda7477df74d8|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] 2nd T20 : West Indies vs Sri Lanka vs  (TNT Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 2nd T20 : West Indies vs Sri Lanka vs  (TNT Sports 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Sky Sports Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-1/playlist.m3u8?token=686c5bad7cf6f17e793126e8e440dd4e8a43496dd09bc6b1829211ef1e7bf625.1781419246.8f551082e97847fd54c21cf027e0ee41.19bd2cb9a18fe81e24f7ad6c12adb244.6fedf33c27b774f960e0e69e72cd9524&signature=17389991c18b67c81db9f1805f066bbebaa94908b10a6d2ffcb76b46523df994|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=bc1cd8e4d97c0d04d1468abfe8d01c6332030b3799c55e0fc92f4b88ef2a0773.1781432433.dfb7922eee592e8912e1753ff33e6a5f.a0c85bb2a0f709099a1ad2e471d0dae5.ba624870f1e6465b1a7d0bd4947e1a8b&signature=31549ce49a3910b347f09488ae2a2f515474e2c9f5705fdd238af59aebfba25d|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] 2nd T20 : West Indies vs Sri Lanka vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 2nd T20 : West Indies vs Sri Lanka vs  (SuperSport Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Sky Sports Main Event)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=56741bd0ab212d2a9ddce157cdaadcacc2f308757500d6b171700bd76445dd3a.1781419246.1fc54ec9ab170eac743755169fcf58a1.f939aeb602cd82232562e748ab4488b3.1b66b815903a821cb6dcaa43a98cb627&signature=9798a16efab5cf2c6bb119711c285c70ddce46b8b341a718463499c0c3930e0b|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=87942a3634c07cb5a8131692a2e71d40019f9bdac1a8ab420041533db03716b0.1781432433.cca05b65a25dfc5aedbf43ee0d9205d1.2967f75172fd7066af4b6bb1d5b2d182.01f886211884808423fca803fb2332a8&signature=3cd6369e07e26dc16cc9f313aeb06e5aec898e5a709e03038f5315df303c4578|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] 2nd T20 : West Indies vs Sri Lanka vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 2nd T20 : West Indies vs Sri Lanka vs  (Willow Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Sky Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=fafc6a93ecdd104d76a5b6869aef80a9c5c523220ccf2b82a3db0943f3f84e03.1781419247.04c613c4c5a4cbdd1212835418c469df.4b24dcec68e5536def72c3c649c89a63.b11f8b76f1206c2528887957efe34549&signature=a0f1cbc10b14e3afb4e066d2423d635cad2fce0d8758e99bb0c96790debbf41c|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=93be4f31a79170798e33173a7ceda2ed492d655b6ab7c8323fe74b5c71853877.1781432434.a140d661dc2bbb178ffc8c9f801eea96.d84359486b038d219d8d92c299237b76.2640e6eb85b047b52743cd5379e8c887&signature=14f5224db27791160ecef681b298addaa81b76896a550663d35ba29e7f4685e5|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] 2nd T20 : West Indies vs Sri Lanka vs  (TNT Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 2nd T20 : West Indies vs Sri Lanka vs  (TNT Sports 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Willow 2 Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-1/playlist.m3u8?token=7c0307e33ab89138b409f97a0975a2828f1bc2e94f0e6d6e251ffbcc3178737e.1781419247.d19b3985c9fc6e2b190a03c58dd03346.43a669e695377912a589b9cda6f61532.21b4192c8bd7c86563656b0ae45ce11c&signature=ae41eb47e3678e72e1c6c6897b197766ca9e892a9732b46fbb51c8e66df2b8e1|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=16fe61fd15d476bae074d2e361478b0c516881e0fc327c8d0274005d87f26bca.1781432434.7c088b620e9e0fb4927250f35e902474.442d9ec664834a88389cb2ef0b84d979.9a4efa69a8d5ac3f01502ba459112cca&signature=3a371581b2cd236bddf5e7e07870b769a1804b5ff15074d7a63034f28f80ef3e|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] 2nd T20 : West Indies vs Sri Lanka vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 2nd T20 : West Indies vs Sri Lanka vs  (SuperSport Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Sky Sports Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=f6e4976df8dd01a491ba74a359aaa4395e93551a6522db7cc80042f9094b7e58.1781419248.1126177e1f46f1938a93e08e2d05b19f.d531420f18ea317612252750d414d508.c4d01e5d661799ab1a3bd8d6ab31313b&signature=343961c51d9ebbd470449d7c1355395fed99e7638f50a7ed9958753586319f3a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=aa69a9aa4ce6a3a3d873b9ac7eb9c10ee89536e2449b819d00f8e69e7c4d1360.1781432435.be4abced4c8ef02eb262d64d1a0f25c0.7677667fc219583c6671b7b911962e0e.30e4bbae7bee2f31fd74025353f53326&signature=8f08b40f83900d869e2cd4199fc03c6e8c16539b6247832974f9eb83ec4b369f|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Sky Sports Main Event)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=c7f4664dd70dc7b20a30aa675419f18e6f3da2235fc35a9461bb308685ae27dc.1781432435.9e4ed9a50eebd471a795c88090129bdf.57186cb58f9f754293341bd540769b43.2d251a0bdf846d7b0543ececb523c562&signature=aeafcdd76228b76e8f9a259bf672551eb4c7dcf293b8a11d1de6c0b59d9bee2a|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Sky Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=d219137eee8fbfad6061f57b7d8992f84f5c2acbf9323162cac5b018dbc268e8.1781432436.da862f1f334ac90f635cb1e8cc83f6db.290493ac26a9b3c7bd4fb8cd073776f1.26ba07fbe4f843441137d4ce79bd4c6d&signature=29c9f6a3c01720a8c5a6b2c3b29b208e28f378971c86876f8ab6d3fafaca839e|x-forwarded-for:77.238.79.111
 
